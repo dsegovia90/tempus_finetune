@@ -97,9 +97,12 @@ headers, as `serve.py` does, the service worker is not installed.
 
 - `vendor/onnxruntime-web/`: `onnxruntime-web` **1.31.1** from npm (`dist/ort.wasm.min.mjs`,
   `dist/ort-wasm-simd-threaded.mjs`, `dist/ort-wasm-simd-threaded.wasm`: the WASM-only build, no
-  WebGPU; MIT licence, `LICENSE` from the onnxruntime repo at v1.31.1). The `.wasm` is 14.8 MB
-  (3.8 MB gzipped), more than the 8-bit model itself.
-- `vendor/wllama/`: `@wllama/wllama` **3.13.0** from npm (`esm/index.js`, `esm/wasm/wllama.wasm`,
+  WebGPU; MIT licence, `LICENSE` from the onnxruntime repo at v1.31.1). The two `.mjs` files
+  are stored here as `.js`, unchanged, because some static hosts serve `.mjs` with a content
+  type that browsers refuse for modules. The `.wasm` is 14.8 MB (3.8 MB gzipped), more than
+  the 8-bit model itself.
+- `vendor/wllama/`: `@wllama/wllama` **3.13.0** from npm (`esm/index.js` and `esm/wasm/wllama.wasm`, stored here as
+  `index.js` and `wasm/wllama.wasm`;
   MIT licence), built on llama.cpp `b12211-7d7f028`. `vendor/wllama-compat/`:
   `@wllama/wllama-compat` **3.13.0** (`wasm/wllama.js`, `wasm/wllama.wasm`, MIT), the Asyncify
   build wllama needs on browsers without JSPI or Memory64 (Safari). Both `wllama.wasm` files

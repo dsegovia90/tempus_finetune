@@ -2,7 +2,7 @@
 // token as outside a time, beginning one or continuing one, and at each beginning token gives
 // the hour and the minute (in 5-minute steps). No code finds numbers or reads digits; code only
 // turns the tags back into spans of the message and prints the reply.
-import * as ort from '../vendor/onnxruntime-web/ort.wasm.min.mjs';
+import * as ort from '../vendor/onnxruntime-web/ort.wasm.min.js';
 import { WordPiece } from '../tagger/wordpiece.js';
 import { locate } from './source.js';
 
@@ -14,7 +14,12 @@ const WIDTHS = { tag: 3, hour: 24, minute: 12 }; // classes per output
 const MINUTE_STEP = 5;
 const RAW_TITLE = 'Model output: its top choice for each token (the times above are assembled from these by code)';
 
-ort.env.wasm.wasmPaths = here('../vendor/onnxruntime-web/');
+// Named in full because the runtime would otherwise ask for its loader as a .mjs file, which
+// some static hosts serve with a content type browsers refuse for modules.
+ort.env.wasm.wasmPaths = {
+  mjs: here('../vendor/onnxruntime-web/ort-wasm-simd-threaded.js'),
+  wasm: here('../vendor/onnxruntime-web/ort-wasm-simd-threaded.wasm'),
+};
 ort.env.wasm.numThreads = 1; // one short message through a tiny model: worker threads cost more than they save
 
 export class Tagger {
