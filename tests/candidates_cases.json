@@ -1,0 +1,237 @@
+[
+ {
+  "message": "dinner at 7?",
+  "candidates": [
+   {
+    "text": "7",
+    "start": 10,
+    "fixed": null,
+    "marked": false
+   }
+  ]
+ },
+ {
+  "message": "I'm free tomorrow from noon to 4pm",
+  "candidates": [
+   {
+    "text": "noon",
+    "start": 23,
+    "fixed": 720,
+    "marked": true
+   },
+   {
+    "text": "4pm",
+    "start": 31,
+    "fixed": 960,
+    "marked": true
+   }
+  ]
+ },
+ {
+  "message": "open 9 to 9, then 11-1pm",
+  "candidates": [
+   {
+    "text": "9",
+    "start": 5,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "9",
+    "start": 10,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "11",
+    "start": 18,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "1pm",
+    "start": 21,
+    "fixed": 780,
+    "marked": true
+   }
+  ]
+ },
+ {
+  "message": "meet at 7:05 a.m. or 3 PM or 4 p.m",
+  "candidates": [
+   {
+    "text": "7:05 a.m.",
+    "start": 8,
+    "fixed": 425,
+    "marked": true
+   },
+   {
+    "text": "3 PM",
+    "start": 21,
+    "fixed": 900,
+    "marked": true
+   },
+   {
+    "text": "4 p.m",
+    "start": 29,
+    "fixed": 960,
+    "marked": true
+   }
+  ]
+ },
+ {
+  "message": "Midnight snack at 12am, lunch at 12, 12:45 or 12pm",
+  "candidates": [
+   {
+    "text": "Midnight",
+    "start": 0,
+    "fixed": 0,
+    "marked": true
+   },
+   {
+    "text": "12am",
+    "start": 18,
+    "fixed": 0,
+    "marked": true
+   },
+   {
+    "text": "12",
+    "start": 33,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "12:45",
+    "start": 37,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "12pm",
+    "start": 46,
+    "fixed": 720,
+    "marked": true
+   }
+  ]
+ },
+ {
+  "message": "standup 09:30, deploy 15:00, cutoff 24:00, 0:30 sharp",
+  "candidates": [
+   {
+    "text": "09:30",
+    "start": 8,
+    "fixed": 570,
+    "marked": false
+   },
+   {
+    "text": "15:00",
+    "start": 22,
+    "fixed": 900,
+    "marked": false
+   },
+   {
+    "text": "24:00",
+    "start": 36,
+    "fixed": 0,
+    "marked": false
+   },
+   {
+    "text": "0:30",
+    "start": 43,
+    "fixed": 30,
+    "marked": false
+   }
+  ]
+ },
+ {
+  "message": "6ish works, or 3 am",
+  "candidates": [
+   {
+    "text": "6",
+    "start": 0,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "3 am",
+    "start": 15,
+    "fixed": 180,
+    "marked": true
+   }
+  ]
+ },
+ {
+  "message": "room 3, back in 5, a 30 minute call, 1:1 at 2, 16:9 screen",
+  "candidates": [
+   {
+    "text": "3",
+    "start": 5,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "5",
+    "start": 16,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "2",
+    "start": 44,
+    "fixed": null,
+    "marked": false
+   }
+  ]
+ },
+ {
+  "message": "score 2-0, 11/12, the 5th, 3.5 stars, $20, 50%, 1,000 people, v2, 3rd, 25 people, 10:61",
+  "candidates": [
+   {
+    "text": "2",
+    "start": 6,
+    "fixed": null,
+    "marked": false
+   },
+   {
+    "text": "0",
+    "start": 8,
+    "fixed": 0,
+    "marked": false
+   }
+  ]
+ },
+ {
+  "message": "finished in 3:45:10, 2h, 5min, I am 3 amazing",
+  "candidates": [
+   {
+    "text": "3",
+    "start": 36,
+    "fixed": null,
+    "marked": false
+   }
+  ]
+ },
+ {
+  "message": "Q3 kickoff at 9AM, 7:30pm or 10:15 PM EST",
+  "candidates": [
+   {
+    "text": "9AM",
+    "start": 14,
+    "fixed": 540,
+    "marked": true
+   },
+   {
+    "text": "7:30pm",
+    "start": 19,
+    "fixed": 1170,
+    "marked": true
+   },
+   {
+    "text": "10:15 PM",
+    "start": 29,
+    "fixed": 1335,
+    "marked": true
+   }
+  ]
+ }
+]

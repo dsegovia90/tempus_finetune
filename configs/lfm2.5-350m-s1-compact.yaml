@@ -1,0 +1,8 @@
+model: LiquidAI/LFM2.5-350M
+loader: FastLanguageModel
+data: data/generated/train.jsonl
+format: compact
+learning_rate: 2.0e-4
+epochs: 3
+seed: 1
+target_modules: [q_proj, k_proj, v_proj, out_proj, in_proj, w1, w2, w3]  # conv blocks too

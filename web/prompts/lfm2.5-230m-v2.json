@@ -1,0 +1,21 @@
+{
+ "prefix": "<|im_start|>user\n",
+ "suffix": "<|im_end|>\n<|im_start|>assistant\n",
+ "add_bos": true,
+ "prefix_ids": [
+  1,
+  6,
+  6423,
+  708
+ ],
+ "suffix_ids": [
+  7,
+  708,
+  6,
+  64015,
+  708
+ ],
+ "bos_token_id": 1,
+ "eos_token": "<|im_end|>",
+ "max_new_tokens": 160
+}

@@ -1,0 +1,22 @@
+{"id": "train2-00185", "slice": "none", "text": "Pizza tonight?", "reasons": ["duplicate message"]}
+{"id": "train2-00253", "slice": "implicit", "text": "toddler music class at the library is at 10 on saturday and sunday mass is at 10:30 so we cant do both lol, also the rec team lost 2-1", "reasons": ["checker read it as []"]}
+{"id": "train2-00289", "slice": "implicit", "text": "rowing crew is out on the river at 7 before lectures, then sunday mass at the parish church at 11, my life is basically rowing 24/7", "reasons": ["checker read it as []"]}
+{"id": "train2-00471", "slice": "cue", "text": "dinner prep starts at 5:30 in the afternoon, the bit where he cracks up is around 1:15 in the video", "reasons": ["checker read it as []"]}
+{"id": "train2-01011", "slice": "none", "text": "Running 20 late, start without me.", "reasons": ["duplicate message"]}
+{"id": "train2-01183", "slice": "range", "text": "Kids' swimming is 4-5:30 pm, lane 3, bring 2 towels 🏊", "reasons": ["checker read it as []"]}
+{"id": "train2-01352", "slice": "none", "text": "Coffee after lunch?", "reasons": ["duplicate message"]}
+{"id": "train2-01545", "slice": "cue", "text": "Reminder that the team call is at 9:30 in the evening, and please try version 5.1.4 of the app before then. Thank you!", "reasons": ["checker read it as []"]}
+{"id": "train2-01556", "slice": "none", "text": "back in 5", "reasons": ["duplicate message"]}
+{"id": "train2-01849", "slice": "explicit", "text": "grandpa's flight lands 3:45pm and the table is booked for 6 so everyone come hungry. his last one left at 2:10am and sat delayed for 3 hours so fingers crossed", "reasons": ["checker read it as [('3:45pm', 945), ('6', 1080), ('2:10am', 130)]"]}
+{"id": "train2-01850", "slice": "explicit", "text": "Our 1:1 is at 14:05 CET, not 14:00, I mean the calender invite got it wrong.", "reasons": ["checker read it as [('14:05', 845), ('14:00', 840)]"]}
+{"id": "train2-02128", "slice": "implicit", "text": "Restocking the shuttered supermarket since 5, dark aisles, shoppers not allowed in till the next day. Team of us for 4 aisles.", "reasons": ["checker read it as [('5', 1020)]"]}
+{"id": "train2-02247", "slice": "implicit", "text": "Joining the retirees for tai chi in the park on the 14th, they start at 6 before breakfast evryone says it's amazing.", "reasons": ["checker read it as []"]}
+{"id": "train2-02324", "slice": "explicit", "text": "The pager went off at 2:45 AM on the 9th and the outage lasted 3 hours. We had 12 tickets by the time I woke.", "reasons": ["checker read it as []"]}
+{"id": "train2-02365", "slice": "cue", "text": "The migration is scheduled for 3 in the morning, tracked under ticket 5512. Please keep your phones on.", "reasons": ["checker read it as []"]}
+{"id": "train2-02735", "slice": "implicit", "text": "doors open at 10, the queue is wrapped round the block. give me 5", "reasons": ["checker read it as [('10', 600)]"]}
+{"id": "train2-02773", "slice": "explicit", "text": "Hello! I'm sorry in advance, the call with our Tokyo team is at 2:50 AM GMT, and I'll be setting the monitor to 16:9 for the screen share.", "reasons": ["checker read it as []"]}
+{"id": "train2-02784", "slice": "cue", "text": "the landlord is coming at 2:30 this afternoon, he last fixed anything back in 2021 so don't expect much", "reasons": ["checker read it as []"]}
+{"id": "train2-03020", "slice": "none", "text": "running 20 late, start without me", "reasons": ["duplicate message"]}
+{"id": "train2-03036", "slice": "implicit", "text": "Final curtain just fell and the whole crowd is spilling out of the theatre, home by 11. Nice break from my 9 to 5.", "reasons": ["checker read it as []"]}
+{"id": "train2-03314", "slice": "none", "text": "running 20 late, start without me", "reasons": ["duplicate message"]}
+{"id": "train2-03348", "slice": "none", "text": "Let's grab coffee after lunch ☕", "reasons": ["duplicate message"]}

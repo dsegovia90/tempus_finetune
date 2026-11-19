@@ -1,0 +1,7 @@
+model: Qwen/Qwen3.5-0.8B
+loader: FastLanguageModel
+data: data/generated/train.jsonl
+format: json
+learning_rate: 2.0e-4
+epochs: 3
+seed: 0

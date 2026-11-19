@@ -1,0 +1,399 @@
+{"id": "pilot2-00000", "slice": "none", "text": "Hi Marcus, the rebrand video is exported in 16:9 like you asked, link below. Also, congrats on the team's win, final score was 3-1 and I heard it was a good one. Sorry for the delay, had a bussy week.", "times": []}
+{"id": "pilot2-00001", "slice": "cue", "text": "Can you push the vendor call to 10:15 in the morning? Anita is out until then. I'll resend the invite after.", "times": [{"text": "10:15", "minute": 615}]}
+{"id": "pilot2-00002", "slice": "fallback", "text": "around 12", "times": [{"text": "12", "minute": 720}]}
+{"id": "pilot2-00003", "slice": "explicit", "text": "Dear Sam, I expect to be home by 10:40pm, as the last train is running slowly. Please do not wait for me to have dinner.", "times": [{"text": "10:40pm", "minute": 1360}]}
+{"id": "pilot2-00004", "slice": "implicit", "text": "Team, a reminder that the early shift on the assembly line clocks in at 6, so please be at the plant gate with your badges ready. Thank you.", "times": [{"text": "6", "minute": 360}]}
+{"id": "pilot2-00005", "slice": "cue", "text": "reminder the deploy window opens at 5:30 tomorrow morning, pleae be online", "times": [{"text": "5:30", "minute": 330}]}
+{"id": "pilot2-00006", "slice": "none", "text": "Booked in our 1:1 for Thursday, no time yet. Bring your roadmap questions. I also want to talk through the hiring plan.", "times": []}
+{"id": "pilot2-00007", "slice": "implicit", "text": "Sofia, tell Mama I'm still driving 🚕 the clubs only empty out around 2 and I want those last fares. Saturday's dinner reservation is for 11, normal Madrid hours 😄", "times": [{"text": "2", "minute": 120}, {"text": "11", "minute": 1380}]}
+{"id": "pilot2-00008", "slice": "implicit", "text": "Consultant's rounds just finished and they're sending me home. Can you pick me up from the ward entrance at 3:30? The nurse only needs to sign my discharge papers.", "times": [{"text": "3:30", "minute": 930}]}
+{"id": "pilot2-00009", "slice": "cue", "text": "Hi Priya, we can walk you through the dashboard at 7 tonight if that suits you. Let me know and I'll send a link.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00010", "slice": "implicit", "text": "@Jess are you coming to the daily standup at 9? I'll save you a seat by the window.", "times": [{"text": "9", "minute": 540}]}
+{"id": "pilot2-00011", "slice": "none", "text": "@dev-team build 4521 is green on staging and v3.8.2 is tagged. Please hold off merging anything until Priya signs off.", "times": []}
+{"id": "pilot2-00012", "slice": "fallback", "text": "8", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00013", "slice": "implicit", "text": "Packing up the stall at 5 today since trading is dead 😅 do you need anything from the veg stands before they close? I can swing by the flat after.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00014", "slice": "implicit", "text": "just got to rod laver arena for the australian open final, first serve is at 8 under the lights and the whole crowd is buzzing", "times": [{"text": "8", "minute": 1200}]}
+{"id": "pilot2-00015", "slice": "implicit", "text": "@Dan the late bus brings the kids home from clubs and drops Ellie at the corner at 5, can you meet her? I have the dentist.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00016", "slice": "implicit", "text": "Happy new year! The countdown is done and the after-party at the hotel bar runs until 3.", "times": [{"text": "3", "minute": 180}]}
+{"id": "pilot2-00017", "slice": "implicit", "text": "@Mr Okafor your grocery delivery is booked for after work, arriving at 7:30 so you should be home. Bags can go with a neighbour if not.", "times": [{"text": "7:30", "minute": 1170}]}
+{"id": "pilot2-00018", "slice": "explicit", "text": "Slots: 14:05 tennis, 1:10 PM padel on Sunday, 7:10 a.m. swim, 45 min each", "times": [{"text": "14:05", "minute": 845}, {"text": "1:10 PM", "minute": 790}, {"text": "7:10 a.m.", "minute": 430}]}
+{"id": "pilot2-00019", "slice": "cue", "text": "Can you take the bins out at 10:30 tonight? 🗑️ I'm at the gym until then.", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "pilot2-00020", "slice": "fallback", "text": "around 6", "times": [{"text": "6", "minute": 360}]}
+{"id": "pilot2-00021", "slice": "explicit", "text": "@Ravi the landlord's electrician is coming at 9:45 AM GMT on Friday, can you let him in? I'll be at work.", "times": [{"text": "9:45 AM", "minute": 585}]}
+{"id": "pilot2-00022", "slice": "none", "text": "heading to nana's now, will be back in a bit. tell dad to start the grill in an hour or so", "times": []}
+{"id": "pilot2-00023", "slice": "implicit", "text": "the last of the dinner guests finally left at 11 so i'm useless tomorrow, but we have to be in the piazza for the palio at 7", "times": [{"text": "11", "minute": 1380}, {"text": "7", "minute": 1140}]}
+{"id": "pilot2-00024", "slice": "explicit", "text": "Hello Tom, the plumber will arrive at 14:00 and stay for about 30 minutes. I have set the boiler timer to switch off at 12:20 am, so please do not be alarmed.", "times": [{"text": "14:00", "minute": 840}, {"text": "12:20 am", "minute": 20}]}
+{"id": "pilot2-00025", "slice": "implicit", "text": "Lovely to see you. I will be at the cafe with the other parents after the school run, around 9, if you would like to join us.", "times": [{"text": "9", "minute": 540}]}
+{"id": "pilot2-00026", "slice": "explicit", "text": "Thanks for flagging that. Our team will have the corrected invoice back to you by 11:45PM today.", "times": [{"text": "11:45PM", "minute": 1425}]}
+{"id": "pilot2-00027", "slice": "none", "text": "Heads up: the fix is in v2.14.0 and build 3307 passed QA. Let me know if you want the changelog. I'll post it in the doc anyway.", "times": []}
+{"id": "pilot2-00028", "slice": "explicit", "text": "Yep, saw that. The backup finished at 9:05PM and ran for 40 minutes, no errors.", "times": [{"text": "9:05PM", "minute": 1265}]}
+{"id": "pilot2-00029", "slice": "implicit", "text": "Can't make the sync, I'm visiting grandma after Sunday lunch and we leave around 4. Ping me on Monday and I'll catch up.", "times": [{"text": "4", "minute": 960}]}
+{"id": "pilot2-00030", "slice": "implicit", "text": "@Dana sorry I replied so late. A wrong-number call at 1 woke the whole house and none of us got back to sleep.", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00031", "slice": "explicit", "text": "Reminder that the quiz league meets at 7:40 pm sharp, and we need six players on each team. Thank you all.", "times": [{"text": "7:40 pm", "minute": 1180}]}
+{"id": "pilot2-00032", "slice": "implicit", "text": "Got back from taraweeh at the mosque around 10 after breaking the fast. Then some guy in the hostel dorm stumbled in at 2:30 and switched on all the lights. Nobody is happy.", "times": [{"text": "10", "minute": 1320}, {"text": "2:30", "minute": 150}]}
+{"id": "pilot2-00033", "slice": "cue", "text": "Grandma's coming at 5 this afternoon, can someone get the spare room ready? 🛏️", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00034", "slice": "implicit", "text": "baby arrived at 3 while the whole city was asleep, both doing great, we're all so tired", "times": [{"text": "3", "minute": 180}]}
+{"id": "pilot2-00035", "slice": "explicit", "text": "Hospital called, Dad's fever broke at 2:35AM after 3 rounds of medicine. He's sleeping now.", "times": [{"text": "2:35AM", "minute": 155}]}
+{"id": "pilot2-00036", "slice": "range", "text": "Ping me between 3:15 and 4:45 p.m. only, I'm in reviews", "times": [{"text": "3:15", "minute": 915}, {"text": "4:45 p.m.", "minute": 1005}]}
+{"id": "pilot2-00037", "slice": "none", "text": "psuhed v4.1.0 to the app store, it's build 982 if you want to test it", "times": []}
+{"id": "pilot2-00038", "slice": "explicit", "text": "Flight is 6:20 AM so I need to leave 2 hours before. Sorry in advance if I'm grumpy 😅", "times": [{"text": "6:20 AM", "minute": 380}]}
+{"id": "pilot2-00039", "slice": "none", "text": "Dear Ms Chen, your promo video is exported in 16:9 as requested. Also, congratulations to your staff team on the friendly match, the final score was 3-1.", "times": []}
+{"id": "pilot2-00040", "slice": "explicit", "text": "Landing at 19:10 CET, can you pick me up? 🚗", "times": [{"text": "19:10", "minute": 1150}]}
+{"id": "pilot2-00041", "slice": "explicit", "text": "Lunch with your mum is at 12:20 PM, remember to wear the nice shirt 😄", "times": [{"text": "12:20 PM", "minute": 740}]}
+{"id": "pilot2-00042", "slice": "cue", "text": "dinner reservation is at 7 this evening, i'll meet you at the restaurant", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00043", "slice": "cue", "text": "Flight got delayed, so Aunt Meena now lands at 2:30 in the morning. We should probaly leave the key out.", "times": [{"text": "2:30", "minute": 150}]}
+{"id": "pilot2-00044", "slice": "explicit", "text": "Retro moved to 9:30PM for the APAC folks, should only take 30 mins. Remeber to bring your notes", "times": [{"text": "9:30PM", "minute": 1290}]}
+{"id": "pilot2-00045", "slice": "cue", "text": "Mum, please set an alarm: the next dose for Grandpa is due at 1:45 in the morning. Thank you, Auntie.", "times": [{"text": "1:45", "minute": 105}]}
+{"id": "pilot2-00046", "slice": "implicit", "text": "Thanks for the invite, but dog agility class is on Saturday at 9 and then we have the kids' bedtime at 7:15, so we'll have to pass on the workshop.", "times": [{"text": "9", "minute": 540}, {"text": "7:15", "minute": 1155}]}
+{"id": "pilot2-00047", "slice": "none", "text": "Sync should take about 20 minutes, no slides needed.", "times": []}
+{"id": "pilot2-00048", "slice": "explicit", "text": "just landed in lisbon, 01:40 on my watch, and my bag is stil not here", "times": [{"text": "01:40", "minute": 100}]}
+{"id": "pilot2-00049", "slice": "implicit", "text": "I'm dropping the car at the garage for its service at 8 before work. The earyl shift at the plant starts at 5:45 tomorrow so I'm going to bed soon.", "times": [{"text": "8", "minute": 480}, {"text": "5:45", "minute": 345}]}
+{"id": "pilot2-00050", "slice": "none", "text": "Hi, your ticket number is 88214 and order 3719 has shipped. Let me know if port 8443 is blocked on your end.", "times": []}
+{"id": "pilot2-00051", "slice": "implicit", "text": "Dragging myself to the lunchtime lecture at 11:30, then the passeggiata at 7.", "times": [{"text": "11:30", "minute": 690}, {"text": "7", "minute": 1140}]}
+{"id": "pilot2-00052", "slice": "implicit", "text": "last flight of the day lands at 11, can u come get me", "times": [{"text": "11", "minute": 1380}]}
+{"id": "pilot2-00053", "slice": "implicit", "text": "last screening of the day is at 9:30, still want to go?", "times": [{"text": "9:30", "minute": 1290}]}
+{"id": "pilot2-00054", "slice": "implicit", "text": "Reminder that Prime Minister's Questions in the House of Commons starts at 12 today. Grandad would like us all to watch it. Please do put the television on.", "times": [{"text": "12", "minute": 720}]}
+{"id": "pilot2-00055", "slice": "cue", "text": "kickoff at 11 late tonight, pub or home?", "times": [{"text": "11", "minute": 1380}]}
+{"id": "pilot2-00056", "slice": "none", "text": "we lost 2-0 but honestly the keeper was unreal 🧤 see you at training", "times": []}
+{"id": "pilot2-00057", "slice": "implicit", "text": "@Karl the cleaning crew will be vacuuming the empty multiplex after the last screening, they'll be there at 2 so lock up behind them.", "times": [{"text": "2", "minute": 120}]}
+{"id": "pilot2-00058", "slice": "none", "text": "Dad's birthday is on the 14th, so let's all chip in for a present. I'll organise it, but dont tell him, he's alway nosy about birthdya stuff.", "times": []}
+{"id": "pilot2-00059", "slice": "cue", "text": "my phone went off at 1:30 in the middle of the night, was that you in the kitchen?", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "pilot2-00060", "slice": "none", "text": "thanks for covering my shift, I owe you a coffe", "times": []}
+{"id": "pilot2-00061", "slice": "none", "text": "Hello everyone, I will ring you back in a little while once I have taken the dog out. Please save me a plate.", "times": []}
+{"id": "pilot2-00062", "slice": "fallback", "text": "at 6 then", "times": [{"text": "6", "minute": 360}]}
+{"id": "pilot2-00063", "slice": "fallback", "text": "around 7:30", "times": [{"text": "7:30", "minute": 450}]}
+{"id": "pilot2-00064", "slice": "range", "text": "gonna be offline from 4 to 6 am, router maintenance", "times": [{"text": "4", "minute": 240}, {"text": "6 am", "minute": 360}]}
+{"id": "pilot2-00065", "slice": "explicit", "text": "Yep, 6 AM works for us.", "times": [{"text": "6 AM", "minute": 360}]}
+{"id": "pilot2-00066", "slice": "cue", "text": "Yes, 2 in the afternoon works for me, I'll take the car.", "times": [{"text": "2", "minute": 840}]}
+{"id": "pilot2-00067", "slice": "none", "text": "Only 9 of us turned up, and 3 bikes had flats.", "times": []}
+{"id": "pilot2-00068", "slice": "fallback", "text": "around 3:45", "times": [{"text": "3:45", "minute": 225}]}
+{"id": "pilot2-00069", "slice": "none", "text": "The coffee machine on our floor is broken again, I've asked facilities to take a lok", "times": []}
+{"id": "pilot2-00070", "slice": "range", "text": "Free from 6 to 6:30 pm if you want to sync", "times": [{"text": "6", "minute": 1080}, {"text": "6:30 pm", "minute": 1110}]}
+{"id": "pilot2-00071", "slice": "none", "text": "Rent is due on the 3rd, I already transferred my half.", "times": []}
+{"id": "pilot2-00072", "slice": "implicit", "text": "@Lena the groomers are out on the pistes at 1 with the lifts shut, you can see their headlights from the hut", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00073", "slice": "implicit", "text": "the restraunt kitchen starts dinner service at 6, come by if you wanna see the new menu", "times": [{"text": "6", "minute": 1080}]}
+{"id": "pilot2-00074", "slice": "cue", "text": "dont lock the deadbolt, i'll be back at 11 tonight", "times": [{"text": "11", "minute": 1380}]}
+{"id": "pilot2-00075", "slice": "none", "text": "Reminder to everyone that coach does 1:1 sessions after the tournament, sign up on the sheet! 🏀", "times": []}
+{"id": "pilot2-00076", "slice": "implicit", "text": "Our tour of the Vatican Museums starts at 8:30, right as the doors open. Meet me at the entrance. We'll queue together.", "times": [{"text": "8:30", "minute": 510}]}
+{"id": "pilot2-00077", "slice": "implicit", "text": "Heads up, the office fire drill is at 11, so I'll be standing in the car park with half the building. Keep your phone on you.", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00078", "slice": "explicit", "text": "Dear Ms Reyes, your table for a party of four is confirmed for 8:40 PM, with a fifteen-minute grace period. Please let us know if the group grows.", "times": [{"text": "8:40 PM", "minute": 1240}]}
+{"id": "pilot2-00079", "slice": "implicit", "text": "this club in madrid doesn't even fill up until 2 after the bars close, i'm so tired 😭", "times": [{"text": "2", "minute": 120}]}
+{"id": "pilot2-00080", "slice": "implicit", "text": "the piste groomers are out working the slopes at 3 while the lifts are shut, can hear them from the chalet and its loud", "times": [{"text": "3", "minute": 180}]}
+{"id": "pilot2-00081", "slice": "fallback", "text": "ok 6:15", "times": [{"text": "6:15", "minute": 375}]}
+{"id": "pilot2-00082", "slice": "implicit", "text": "Cleaners work through all floors at 9:15 once your staff have gone home, so please clear desks.", "times": [{"text": "9:15", "minute": 1275}]}
+{"id": "pilot2-00083", "slice": "cue", "text": "We're meeting at the pitch at 6 tonight, bring your own bibs. Please don't be late.", "times": [{"text": "6", "minute": 1080}]}
+{"id": "pilot2-00084", "slice": "none", "text": "Sounds good, let's catch up when you're free.", "times": []}
+{"id": "pilot2-00085", "slice": "range", "text": "I can be on site from 3:30 to 6:30PM, does that suit?", "times": [{"text": "3:30", "minute": 930}, {"text": "6:30PM", "minute": 1110}]}
+{"id": "pilot2-00086", "slice": "none", "text": "Thank you for your patience. We will update you as soon as the team has reviewed your request.", "times": []}
+{"id": "pilot2-00087", "slice": "explicit", "text": "Result posted at 11:05 p.m., sorry for the delay", "times": [{"text": "11:05 p.m.", "minute": 1385}]}
+{"id": "pilot2-00088", "slice": "none", "text": "Rough one, we lost 3-2 after leading most of the game. Everyone still played well though. Training is on Thursday.", "times": []}
+{"id": "pilot2-00089", "slice": "none", "text": "Booked it! Order number 55021 🎟️ the confirmation is in your email", "times": []}
+{"id": "pilot2-00090", "slice": "implicit", "text": "Vigils, the first prayer service of the day at the monastery, begins at 4 so the brothers are in chapel before dawn. Please do not arrive late.", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00091", "slice": "implicit", "text": "Our group sets out to climb Mount Sinai at 2 so we reach the top for sunrise. Please leave the door unlocked for us.", "times": [{"text": "2", "minute": 120}]}
+{"id": "pilot2-00092", "slice": "range", "text": "@Ola the delivery will turn up between 2:05pm and 6:05 PM, please sign for it", "times": [{"text": "2:05pm", "minute": 845}, {"text": "6:05 PM", "minute": 1085}]}
+{"id": "pilot2-00093", "slice": "implicit", "text": "The freshers' fair opens on campus at 10, so please send the volunteers to set up the stall at the union beforehand. Thank you.", "times": [{"text": "10", "minute": 600}]}
+{"id": "pilot2-00094", "slice": "explicit", "text": "Dear Karen, the call is at 15:30 GMT and the backup completes by 5:50 a.m. Thank you for your help.", "times": [{"text": "15:30", "minute": 930}, {"text": "5:50 a.m.", "minute": 350}]}
+{"id": "pilot2-00095", "slice": "implicit", "text": "final set at 1 and it's just the regulars left 🎷 come down if you can", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00096", "slice": "explicit", "text": "we have to pick up three friends before 9 PM 🍕 i'll text when i'm outside", "times": [{"text": "9 PM", "minute": 1260}]}
+{"id": "pilot2-00097", "slice": "implicit", "text": "The races on the school sports day start at 2:30, so I'll leave work early. Mum has the blankets.", "times": [{"text": "2:30", "minute": 870}]}
+{"id": "pilot2-00098", "slice": "explicit", "text": "I'm going to log off at 12:15am, can you take the alerts after that?", "times": [{"text": "12:15am", "minute": 15}]}
+{"id": "pilot2-00099", "slice": "implicit", "text": "The fishing charter heads out for a full day at sea at 6:30, so I'm leaving the house before you're up. Pack me the big cooler please.", "times": [{"text": "6:30", "minute": 390}]}
+{"id": "pilot2-00100", "slice": "none", "text": "we need to buy 12 cupcakes and 3 candles for the party, dont forget", "times": []}
+{"id": "pilot2-00101", "slice": "implicit", "text": "@Mia I got bleeped to Ward C at 2:30 while trying to sleep in the on-call room, and the database upgrade downtime is at 4 when hardly any users are online. Sleep is a myth.", "times": [{"text": "2:30", "minute": 150}, {"text": "4", "minute": 240}]}
+{"id": "pilot2-00102", "slice": "implicit", "text": "dan's crew is vacuuming the empty multiplex from 1 after the last screening, and my meal break on the factory graveyard shift is at 2, we're both zombies", "times": [{"text": "1", "minute": 60}, {"text": "2", "minute": 120}]}
+{"id": "pilot2-00103", "slice": "cue", "text": "Heads up, the incident review is at 9 this evening for the US team. Brng snacks", "times": [{"text": "9", "minute": 1260}]}
+{"id": "pilot2-00104", "slice": "implicit", "text": "Staying up to watch the Olympic final live from Tokyo, it starts at 5 and then Im off to the club for the early tee time for the first group at 7:30. I'll be a mess.", "times": [{"text": "5", "minute": 300}, {"text": "7:30", "minute": 450}]}
+{"id": "pilot2-00105", "slice": "implicit", "text": "we're taking the little ones trick-or-treating at 5:30, costumse are already on", "times": [{"text": "5:30", "minute": 1050}]}
+{"id": "pilot2-00106", "slice": "explicit", "text": "Birthday lunch is at 2 pm, rsvp by 12PM tomorrow, and the hall must be cleared by 10 p.m. Fifteen coming, so I've ordred extra chairs.", "times": [{"text": "2 pm", "minute": 840}, {"text": "12PM", "minute": 720}, {"text": "10 p.m.", "minute": 1320}]}
+{"id": "pilot2-00107", "slice": "implicit", "text": "sunrise Easter service up on the hill at 7 ☀️ then I'll be home when the postman pushes the letters through at 12", "times": [{"text": "7", "minute": 420}, {"text": "12", "minute": 720}]}
+{"id": "pilot2-00108", "slice": "cue", "text": "my neighbur started drilling at 3:30 in the middle of the night, seriously", "times": [{"text": "3:30", "minute": 210}]}
+{"id": "pilot2-00109", "slice": "none", "text": "Updated the wifi router firmware to v2.3.1, build 7788, so if it drops out that's why.", "times": []}
+{"id": "pilot2-00110", "slice": "explicit", "text": "Deploy starts at 7:30 am and the cron job runs again at 00:10, so please don't touch the config in between.", "times": [{"text": "7:30 am", "minute": 450}, {"text": "00:10", "minute": 10}]}
+{"id": "pilot2-00111", "slice": "range", "text": "Heads up, the database will be read-only between 23:30 and 3:30 am. Please plan your jobs accordingly.", "times": [{"text": "23:30", "minute": 1410}, {"text": "3:30 am", "minute": 210}]}
+{"id": "pilot2-00112", "slice": "none", "text": "The oven takes about 40 minutes, so I'll start it when you're back. No rush.", "times": []}
+{"id": "pilot2-00113", "slice": "cue", "text": "alarm went off at 1:45 in the middle of the night, anyone else?", "times": [{"text": "1:45", "minute": 105}]}
+{"id": "pilot2-00114", "slice": "implicit", "text": "The central bank's press conference after its interest-rate decision is at 3. Please keep the trading desk updated.", "times": [{"text": "3", "minute": 900}]}
+{"id": "pilot2-00115", "slice": "none", "text": "Whos taking the next coffee run? I'll cover tomorrow", "times": []}
+{"id": "pilot2-00116", "slice": "implicit", "text": "@Jamie the gates at Wimbledon open at 10:30, we should already be in the queue so we're near the front.", "times": [{"text": "10:30", "minute": 630}]}
+{"id": "pilot2-00117", "slice": "range", "text": "@Priya I'm free 9 to 9:30 p.m. if you still want to go over the slides", "times": [{"text": "9", "minute": 1260}, {"text": "9:30 p.m.", "minute": 1290}]}
+{"id": "pilot2-00118", "slice": "none", "text": "Hello, I will be at the library this afternoon, so I cannot take the parcel. Thank you for understanding.", "times": []}
+{"id": "pilot2-00119", "slice": "range", "text": "the roofers will be loud from 3 to 6 a.m. sory", "times": [{"text": "3", "minute": 180}, {"text": "6 a.m.", "minute": 360}]}
+{"id": "pilot2-00120", "slice": "none", "text": "@Mrs Cole your shipment has 6 boxes and 30 items, the courier will confirm delivery.", "times": []}
+{"id": "pilot2-00121", "slice": "implicit", "text": "@Hannah the quarterly board meeting is at 9 so I'll leave before you wake. Wish me luck.", "times": [{"text": "9", "minute": 540}]}
+{"id": "pilot2-00122", "slice": "implicit", "text": "@Giulia we should join the passeggiata along the main street at 7, then eat after", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00123", "slice": "implicit", "text": "@Tom I'm up for the Australian Grand Prix live at 4, so I'll be groggy, and the removal van is arriving at 9 on moving day.", "times": [{"text": "4", "minute": 240}, {"text": "9", "minute": 540}]}
+{"id": "pilot2-00124", "slice": "implicit", "text": "@Mr Katz our Passover seder starts after sundown, at 7, and we would love for you to come by.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00125", "slice": "explicit", "text": "Lets meet 5pm GMT on Zoom, wear your funniest hat 😄", "times": [{"text": "5pm", "minute": 1020}]}
+{"id": "pilot2-00126", "slice": "implicit", "text": "Aim to reach the albergue by 3 before the beds run out. The removal van shows up at 8:30 on moving day.", "times": [{"text": "3", "minute": 900}, {"text": "8:30", "minute": 510}]}
+{"id": "pilot2-00127", "slice": "cue", "text": "Server freeze begins at 11:15 late tonight 🛑 ship before then", "times": [{"text": "11:15", "minute": 1395}]}
+{"id": "pilot2-00128", "slice": "explicit", "text": "Dear Mr Obi, maintenance starts at 01:15 and should last about 20 minutes. Thank you for your patience.", "times": [{"text": "01:15", "minute": 75}]}
+{"id": "pilot2-00129", "slice": "implicit", "text": "I'll do the big weekly supermarket shop on Saturday at 11 as usual, send me your list.", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00130", "slice": "explicit", "text": "Demo ends 4:55pm, prep takes 15 min", "times": [{"text": "4:55pm", "minute": 1015}]}
+{"id": "pilot2-00131", "slice": "none", "text": "Cousin Rita's wedding is on the 22nd 💍 mark your calendars!", "times": []}
+{"id": "pilot2-00132", "slice": "cue", "text": "Court is booked at 1 this afternoon, bring the balls", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00133", "slice": "explicit", "text": "my train gets in at 10:55 PM, keep the door unlocked", "times": [{"text": "10:55 PM", "minute": 1375}]}
+{"id": "pilot2-00134", "slice": "range", "text": "call between 5 and 5:30pm?", "times": [{"text": "5", "minute": 1020}, {"text": "5:30pm", "minute": 1050}]}
+{"id": "pilot2-00135", "slice": "implicit", "text": "Our lunchtime organ recital at St Mark's begins at 12:30, entry free. Seats go quickly.", "times": [{"text": "12:30", "minute": 750}]}
+{"id": "pilot2-00136", "slice": "none", "text": "Thanks for your quick reply, i'll send the contrcat over soon.", "times": []}
+{"id": "pilot2-00137", "slice": "implicit", "text": "@Mr Lim the lunchtime rush at the hawker centre peaks at 12:30, so come a bit before if you want a seat 🍜", "times": [{"text": "12:30", "minute": 750}]}
+{"id": "pilot2-00138", "slice": "explicit", "text": "Practice ends 12:25 p.m. PST, snacks after", "times": [{"text": "12:25 p.m.", "minute": 745}]}
+{"id": "pilot2-00139", "slice": "cue", "text": "gradnma's tea is ready at 2 this afternoon, come over", "times": [{"text": "2", "minute": 840}]}
+{"id": "pilot2-00140", "slice": "none", "text": "we have 14 open tickets and 3 failing tests, nobody panic", "times": []}
+{"id": "pilot2-00141", "slice": "none", "text": "gonna be home late this afternoon", "times": []}
+{"id": "pilot2-00142", "slice": "implicit", "text": "red-eye leaves at 11, then the caldera sunset at 8 in summer, worth it", "times": [{"text": "11", "minute": 1380}, {"text": "8", "minute": 1200}]}
+{"id": "pilot2-00143", "slice": "implicit", "text": "Please note that the second sitting at the restaurant is at 9, so we will have a late dinner. I hope that is fine.", "times": [{"text": "9", "minute": 1260}]}
+{"id": "pilot2-00144", "slice": "none", "text": "thanks for sending that over, i will look through it and get back to you soon", "times": []}
+{"id": "pilot2-00145", "slice": "explicit", "text": "Your train leaves at 20:25 and the trip takes about 3 hours, be at the stationn early", "times": [{"text": "20:25", "minute": 1225}]}
+{"id": "pilot2-00146", "slice": "implicit", "text": "nursing handover for the day shift on our ward is at 8 so i'm out the door really erly", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00147", "slice": "implicit", "text": "The bullfight in Seville begins at 7 on Sunday; I recommend we arrive in good time. Thank you.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00148", "slice": "implicit", "text": "postman shoves letters through the letterbox at 11, our dog goes nuts", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00149", "slice": "fallback", "text": "at 4?", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00150", "slice": "implicit", "text": "@Mum I'll be at coffee with the other parents after the school run at 9:45, ring me then", "times": [{"text": "9:45", "minute": 585}]}
+{"id": "pilot2-00151", "slice": "cue", "text": "Sorry, I can only do 5 in the afternoon, the pitch is free then.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00152", "slice": "explicit", "text": "Hello, the consultation is at 3:30pm and the follow-up at 7:45PM, each about 30 minutes. Chers", "times": [{"text": "3:30pm", "minute": 930}, {"text": "7:45PM", "minute": 1185}]}
+{"id": "pilot2-00153", "slice": "fallback", "text": "ok 2:45", "times": [{"text": "2:45", "minute": 165}]}
+{"id": "pilot2-00154", "slice": "implicit", "text": "The club ride stops at the cafe at 11 on Sunday, and I want to hit the Taiwanese street-food market after, it opens after dark at 7.", "times": [{"text": "11", "minute": 660}, {"text": "7", "minute": 1140}]}
+{"id": "pilot2-00155", "slice": "implicit", "text": "got a flat viewing at 1 in my lunch break, can you cover me", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00156", "slice": "implicit", "text": "still gaming online with friends at 1 and the whole house is in bed, so apologies if i'm slow tomorrow", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00157", "slice": "none", "text": "@Dana the laundry takes about an hour, so pick up the shirts after.", "times": []}
+{"id": "pilot2-00158", "slice": "none", "text": "that call took forever, almost 45 minutes", "times": []}
+{"id": "pilot2-00159", "slice": "none", "text": "be there in a bit, jsut parking", "times": []}
+{"id": "pilot2-00160", "slice": "implicit", "text": "second sitting at 9, then the dorm mate switched the lights on at 3 ugh", "times": [{"text": "9", "minute": 1260}, {"text": "3", "minute": 180}]}
+{"id": "pilot2-00161", "slice": "cue", "text": "@Lucy tea is at 3 in the afternoon at mum's, don't be late.", "times": [{"text": "3", "minute": 900}]}
+{"id": "pilot2-00162", "slice": "explicit", "text": "Dinner pickup 8:50 PM CET, thx", "times": [{"text": "8:50 PM", "minute": 1250}]}
+{"id": "pilot2-00163", "slice": "implicit", "text": "exam in the sports hall starts at 10, wish me luck", "times": [{"text": "10", "minute": 600}]}
+{"id": "pilot2-00164", "slice": "implicit", "text": "@Ben the client meeting is at 1 so I'll miss lunch", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00165", "slice": "cue", "text": "My flight lands at 2:15 in the morning. Can you pick me up? I'll buy you breakfast.", "times": [{"text": "2:15", "minute": 135}]}
+{"id": "pilot2-00166", "slice": "implicit", "text": "therapy straight after work, at 7, so dont wait on dinner", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00167", "slice": "none", "text": "Great game today, we won 4-1! The video file will be 16:9 by the way.", "times": []}
+{"id": "pilot2-00168", "slice": "none", "text": "back in a bit, going to the shops. dinner in 2 hours", "times": []}
+{"id": "pilot2-00169", "slice": "implicit", "text": "We eat as the news bulletin comes on at 6:30, so call before or after please.", "times": [{"text": "6:30", "minute": 1110}]}
+{"id": "pilot2-00170", "slice": "none", "text": "CPU hit 85% on staging, error rate down to 0.4%", "times": []}
+{"id": "pilot2-00171", "slice": "implicit", "text": "The funeral service at the crematorium will begin at 12. The family would appreciate your attendance. Thank you.", "times": [{"text": "12", "minute": 720}]}
+{"id": "pilot2-00172", "slice": "implicit", "text": "I'm still gaming online at 1:30 with friends, everyone else is in bed. Tomorrow's dinner in Madrid isn't until 11 anyway, so I'll sleep in.", "times": [{"text": "1:30", "minute": 90}, {"text": "11", "minute": 1380}]}
+{"id": "pilot2-00173", "slice": "explicit", "text": "i land at 9:10 pm cet and the party starts at 7:15 pm cet tomorrow", "times": [{"text": "9:10 pm", "minute": 1270}, {"text": "7:15 pm", "minute": 1155}]}
+{"id": "pilot2-00174", "slice": "range", "text": "I'm around between 3 and 4:30 pm if anyone needs the car", "times": [{"text": "3", "minute": 900}, {"text": "4:30 pm", "minute": 990}]}
+{"id": "pilot2-00175", "slice": "cue", "text": "Hi, the courier left at 5:45 this morning, so your parcel is on its way. Sory for the delay.", "times": [{"text": "5:45", "minute": 345}]}
+{"id": "pilot2-00176", "slice": "range", "text": "The office will be open between 5 and 8pm for the team to collect their badges. Thank you.", "times": [{"text": "5", "minute": 1020}, {"text": "8pm", "minute": 1200}]}
+{"id": "pilot2-00177", "slice": "none", "text": "The installation takes around two hours and the team will tidy up afterwards. Thanks!", "times": []}
+{"id": "pilot2-00178", "slice": "implicit", "text": "We will have dinner when the news bulletin comes on at 7, but I will save you a plate. Please take your time.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00179", "slice": "implicit", "text": "ordering pizza after the pub at 10:45, who's in", "times": [{"text": "10:45", "minute": 1365}]}
+{"id": "pilot2-00180", "slice": "fallback", "text": "3:30?", "times": [{"text": "3:30", "minute": 210}]}
+{"id": "pilot2-00181", "slice": "none", "text": "Dinner's in the oven. I ran the dishwasher too. Don't forget the bins.", "times": []}
+{"id": "pilot2-00182", "slice": "implicit", "text": "The housekeeper goes through the rooms after guests check out, she'll start with ours at 2.", "times": [{"text": "2", "minute": 840}]}
+{"id": "pilot2-00183", "slice": "none", "text": "The cake takes about forty minutes to bake, so no rush.", "times": []}
+{"id": "pilot2-00184", "slice": "implicit", "text": "crew is vacuuming the empty multiplex at 1:15, last screening done", "times": [{"text": "1:15", "minute": 75}]}
+{"id": "pilot2-00185", "slice": "cue", "text": "I'm home at 4 in the afternoon, so I'll cook. Don't worry about it. See you then.", "times": [{"text": "4", "minute": 960}]}
+{"id": "pilot2-00186", "slice": "none", "text": "Our anniversary is on the 9th btw, so don't make plans.", "times": []}
+{"id": "pilot2-00187", "slice": "implicit", "text": "The housekeeper will clean your room at 1 after checkout. Also, the end-of-day deadline to submit expenses is 5.", "times": [{"text": "1", "minute": 780}, {"text": "5", "minute": 1020}]}
+{"id": "pilot2-00188", "slice": "cue", "text": "movie starts at 9 in the evening 🎬 save me popcorn", "times": [{"text": "9", "minute": 1260}]}
+{"id": "pilot2-00189", "slice": "explicit", "text": "Match starts 7:35PM BST!", "times": [{"text": "7:35PM", "minute": 1175}]}
+{"id": "pilot2-00190", "slice": "explicit", "text": "Doctor's at 2 PM, I'll swing by after", "times": [{"text": "2 PM", "minute": 840}]}
+{"id": "pilot2-00191", "slice": "none", "text": "I have a 1:1 with my manager, no time yet, so I'll cook when I'm back.", "times": []}
+{"id": "pilot2-00192", "slice": "fallback", "text": "at 5 then", "times": [{"text": "5", "minute": 300}]}
+{"id": "pilot2-00193", "slice": "none", "text": "We beat them 3-0, great game. The scoreboard on the 16:9 screen was tiny though. Still fun.", "times": []}
+{"id": "pilot2-00194", "slice": "none", "text": "I'll swing by in a few minutes. Save me a seat. Maybe I'll bring snacks.", "times": []}
+{"id": "pilot2-00195", "slice": "explicit", "text": "dentist is 1:30 pm est and the plumber is 3 PM tomorrow, so someone needs to be in", "times": [{"text": "1:30 pm", "minute": 810}, {"text": "3 PM", "minute": 900}]}
+{"id": "pilot2-00196", "slice": "cue", "text": "Meet at the lake at 6:45 in the morning. Bring a thermos. Wetsuits optional.", "times": [{"text": "6:45", "minute": 405}]}
+{"id": "pilot2-00197", "slice": "explicit", "text": "Delivery at 12:10 p.m., it should only take 5 minutes to unload. Thanks.", "times": [{"text": "12:10 p.m.", "minute": 730}]}
+{"id": "pilot2-00198", "slice": "range", "text": "@Dad I'm at the clinic 9-10:30 AM, will call after", "times": [{"text": "9", "minute": 540}, {"text": "10:30 AM", "minute": 630}]}
+{"id": "pilot2-00199", "slice": "fallback", "text": "at 4", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00200", "slice": "cue", "text": "@Chris my flight is at 1 in the morning, so I'm leaving the house soon", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00201", "slice": "none", "text": "Please upgrade to v5.2.0 before the release. The fix is in build 6610. Thank you.", "times": []}
+{"id": "pilot2-00202", "slice": "none", "text": "the repair ticket number is 7781, so I'll wait for the plumber ✅", "times": []}
+{"id": "pilot2-00203", "slice": "range", "text": "I'll be at the market between 10:30 and 1PM if anyone needs anything", "times": [{"text": "10:30", "minute": 630}, {"text": "1PM", "minute": 780}]}
+{"id": "pilot2-00204", "slice": "explicit", "text": "Pager rotation switches at 10PM, please hand over your notes", "times": [{"text": "10PM", "minute": 1320}]}
+{"id": "pilot2-00205", "slice": "none", "text": "Tracking order #4402 is out for delivery, keep an eye out for it.", "times": []}
+{"id": "pilot2-00206", "slice": "fallback", "text": "at 1?", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00207", "slice": "none", "text": "we have room 4B for the club meeting, bring chairs fom the hall", "times": []}
+{"id": "pilot2-00208", "slice": "none", "text": "Your account is on version 3.8.2 and the hotfix is build 2201.", "times": []}
+{"id": "pilot2-00209", "slice": "cue", "text": "Dear Anna, I was woken at 3:15 in the middle of the night by what I think were the neighbours. Could you check whether the window is closed?", "times": [{"text": "3:15", "minute": 195}]}
+{"id": "pilot2-00210", "slice": "explicit", "text": "your appointment is confirmed for 10:55 AM CET, see you then", "times": [{"text": "10:55 AM", "minute": 655}]}
+{"id": "pilot2-00211", "slice": "none", "text": "I'd say the budget is capped at $400 for the party.", "times": []}
+{"id": "pilot2-00212", "slice": "none", "text": "we've saved 15% on groceries this month and the bills dropped by 8%, nice", "times": []}
+{"id": "pilot2-00213", "slice": "cue", "text": "Yeah I'll be back by 11 tonight, leave the porch light on and don't put the chain on please.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "pilot2-00214", "slice": "cue", "text": "mom we're doing pizza at 7 this evening, can someone grab teh drinks on the way home?", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00215", "slice": "implicit", "text": "@Priya the last screening finished ages ago and the cleaning crew is still hoovering popcorn out of the empty multiplex, it's 1:30 and I'm waiting in the dark car park for the manager to lock up.", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "pilot2-00216", "slice": "range", "text": "Can you swing by the loading dock between 7 and 7:30 a.m.? The driver needs a signature before his next stop. I'll buy you a coffee.", "times": [{"text": "7", "minute": 420}, {"text": "7:30 a.m.", "minute": 450}]}
+{"id": "pilot2-00217", "slice": "none", "text": "Pick up milk on your way home? Love you.", "times": []}
+{"id": "pilot2-00218", "slice": "implicit", "text": "Just got bleeped to the ward at 1:30 while I was finally drifting off in the on-call room 😩 so I'm skipping practice, sorry!", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "pilot2-00219", "slice": "implicit", "text": "@Amina I got up for tahajjud at 3 like always, last third of the sleeping hours, but yesterday the burglar alarm at the shop went off and the keyholder got phoned out of bed at 1, so I'm wrecked.", "times": [{"text": "3", "minute": 180}, {"text": "1", "minute": 60}]}
+{"id": "pilot2-00220", "slice": "implicit", "text": "The late bus for the kids who stay for clubs leaves at 5 so Maya will be home after school's long out 🚌 don't wait with dinner.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00221", "slice": "fallback", "text": "around 11", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00222", "slice": "none", "text": "The caterer quoted $450 for the Friday team lunch. Can you check whether that fits the budget? If not I'll cut the dessert.", "times": []}
+{"id": "pilot2-00223", "slice": "explicit", "text": "@Dan the 17:25 train to Leeds is the last one that gets me there before the client closes up, so I'll leave the report on your desk.", "times": [{"text": "17:25", "minute": 1045}]}
+{"id": "pilot2-00224", "slice": "implicit", "text": "Made it to Stella Point at 5 just as the sky started turning orange 🏔️ legs are jelly but the summit is so close.", "times": [{"text": "5", "minute": 300}]}
+{"id": "pilot2-00225", "slice": "explicit", "text": "Server alert at 2:45 am, restarting it now.", "times": [{"text": "2:45 am", "minute": 165}]}
+{"id": "pilot2-00226", "slice": "implicit", "text": "bulls run at 8 and the street is already packed with people in white and red, i'm on a balcony with a coffee watching the barriers go up", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00227", "slice": "implicit", "text": "Thanks for the update, and happy Thanksgiving! The parade is on TV and the Snoopy balloon just floated past at 10:20, so I'll go through your file once the turkey is in the oven.", "times": [{"text": "10:20", "minute": 620}]}
+{"id": "pilot2-00228", "slice": "cue", "text": "Mom, please don't call me after 10 at night, I'm asleep.", "times": [{"text": "10", "minute": 1320}]}
+{"id": "pilot2-00229", "slice": "explicit", "text": "My bus gets in at 4:45 am so I'll be quiet, and I'm taking the 19:10 back on Sunday. It's a 3 hour ride each way, so keep the heating on for me.", "times": [{"text": "4:45 am", "minute": 285}, {"text": "19:10", "minute": 1150}]}
+{"id": "pilot2-00230", "slice": "explicit", "text": "Streaming the finals, starts at 10:40pm EST ⚽ and I'm expecting extra time to run until 2:25 am, who's staying up?", "times": [{"text": "10:40pm", "minute": 1360}, {"text": "2:25 am", "minute": 145}]}
+{"id": "pilot2-00231", "slice": "none", "text": "Deploy is going out this afternoon. Please hold any merges until it's finished. Thanks all.", "times": []}
+{"id": "pilot2-00232", "slice": "implicit", "text": "Frost on every wing again and the first departures are already lined up on the dark apron. We start de-icing at 4, so grab your gloves and a flask. Trucks one and two are warming up now.", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00233", "slice": "cue", "text": "I can send the revised quote by 4:45 in the afternoon. Does that work for you? Let me know if you need it sooner.", "times": [{"text": "4:45", "minute": 1005}]}
+{"id": "pilot2-00234", "slice": "implicit", "text": "Garden party at the vicarage starts at 2, so we need to bring the scones and a cake for the cream teas. Mrs Pryce said bring a hat, theres no shade.", "times": [{"text": "2", "minute": 840}]}
+{"id": "pilot2-00235", "slice": "implicit", "text": "Got a flat viewing at 1 so I'm squeezing it into my lunch break, back at my desk with a sandwich after 🏠", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00236", "slice": "explicit", "text": "Landing 6:40 PM EST, can you pick me up?", "times": [{"text": "6:40 PM", "minute": 1120}]}
+{"id": "pilot2-00237", "slice": "none", "text": "Be ther in a bit, got stuck behind a tractor on the ring road.", "times": []}
+{"id": "pilot2-00238", "slice": "explicit", "text": "Your shipment is scheduled to arrive at 6:20 a.m. The driver says unloading takes about 40 minutes. We'll bring 12 pallets in total.", "times": [{"text": "6:20 a.m.", "minute": 380}]}
+{"id": "pilot2-00240", "slice": "range", "text": "@Jess the plumber's coming in a window of 5 to 5:30PM, can you let him in?", "times": [{"text": "5", "minute": 1020}, {"text": "5:30PM", "minute": 1050}]}
+{"id": "pilot2-00241", "slice": "implicit", "text": "the cleaner comes at 1 today while we're both at work so please hide the spare key under the blue pot and dont leave your laundry on the floor", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00242", "slice": "implicit", "text": "@Luis the club in Malasana only starts filling up at 3, after all the bars have closed, so don't show up early or you'll be standing around alone.", "times": [{"text": "3", "minute": 180}]}
+{"id": "pilot2-00243", "slice": "implicit", "text": "bus just stopped at the border and the lights flicked on and everyone got woken for passport checks, it's 4 and pitch black outside and i can barely keep my eyes open", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00244", "slice": "implicit", "text": "@Tom just back from the barn, checked on the ewe in labour with a torch while the whole house sleeps, it's 4 and still pitch dark out there and she's still pushing.", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00245", "slice": "implicit", "text": "Thank you for the invitation. Strawberry picking at 1 sounds lovely, as long as I can watch Prime Minister's Questions first, which starts at 12 on Wednesdays.", "times": [{"text": "1", "minute": 780}, {"text": "12", "minute": 720}]}
+{"id": "pilot2-00246", "slice": "none", "text": "Fyi the boiler presure is down to 40% so the radiators are barely warm, I'll call the landlord.", "times": []}
+{"id": "pilot2-00247", "slice": "cue", "text": "Team dinner is at 6:30 in the evening on Thurday, please tell me about any allergies.", "times": [{"text": "6:30", "minute": 1110}]}
+{"id": "pilot2-00248", "slice": "implicit", "text": "I do daycare pickup at 6 after work, then dinner and bath, and I'll phone my parents once the kids are finally asleep, probably 10:30, so dont hog the livng room.", "times": [{"text": "6", "minute": 1080}, {"text": "10:30", "minute": 1350}]}
+{"id": "pilot2-00249", "slice": "implicit", "text": "@Sam I set the tables before lunch service, doors open at 11, but I drop my daughter first since the first school bell goes at 9 so I'm always rushing.", "times": [{"text": "11", "minute": 660}, {"text": "9", "minute": 540}]}
+{"id": "pilot2-00250", "slice": "range", "text": "Yes, we can do the maintenance window 9-10:30 PM Friday, I'll confirm with the team.", "times": [{"text": "9", "minute": 1260}, {"text": "10:30 PM", "minute": 1350}]}
+{"id": "pilot2-00251", "slice": "implicit", "text": "Reminder that the first session of the all-day training course starts at 9 sharp, and the workshops run right through lunch until the final session, so please bring a sandwich.", "times": [{"text": "9", "minute": 540}]}
+{"id": "pilot2-00252", "slice": "explicit", "text": "@Kim the deploy window opens at 6:55am PST, can you be online before then?", "times": [{"text": "6:55am", "minute": 415}]}
+{"id": "pilot2-00253", "slice": "explicit", "text": "Yes the call with the Berlin team is at 10PM CET, so I'll be late, don't wait for me.", "times": [{"text": "10PM", "minute": 1320}]}
+{"id": "pilot2-00254", "slice": "implicit", "text": "Today I will take the sales call with our west coast client at 4, from London, when my working day is nearly over. Later this week I'm going to bingo with Mum at the retirement community after lunch, and it starts at 3.", "times": [{"text": "4", "minute": 960}, {"text": "3", "minute": 900}]}
+{"id": "pilot2-00255", "slice": "implicit", "text": "Jake finally dragged himself out of bed for his lunchtime lecture at 12, and the school bus for the farm road kids comes at 7 so Lily has to be up erly.", "times": [{"text": "12", "minute": 720}, {"text": "7", "minute": 420}]}
+{"id": "pilot2-00256", "slice": "range", "text": "Court is booked from 7 to 8:30 PM, bring your own water 🏸", "times": [{"text": "7", "minute": 1140}, {"text": "8:30 PM", "minute": 1230}]}
+{"id": "pilot2-00257", "slice": "range", "text": "I can hop on between 8 and 8:30pm if that's helpful, ping me then.", "times": [{"text": "8", "minute": 1200}, {"text": "8:30pm", "minute": 1230}]}
+{"id": "pilot2-00258", "slice": "explicit", "text": "Train is the 07:40, and it's a 25 minute walk to the station so I'm setting two alarms.", "times": [{"text": "07:40", "minute": 460}]}
+{"id": "pilot2-00259", "slice": "implicit", "text": "the late bus for club kids runs at 5 so ill get home after dinner has started, save me a plate", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00260", "slice": "implicit", "text": "Mum we got the second dinner sitting at 10:30 at that busy place by the harbour, and the fishing charter leaves for a full day at sea at 6 the next day, so we'll be wrecked 🎣", "times": [{"text": "10:30", "minute": 1350}, {"text": "6", "minute": 360}]}
+{"id": "pilot2-00261", "slice": "explicit", "text": "Would you mind keeping the music down after 21:30? I have an early start. Thank you!", "times": [{"text": "21:30", "minute": 1290}]}
+{"id": "pilot2-00262", "slice": "none", "text": "@Chris my phone is down to 8% so I'll go silent soon, please don't panic.", "times": []}
+{"id": "pilot2-00263", "slice": "explicit", "text": "Dentist is at 11 am, my train back is the 13:35, and the alarm's set for 6:50 a.m. because it's a 2 hour trip 🦷", "times": [{"text": "11 am", "minute": 660}, {"text": "13:35", "minute": 815}, {"text": "6:50 a.m.", "minute": 410}]}
+{"id": "pilot2-00264", "slice": "implicit", "text": "My halls have quiet hours that kick in at 10:40, so I'll have to stop playing guitar. Dinner's long over and the porter does his rounds with a torch to check.", "times": [{"text": "10:40", "minute": 1360}]}
+{"id": "pilot2-00265", "slice": "none", "text": "Training is cancelled this afternoon because the pitch is waterlogged. We'll try again at the weekend. Keep your boots dry.", "times": []}
+{"id": "pilot2-00266", "slice": "none", "text": "Got those concert tickets for $85 each 🎶 bargain, pay me back whenever.", "times": []}
+{"id": "pilot2-00267", "slice": "none", "text": "thanks for sending the proofs, we'll go through them and get back to you before the end of the week", "times": []}
+{"id": "pilot2-00268", "slice": "none", "text": "@Ana I'll cook tonight so you can put your feet up.", "times": []}
+{"id": "pilot2-00269", "slice": "implicit", "text": "Matinee tickets for the Mamma Mia revival are for 3, so grab a snack for the interval, we'll be out before dinner 🎭", "times": [{"text": "3", "minute": 900}]}
+{"id": "pilot2-00270", "slice": "explicit", "text": "The vendor call is scheduled for 4:10 PM and should last about 20 minutes. Please send your questions before the call. Thank you.", "times": [{"text": "4:10 PM", "minute": 970}]}
+{"id": "pilot2-00271", "slice": "implicit", "text": "The temple's mangala aarti starts at 5, the first worship of the day, so I'll be there before the preist arrives.", "times": [{"text": "5", "minute": 300}]}
+{"id": "pilot2-00272", "slice": "cue", "text": "Dinner at 8:30 this evening?", "times": [{"text": "8:30", "minute": 1230}]}
+{"id": "pilot2-00273", "slice": "none", "text": "Reminder that Grandma's birthday is on the 14th, so please send your cards by the 10th. Thank you!", "times": []}
+{"id": "pilot2-00274", "slice": "implicit", "text": "Our Vatican Museums tour starts at 9:30 right as the doors open. The queue is already around the wall. Hope we get in before the crowds.", "times": [{"text": "9:30", "minute": 570}]}
+{"id": "pilot2-00275", "slice": "cue", "text": "@Jo I'll be home at 6 in the evening, so don't start dinner without me.", "times": [{"text": "6", "minute": 1080}]}
+{"id": "pilot2-00276", "slice": "implicit", "text": "Sorry, the news is on at 6 while we eat dinner, and haldi on the wedding day begins at 10, so please call after.", "times": [{"text": "6", "minute": 1080}, {"text": "10", "minute": 600}]}
+{"id": "pilot2-00277", "slice": "cue", "text": "Works for me, I'll dial in at 7:30 tonight.", "times": [{"text": "7:30", "minute": 1170}]}
+{"id": "pilot2-00278", "slice": "explicit", "text": "Pizza's coming at 7:30pm 🍕 grab plates", "times": [{"text": "7:30pm", "minute": 1170}]}
+{"id": "pilot2-00279", "slice": "none", "text": "I updated the app to v3.8.2 yesterday. It crashes when I open the camera. Have you seen that on your build?", "times": []}
+{"id": "pilot2-00280", "slice": "cue", "text": "Dinner is at 6:15 in the evening, same as always, don't be late.", "times": [{"text": "6:15", "minute": 1095}]}
+{"id": "pilot2-00281", "slice": "range", "text": "The wifi will be off for the router update from 9 to 10 pm. Download your shows first. Sorry!", "times": [{"text": "9", "minute": 1260}, {"text": "10 pm", "minute": 1320}]}
+{"id": "pilot2-00282", "slice": "cue", "text": "Your order will be dispatched by 9 tonight, I'll send the trackng link after.", "times": [{"text": "9", "minute": 1260}]}
+{"id": "pilot2-00283", "slice": "range", "text": "grandpa's physio is 2 to 3:30 PM, can someone drive him", "times": [{"text": "2", "minute": 840}, {"text": "3:30 PM", "minute": 930}]}
+{"id": "pilot2-00284", "slice": "cue", "text": "@Rhea I'm free at 6 in the evening if you still want to catch up", "times": [{"text": "6", "minute": 1080}]}
+{"id": "pilot2-00285", "slice": "range", "text": "Maintenance window is 22:00 to 1 am, so expect the dashboards to be down.", "times": [{"text": "22:00", "minute": 1320}, {"text": "1 am", "minute": 60}]}
+{"id": "pilot2-00286", "slice": "implicit", "text": "The emergency plumber arrived at 3:30 to deal with a burst pipe flooding the flat while the whole building slept in the dark. Unfortunately I will not make it in, so please make sure the parcel goes out before the last collection from the post room at 3. Thank you.", "times": [{"text": "3:30", "minute": 210}, {"text": "3", "minute": 900}]}
+{"id": "pilot2-00287", "slice": "none", "text": "Leaving the office in a bit. Want me to grab anything from the shop? I'll be back in about an hour.", "times": []}
+{"id": "pilot2-00288", "slice": "explicit", "text": "The landlord is coming for the inspection at 12:30 PM EST. Please tidy the kitchen before then. I'll handle the bathroom.", "times": [{"text": "12:30 PM", "minute": 750}]}
+{"id": "pilot2-00289", "slice": "range", "text": "Server migration is happening 2-4 am so I'll be up late, sorry 😴", "times": [{"text": "2", "minute": 120}, {"text": "4 am", "minute": 240}]}
+{"id": "pilot2-00290", "slice": "explicit", "text": "Yep the show starts at 7:05 p.m. so we should meet at the pub before.", "times": [{"text": "7:05 p.m.", "minute": 1145}]}
+{"id": "pilot2-00291", "slice": "implicit", "text": "I'll be offline once Prime Minister's Questions begins at 12 on Wednesdys, I always watch it live.", "times": [{"text": "12", "minute": 720}]}
+{"id": "pilot2-00292", "slice": "implicit", "text": "She's here! Baby Lena arrived at 2:30 while the whole city was fast asleep and only the delivery ward lights were on. Mum and baby are doing great.", "times": [{"text": "2:30", "minute": 150}]}
+{"id": "pilot2-00293", "slice": "implicit", "text": "Dinner service gets under way at 6, first tables already being seated 🍽️ are the specials updated on the board?", "times": [{"text": "6", "minute": 1080}]}
+{"id": "pilot2-00294", "slice": "explicit", "text": "Bus arrives at 14:35, can you leave the key with Mrs Patel?", "times": [{"text": "14:35", "minute": 875}]}
+{"id": "pilot2-00295", "slice": "implicit", "text": "Pilot says he'll take the crop duster up at 6 while the air's still calm and the dew's on the fields, so we'll wave from the fence.", "times": [{"text": "6", "minute": 360}]}
+{"id": "pilot2-00296", "slice": "explicit", "text": "@Noor my flight lands at 10:25 a.m. GMT, so I'll text from the airport", "times": [{"text": "10:25 a.m.", "minute": 625}]}
+{"id": "pilot2-00297", "slice": "implicit", "text": "Our team will have the tables set before the lunch service starts at 12, so your party can come straight in 🍽️", "times": [{"text": "12", "minute": 720}]}
+{"id": "pilot2-00298", "slice": "implicit", "text": "We'll do the big weekly shop on Saturday at 11 and then I'll be free before lunch, so I can take your call after unloading the car.", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00299", "slice": "implicit", "text": "Still restocking shelves, the store is closed to shoppers and won't open until the next day's trading starts. I started at 5 and the whole floor is empty, just us and the pallets, with a dark car park outside the loading bay.", "times": [{"text": "5", "minute": 300}]}
+{"id": "pilot2-00300", "slice": "range", "text": "Reminder: the on-call handover call is scheduled for 9:30-10 pm. Thank you for your attention.", "times": [{"text": "9:30", "minute": 1290}, {"text": "10 pm", "minute": 1320}]}
+{"id": "pilot2-00301", "slice": "explicit", "text": "Streaming the ultramarathon from Tokyo, the leaders hit the first checkpoint at 4:25am JST and I started recording at 12:25 am 🏃", "times": [{"text": "4:25am", "minute": 265}, {"text": "12:25 am", "minute": 25}]}
+{"id": "pilot2-00302", "slice": "none", "text": "Dentist is on the 9th, remember?", "times": []}
+{"id": "pilot2-00303", "slice": "range", "text": "@Sam can you call the landlord 10-10:30 p.m.? He said that's the only gap.", "times": [{"text": "10", "minute": 1320}, {"text": "10:30 p.m.", "minute": 1350}]}
+{"id": "pilot2-00304", "slice": "fallback", "text": "11:45", "times": [{"text": "11:45", "minute": 705}]}
+{"id": "pilot2-00305", "slice": "explicit", "text": "Shuttle leaves 07:20, we hit the site at 08:00 and the safety briefing is at 08:10, all 12 of us need to be there 🦺", "times": [{"text": "07:20", "minute": 440}, {"text": "08:00", "minute": 480}, {"text": "08:10", "minute": 490}]}
+{"id": "pilot2-00306", "slice": "none", "text": "Thanks, I've put the delivery down for the 22nd and will confirm shortly.", "times": []}
+{"id": "pilot2-00307", "slice": "implicit", "text": "Missed the clubs bus again, the next late bus home leaves at 5 so I'll jst wait in the library.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00308", "slice": "none", "text": "@Lena I'll be at the gym this afternoon, dinner's yours.", "times": []}
+{"id": "pilot2-00309", "slice": "implicit", "text": "Early shift clocks in at the car plant at 6 so I'm leaving the house while it's still dark, love you, go bck to sleep.", "times": [{"text": "6", "minute": 360}]}
+{"id": "pilot2-00310", "slice": "cue", "text": "I caught the bus at 7:50 this morning and it was packed. Then I spilled coffee on my shirt. What a start.", "times": [{"text": "7:50", "minute": 470}]}
+{"id": "pilot2-00311", "slice": "implicit", "text": "Friday teatime rush at the chippy starts around 5:45, queue's out the door already and I'm still battering fisch.", "times": [{"text": "5:45", "minute": 1065}]}
+{"id": "pilot2-00312", "slice": "implicit", "text": "full day fishing charter leaves at 6 so i'll be gone before you're up, and remind me the expenses form has to be in by 4, that's the end of day deadline", "times": [{"text": "6", "minute": 360}, {"text": "4", "minute": 960}]}
+{"id": "pilot2-00313", "slice": "implicit", "text": "Cleaners still vacuuming the empty multiplex at 1:30, last film finished ages back.", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "pilot2-00314", "slice": "explicit", "text": "Standup moved to 10:55am PST, and the failed build finshed at 7:50 a.m.", "times": [{"text": "10:55am", "minute": 655}, {"text": "7:50 a.m.", "minute": 470}]}
+{"id": "pilot2-00315", "slice": "explicit", "text": "We'll deploy the patch at 10:25pm GMT. Your system will be briefly unavailable. We'll confirm once it's done.", "times": [{"text": "10:25pm", "minute": 1345}]}
+{"id": "pilot2-00316", "slice": "explicit", "text": "Doors open at 8 PM EST, the keynote finishes at 21:50, and the last shuttle back leaves at 01:35, so we should be fine.", "times": [{"text": "8 PM", "minute": 1200}, {"text": "21:50", "minute": 1310}, {"text": "01:35", "minute": 95}]}
+{"id": "pilot2-00317", "slice": "fallback", "text": "7 then", "times": [{"text": "7", "minute": 420}]}
+{"id": "pilot2-00318", "slice": "range", "text": "im free from 11 to 1PM if you want to grab lunch", "times": [{"text": "11", "minute": 660}, {"text": "1PM", "minute": 780}]}
+{"id": "pilot2-00319", "slice": "implicit", "text": "a fox was screaming in the garden and woke the entire house at 1:30, pitch dark and everyone cursing, and the second late show at the comedy club starts at 11 tomorrow so i'm not getting any sleep before it", "times": [{"text": "1:30", "minute": 90}, {"text": "11", "minute": 1380}]}
+{"id": "pilot2-00320", "slice": "cue", "text": "Apologies for missing practice; I was at the clinic by 8 this morning and couldn't get away.", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00321", "slice": "implicit", "text": "Unloading crates at the fruit and veg market since 4:30, city still asleep.", "times": [{"text": "4:30", "minute": 270}]}
+{"id": "pilot2-00322", "slice": "explicit", "text": "Alarm goes off at 04:50 for the airport run. It's a 2 hour drive so I can't be late. Wish me luck.", "times": [{"text": "04:50", "minute": 290}]}
+{"id": "pilot2-00323", "slice": "explicit", "text": "My train departs at 15:55 so I'll meet you at the cafe befor that.", "times": [{"text": "15:55", "minute": 955}]}
+{"id": "pilot2-00324", "slice": "implicit", "text": "The first commuter ferry across the harbour leaves at 7:30. I'll catch it so I'm in before the rush. Don't sleep through it.", "times": [{"text": "7:30", "minute": 450}]}
+{"id": "pilot2-00325", "slice": "range", "text": "im free 10 to 11PM if you want to video chat", "times": [{"text": "10", "minute": 1320}, {"text": "11PM", "minute": 1380}]}
+{"id": "pilot2-00326", "slice": "none", "text": "All 14 tests passed on the first run 🎉 nice work everyone", "times": []}
+{"id": "pilot2-00327", "slice": "none", "text": "grandma says thanks for the flowers, she's put them on the kitchen table", "times": []}
+{"id": "pilot2-00328", "slice": "none", "text": "We lost 4-1 to the Eagles. The ref was awful. Rematch next month, we'll get them.", "times": []}
+{"id": "pilot2-00329", "slice": "none", "text": "Yeah my first serve percentage was only 55% on Sunday, need to work on it.", "times": []}
+{"id": "pilot2-00330", "slice": "none", "text": "Can you grab bread on your way hom? We're out.", "times": []}
+{"id": "pilot2-00331", "slice": "implicit", "text": "A guy in my hostel dorm stumbled in and switched on all the lights at 2 while everyone slept in the dark. I'm exhausted, sorry for being grumpy.", "times": [{"text": "2", "minute": 120}]}
+{"id": "pilot2-00332", "slice": "cue", "text": "Grandpa called me at 10:30 this morning to say he'd lost his gloves agian.", "times": [{"text": "10:30", "minute": 630}]}
+{"id": "pilot2-00333", "slice": "cue", "text": "Pitch is booked for 4:55 this afternoon ⚽ don't be late", "times": [{"text": "4:55", "minute": 1015}]}
+{"id": "pilot2-00334", "slice": "explicit", "text": "alert fired at 4:50AM, the previous one was 3:10am, and the status page finally updated at 7:55am", "times": [{"text": "4:50AM", "minute": 290}, {"text": "3:10am", "minute": 190}, {"text": "7:55am", "minute": 475}]}
+{"id": "pilot2-00335", "slice": "range", "text": "I'll be out running 5 to 7 AM, back for breakfast.", "times": [{"text": "5", "minute": 300}, {"text": "7 AM", "minute": 420}]}
+{"id": "pilot2-00336", "slice": "explicit", "text": "@Gabe my flight lands at 11:40AM after a 5 hour hop, can you pick me up?", "times": [{"text": "11:40AM", "minute": 700}]}
+{"id": "pilot2-00337", "slice": "explicit", "text": "The ride starts at 05:30 sharp. It will take about 3 hours, so please bring water. Thank you.", "times": [{"text": "05:30", "minute": 330}]}
+{"id": "pilot2-00338", "slice": "implicit", "text": "Nobody's on the beach by 1:30, it's baking and the sun is right overhead so everyone has packed up for shade.", "times": [{"text": "1:30", "minute": 810}]}
+{"id": "pilot2-00339", "slice": "cue", "text": "Please do not ring the landline after 11 at night, as your grandfather will be asleep.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "pilot2-00340", "slice": "none", "text": "Happy to set up a 1:1 to go over the contract. Let me know what day suits.", "times": []}
+{"id": "pilot2-00341", "slice": "implicit", "text": "Ben's first lecture of the day is at 9:30 and he's slept through it three times now, still groaning from the party.", "times": [{"text": "9:30", "minute": 570}]}
+{"id": "pilot2-00342", "slice": "range", "text": "Our engineers will be on-site from 03:30 to 5:30 am. The system will be offline then. Thank you for understanding.", "times": [{"text": "03:30", "minute": 210}, {"text": "5:30 am", "minute": 330}]}
+{"id": "pilot2-00343", "slice": "none", "text": "Great session everyone. Bring your own water next time. Coach says the new drills are coming.", "times": []}
+{"id": "pilot2-00344", "slice": "implicit", "text": "@Mia the washing machine finishes its cycle at 8, right before I leave for work, so please hang the load if you're in first.", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00345", "slice": "fallback", "text": "at 2?", "times": [{"text": "2", "minute": 120}]}
+{"id": "pilot2-00346", "slice": "range", "text": "I'll be at the courts between 11 and 1pm 🎾 come hit with me", "times": [{"text": "11", "minute": 660}, {"text": "1pm", "minute": 780}]}
+{"id": "pilot2-00347", "slice": "explicit", "text": "dont forget the pickup match, ref says kickoff 11:15AM", "times": [{"text": "11:15AM", "minute": 675}]}
+{"id": "pilot2-00348", "slice": "explicit", "text": "@Tara can you join the 8:15 AM sync? We need the numbers.", "times": [{"text": "8:15 AM", "minute": 495}]}
+{"id": "pilot2-00349", "slice": "explicit", "text": "Dinner 7:45pm, then flight at 8 am, 2 bags only.", "times": [{"text": "7:45pm", "minute": 1185}, {"text": "8 am", "minute": 480}]}
+{"id": "pilot2-00350", "slice": "implicit", "text": "The database upgrade for our club's booking site will cause downtime starting at 2:05, chosen because hardly any users are online then. Please plan accordingly.", "times": [{"text": "2:05", "minute": 125}]}
+{"id": "pilot2-00351", "slice": "implicit", "text": "Sorry for the early email, my cat demanded breakfast at 5:30, well before my alarm.", "times": [{"text": "5:30", "minute": 330}]}
+{"id": "pilot2-00352", "slice": "none", "text": "Page load down 12% after the cache fix.", "times": []}
+{"id": "pilot2-00353", "slice": "explicit", "text": "Our flight leaves at 02:05, so we need to be at the airport 3 hours early. The return train is at 19:05 on Sunday, and the hotel checkout is at 9:10am. Thank you for organising all this.", "times": [{"text": "02:05", "minute": 125}, {"text": "19:05", "minute": 1145}, {"text": "9:10am", "minute": 550}]}
+{"id": "pilot2-00354", "slice": "range", "text": "I'm on a video call from 9 to 9:30 pm. Could you keep the kitchen quiet? Thanks.", "times": [{"text": "9", "minute": 1260}, {"text": "9:30 pm", "minute": 1290}]}
+{"id": "pilot2-00355", "slice": "cue", "text": "@Will the client review has moved to 4:15 this afternoon, bring the slides.", "times": [{"text": "4:15", "minute": 975}]}
+{"id": "pilot2-00356", "slice": "implicit", "text": "Thank you for your patience. The court resumes after the lunch adjournment at 2, and I will update you as soon as the judge rises.", "times": [{"text": "2", "minute": 840}]}
+{"id": "pilot2-00357", "slice": "none", "text": "Yeah the new rackets are $120 each, I'd wait for the sale.", "times": []}
+{"id": "pilot2-00358", "slice": "range", "text": "The workshop at the club will run 1:30-4:30PM. Please arrive in good time.", "times": [{"text": "1:30", "minute": 810}, {"text": "4:30PM", "minute": 990}]}
+{"id": "pilot2-00359", "slice": "implicit", "text": "Apologies for the slow reply! I'm at the jazz club and it's 1 now, only the regulars left for the final set 🎷 I'll send the files when I'm home.", "times": [{"text": "1", "minute": 60}]}
+{"id": "pilot2-00360", "slice": "none", "text": "Thank you for your message. I will send the revised draft in a bit.", "times": []}
+{"id": "pilot2-00361", "slice": "none", "text": "Heads up, the release is on the 18th. Code freeze starts on the 16th. Please finish your tickets.", "times": []}
+{"id": "pilot2-00362", "slice": "cue", "text": "Work is running over so I'll only be home around 10 late tonight. Keep a plate for me 🍝", "times": [{"text": "10", "minute": 1320}]}
+{"id": "pilot2-00363", "slice": "fallback", "text": "ok 9", "times": [{"text": "9", "minute": 540}]}
+{"id": "pilot2-00364", "slice": "implicit", "text": "Thanks for offering! I'm picking the kids up from school at 3, so I can meet you afterwards.", "times": [{"text": "3", "minute": 900}]}
+{"id": "pilot2-00365", "slice": "implicit", "text": "My love, the baby arrived at 4 while the whole city was fast asleep, the streets outside were silent and empty. Mother and baby are both well.", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00366", "slice": "implicit", "text": "@Ollie Sunday league kicks off at 11 so bring the kit, the pitch is by the old gasworks and we'll hit the pub for lunch after.", "times": [{"text": "11", "minute": 660}]}
+{"id": "pilot2-00367", "slice": "explicit", "text": "Ride leaves at 8:20 AM and will take 3 hours, so bring snaks.", "times": [{"text": "8:20 AM", "minute": 500}]}
+{"id": "pilot2-00368", "slice": "cue", "text": "ill be back at 9 in the evening, dont wait up", "times": [{"text": "9", "minute": 1260}]}
+{"id": "pilot2-00369", "slice": "implicit", "text": "wigilia supper at my aunt's starts once the first star shows, so we sit down at 5:30 and i'll be starving", "times": [{"text": "5:30", "minute": 1050}]}
+{"id": "pilot2-00370", "slice": "implicit", "text": "I started unloading crates at the fruit and veg market at 3. The city is still asleep and the stalls are empty. The crates are heavy.", "times": [{"text": "3", "minute": 180}]}
+{"id": "pilot2-00371", "slice": "fallback", "text": "10 then", "times": [{"text": "10", "minute": 600}]}
+{"id": "pilot2-00372", "slice": "range", "text": "I'm free 8:30 to 10am.", "times": [{"text": "8:30", "minute": 510}, {"text": "10am", "minute": 600}]}
+{"id": "pilot2-00373", "slice": "range", "text": "Plumber is coming from 10 a.m. to noon so pleas stay in.", "times": [{"text": "10 a.m.", "minute": 600}, {"text": "noon", "minute": 720}]}
+{"id": "pilot2-00374", "slice": "none", "text": "Thank you so much for the lovely dinner. We had a wonderful time and hope to host you soon.", "times": []}
+{"id": "pilot2-00375", "slice": "none", "text": "I have a 1:1 with my manager coming up. Wish me luck. I'll tell you how it goes.", "times": []}
+{"id": "pilot2-00376", "slice": "cue", "text": "Can Grandma come to the appointment at 1 tomorrow afternoon? I'll drive.", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00377", "slice": "none", "text": "Thank you for the update. I will have the report ready in about an hour.", "times": []}
+{"id": "pilot2-00378", "slice": "explicit", "text": "The ferry docks at 1:15 PM and the return leaves at 5:35 am, so it's a 2 day trip with 6 of us.", "times": [{"text": "1:15 PM", "minute": 795}, {"text": "5:35 am", "minute": 335}]}
+{"id": "pilot2-00379", "slice": "implicit", "text": "Pre-drinks in our flat before we head out to the clubs, so please be there at 10:15. Thank you for bringing the mixers.", "times": [{"text": "10:15", "minute": 1335}]}
+{"id": "pilot2-00380", "slice": "fallback", "text": "8 then", "times": [{"text": "8", "minute": 480}]}
+{"id": "pilot2-00381", "slice": "implicit", "text": "The jury got sent home for the day at 5 and I'm meeting the others at the bar for hapy hour at 7, wait for me, ok?", "times": [{"text": "5", "minute": 1020}, {"text": "7", "minute": 1140}]}
+{"id": "pilot2-00382", "slice": "implicit", "text": "Parcels are being sorted at the depot before the vans head out for the day. I clock in at 4:30. The place is empty and freezing.", "times": [{"text": "4:30", "minute": 270}]}
+{"id": "pilot2-00383", "slice": "explicit", "text": "Woke at 2:55AM for the 5 hour drive to the regatta, registration closes at 06:55 😅", "times": [{"text": "2:55AM", "minute": 175}, {"text": "06:55", "minute": 415}]}
+{"id": "pilot2-00384", "slice": "none", "text": "@Dev the meeting is in room 4B, bring the laptop.", "times": []}
+{"id": "pilot2-00385", "slice": "fallback", "text": "1:30 then", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "pilot2-00386", "slice": "none", "text": "Could we schedule a 1:1 to discuss the project? Any day suits me. Thank you.", "times": []}
+{"id": "pilot2-00387", "slice": "explicit", "text": "landing at 10:20PM PST so dont wait up", "times": [{"text": "10:20PM", "minute": 1340}]}
+{"id": "pilot2-00388", "slice": "implicit", "text": "We'll be baling hay until the light goes, so I'm out in the field until 7. Don't wait with the dinner. The weather's holding for us.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "pilot2-00389", "slice": "implicit", "text": "Shepherd's bringing the flock down off the hill at 5 as the light fades 🐑 gate's open.", "times": [{"text": "5", "minute": 1020}]}
+{"id": "pilot2-00390", "slice": "explicit", "text": "@Mark the match is booked for 11AM Saturday, don't be late", "times": [{"text": "11AM", "minute": 660}]}
+{"id": "pilot2-00391", "slice": "implicit", "text": "the aunties are already square dancing in the park with the speakers blaring, it's only 8:10 and they've all finished dinner so there's a crowd", "times": [{"text": "8:10", "minute": 1210}]}
+{"id": "pilot2-00392", "slice": "implicit", "text": "Careful, the pharmacy shuts for its lunch break at 1 so go before then.", "times": [{"text": "1", "minute": 780}]}
+{"id": "pilot2-00393", "slice": "explicit", "text": "Thank you for the invite. My train gets in at 11:50 AM after a 3 hour trip, so I'll come straight to the cafe.", "times": [{"text": "11:50 AM", "minute": 710}]}
+{"id": "pilot2-00394", "slice": "cue", "text": "Court is free at 11:30 tomorrow morning, I booked it.", "times": [{"text": "11:30", "minute": 690}]}
+{"id": "pilot2-00395", "slice": "none", "text": "Just finished the book you lent me, loved the ending 😭", "times": []}
+{"id": "pilot2-00396", "slice": "explicit", "text": "Haha, I only got to sleep at 2:50 AM.", "times": [{"text": "2:50 AM", "minute": 170}]}
+{"id": "pilot2-00397", "slice": "none", "text": "The call should take about 20 minutes ⏱️ I'll share the notes after", "times": []}
+{"id": "pilot2-00398", "slice": "implicit", "text": "The snow ploughs are out clearing the roads before the commuters set off, so expect your delivery slighlty later; they started at 4.", "times": [{"text": "4", "minute": 240}]}
+{"id": "pilot2-00399", "slice": "implicit", "text": "Garden party at the vicarage starts at 2, wear the floral dress 🌸 and bring a tray of scones", "times": [{"text": "2", "minute": 840}]}

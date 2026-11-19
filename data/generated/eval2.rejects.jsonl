@@ -1,0 +1,22 @@
+{"id": "eval2-00013", "slice": "fallback", "text": "say 10", "reasons": ["duplicate message"]}
+{"id": "eval2-00017", "slice": "fallback", "text": "ok 11", "reasons": ["duplicate message"]}
+{"id": "eval2-00031", "slice": "fallback", "text": "12?", "reasons": ["duplicate message"]}
+{"id": "eval2-00038", "slice": "fallback", "text": "11 ok?", "reasons": ["duplicate message"]}
+{"id": "eval2-00047", "slice": "fallback", "text": "5:15 ok?", "reasons": ["duplicate message"]}
+{"id": "eval2-00058", "slice": "fallback", "text": "at 7", "reasons": ["duplicate message"]}
+{"id": "eval2-00090", "slice": "fallback", "text": "by 8", "reasons": ["duplicate message"]}
+{"id": "eval2-00100", "slice": "fallback", "text": "before 4", "reasons": ["duplicate message"]}
+{"id": "eval2-00124", "slice": "fallback", "text": "say 2", "reasons": ["duplicate message"]}
+{"id": "eval2-00136", "slice": "fallback", "text": "after 3:30", "reasons": ["duplicate message"]}
+{"id": "eval2-00176", "slice": "fallback", "text": "say 6", "reasons": ["duplicate message"]}
+{"id": "eval2-00194", "slice": "fallback", "text": "at 9 then", "reasons": ["duplicate message"]}
+{"id": "eval2-00198", "slice": "fallback", "text": "1?", "reasons": ["duplicate message"]}
+{"id": "eval2-00220", "slice": "fallback", "text": "7 it is", "reasons": ["duplicate message"]}
+{"id": "eval2-00240", "slice": "fallback", "text": "before 2:30", "reasons": ["duplicate message"]}
+{"id": "eval2-00252", "slice": "fallback", "text": "after 7", "reasons": ["duplicate message"]}
+{"id": "eval2-00271", "slice": "fallback", "text": "9?", "reasons": ["duplicate message"]}
+{"id": "eval2-00279", "slice": "fallback", "text": "by 3", "reasons": ["duplicate message"]}
+{"id": "eval2-00281", "slice": "fallback", "text": "at 4", "reasons": ["duplicate message"]}
+{"id": "eval2-00298", "slice": "fallback", "text": "around 5", "reasons": ["duplicate message"]}
+{"id": "eval2-00367", "slice": "fallback", "text": "10 works", "reasons": ["duplicate message"]}
+{"id": "eval2-00380", "slice": "fallback", "text": "around 11", "reasons": ["duplicate message"]}

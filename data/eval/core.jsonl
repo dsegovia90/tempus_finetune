@@ -1,0 +1,130 @@
+{"id": "core-001", "slice": "implicit", "text": "dinner at 7? that new ramen place", "times": [{"text": "7", "minute": 1140}]}
+{"id": "core-002", "slice": "implicit", "text": "standup is at 9 tmrw, dont be late 😅", "times": [{"text": "9", "minute": 540}]}
+{"id": "core-003", "slice": "implicit", "text": "lets meet at 3 to go over the roadmap", "times": [{"text": "3", "minute": 900}]}
+{"id": "core-004", "slice": "implicit", "text": "can we do lunch at 1 instead? stuck in a review", "times": [{"text": "1", "minute": 780}]}
+{"id": "core-005", "slice": "implicit", "text": "breakfast at 8 before the offsite, hotel lobby", "times": [{"text": "8", "minute": 480}]}
+{"id": "core-006", "slice": "implicit", "text": "happy hour starts at 5 🍻", "times": [{"text": "5", "minute": 1020}]}
+{"id": "core-007", "slice": "implicit", "text": "kids bedtime is 8 so i'll be back online after that", "times": [{"text": "8", "minute": 1200}]}
+{"id": "core-008", "slice": "implicit", "text": "got paged at 2, been up ever since 😩", "times": [{"text": "2", "minute": 120}]}
+{"id": "core-009", "slice": "implicit", "text": "the bar closes at 2 so we have time", "times": [{"text": "2", "minute": 120}]}
+{"id": "core-010", "slice": "implicit", "text": "school pickup is at 3, will drop off slack for a bit", "times": [{"text": "3", "minute": 900}]}
+{"id": "core-011", "slice": "implicit", "text": "alarm set for 6, gym before work", "times": [{"text": "6", "minute": 360}]}
+{"id": "core-012", "slice": "implicit", "text": "sunrise hike sat! meet at the trailhead at 5", "times": [{"text": "5", "minute": 300}]}
+{"id": "core-013", "slice": "implicit", "text": "office opens at 8 but nobody's in before 10 lol", "times": [{"text": "8", "minute": 480}, {"text": "10", "minute": 600}]}
+{"id": "core-014", "slice": "implicit", "text": "market closes at 4, get your orders in", "times": [{"text": "4", "minute": 960}]}
+{"id": "core-015", "slice": "implicit", "text": "movie starts at 9, grab food before?", "times": [{"text": "9", "minute": 1260}]}
+{"id": "core-016", "slice": "implicit", "text": "i usually log off around 6", "times": [{"text": "6", "minute": 1080}]}
+{"id": "core-017", "slice": "implicit", "text": "cant do 4, dentist appt", "times": [{"text": "4", "minute": 960}]}
+{"id": "core-018", "slice": "implicit", "text": "nightly build kicks off at 1 and takes forever", "times": [{"text": "1", "minute": 60}]}
+{"id": "core-019", "slice": "implicit", "text": "im in meetings 2-4 but free after", "times": [{"text": "2", "minute": 840}, {"text": "4", "minute": 960}]}
+{"id": "core-020", "slice": "implicit", "text": "store's open 9 to 9 on weekdays", "times": [{"text": "9", "minute": 540}, {"text": "9", "minute": 1260}]}
+{"id": "core-021", "slice": "implicit", "text": "after-work drinks at 6:30?", "times": [{"text": "6:30", "minute": 1110}]}
+{"id": "core-022", "slice": "implicit", "text": "brunch sunday at 11, you in?", "times": [{"text": "11", "minute": 660}]}
+{"id": "core-023", "slice": "implicit", "text": "red-eye leaves at 11:45 so i'm offline till i land", "times": [{"text": "11:45", "minute": 1425}]}
+{"id": "core-024", "slice": "implicit", "text": "kickoff's at 7:45, pub beforehand?", "times": [{"text": "7:45", "minute": 1185}]}
+{"id": "core-025", "slice": "implicit", "text": "doctor at 10:30 then im back online", "times": [{"text": "10:30", "minute": 630}]}
+{"id": "core-026", "slice": "implicit", "text": "couldn't sleep, was up debugging till 4", "times": [{"text": "4", "minute": 240}]}
+{"id": "core-027", "slice": "implicit", "text": "daycare closes at 6 so hard stop for me at 5:30", "times": [{"text": "6", "minute": 1080}, {"text": "5:30", "minute": 1050}]}
+{"id": "core-028", "slice": "implicit", "text": "team lunch tomorrow, 12:15 in the lobby", "times": [{"text": "12:15", "minute": 735}]}
+{"id": "core-029", "slice": "implicit", "text": "1:1 at 2? need to talk about the migration", "times": [{"text": "2", "minute": 840}]}
+{"id": "core-030", "slice": "implicit", "text": "i work 9-5 so anything after that is fine", "times": [{"text": "9", "minute": 540}, {"text": "5", "minute": 1020}]}
+{"id": "core-031", "slice": "implicit", "text": "meet at 9, should only take 20 mins", "times": [{"text": "9", "minute": 540}]}
+{"id": "core-032", "slice": "implicit", "text": "lunch from 12 to 1 then im heads down", "times": [{"text": "12", "minute": 720}, {"text": "1", "minute": 780}]}
+{"id": "core-033", "slice": "implicit", "text": "wake me at 7 if the deploy is still red", "times": [{"text": "7", "minute": 420}]}
+{"id": "core-034", "slice": "implicit", "text": "we close at 5 on fridays", "times": [{"text": "5", "minute": 1020}]}
+{"id": "core-035", "slice": "cue", "text": "3 in the afternoon works for me", "times": [{"text": "3", "minute": 900}]}
+{"id": "core-036", "slice": "cue", "text": "tonight at 8, my place", "times": [{"text": "8", "minute": 1200}]}
+{"id": "core-037", "slice": "cue", "text": "this evening around 7:30 is fine", "times": [{"text": "7:30", "minute": 1170}]}
+{"id": "core-038", "slice": "cue", "text": "call me at 6 in the morning if it breaks again", "times": [{"text": "6", "minute": 360}]}
+{"id": "core-039", "slice": "cue", "text": "tomorrow afternoon, say 2:30?", "times": [{"text": "2:30", "minute": 870}]}
+{"id": "core-040", "slice": "cue", "text": "it was like 1 at night when the alert fired", "times": [{"text": "1", "minute": 60}]}
+{"id": "core-041", "slice": "cue", "text": "deploy window opens at 11 tonight", "times": [{"text": "11", "minute": 1380}]}
+{"id": "core-042", "slice": "cue", "text": "morning sync moved to 10", "times": [{"text": "10", "minute": 600}]}
+{"id": "core-043", "slice": "cue", "text": "free this afternoon after 4", "times": [{"text": "4", "minute": 960}]}
+{"id": "core-044", "slice": "cue", "text": "late night release, we start at 10", "times": [{"text": "10", "minute": 1320}]}
+{"id": "core-045", "slice": "cue", "text": "i'll ping you tmrw evening, 6ish", "times": [{"text": "6", "minute": 1080}]}
+{"id": "core-046", "slice": "cue", "text": "db restarts at 12 at night fyi", "times": [{"text": "12", "minute": 0}]}
+{"id": "core-047", "slice": "cue", "text": "early morning flight, boarding at 5:40", "times": [{"text": "5:40", "minute": 340}]}
+{"id": "core-048", "slice": "cue", "text": "who schedules a call for 2 in the morning 💀", "times": [{"text": "2", "minute": 120}]}
+{"id": "core-049", "slice": "cue", "text": "tomorrow morning at 9 then", "times": [{"text": "9", "minute": 540}]}
+{"id": "core-050", "slice": "explicit", "text": "lets meet tomorrow at 3pm", "times": [{"text": "3pm", "minute": 900}]}
+{"id": "core-051", "slice": "explicit", "text": "call is at 15:00 CET", "times": [{"text": "15:00", "minute": 900}]}
+{"id": "core-052", "slice": "explicit", "text": "9am works for me 👍", "times": [{"text": "9am", "minute": 540}]}
+{"id": "core-053", "slice": "explicit", "text": "the demo is at 2:30 PM in the big room", "times": [{"text": "2:30 PM", "minute": 870}]}
+{"id": "core-054", "slice": "explicit", "text": "lunch at noon?", "times": [{"text": "noon", "minute": 720}]}
+{"id": "core-055", "slice": "explicit", "text": "deadline is midnight, no extensions", "times": [{"text": "midnight", "minute": 0}]}
+{"id": "core-056", "slice": "explicit", "text": "see you at 4 p.m. sharp", "times": [{"text": "4 p.m.", "minute": 960}]}
+{"id": "core-057", "slice": "explicit", "text": "meeting starts 10:15am", "times": [{"text": "10:15am", "minute": 615}]}
+{"id": "core-058", "slice": "explicit", "text": "11:59pm cutoff for submissions", "times": [{"text": "11:59pm", "minute": 1439}]}
+{"id": "core-059", "slice": "explicit", "text": "maintenance starts at 12am", "times": [{"text": "12am", "minute": 0}]}
+{"id": "core-060", "slice": "explicit", "text": "@maria can you do 12pm?", "times": [{"text": "12pm", "minute": 720}]}
+{"id": "core-061", "slice": "explicit", "text": "standup 09:30 as usual", "times": [{"text": "09:30", "minute": 570}]}
+{"id": "core-062", "slice": "explicit", "text": "webinar is 7 PM EST", "times": [{"text": "7 PM", "minute": 1140}]}
+{"id": "core-063", "slice": "explicit", "text": "train leaves at 18:45", "times": [{"text": "18:45", "minute": 1125}]}
+{"id": "core-064", "slice": "explicit", "text": "cron fires at 23:00 UTC", "times": [{"text": "23:00", "minute": 1380}]}
+{"id": "core-065", "slice": "explicit", "text": "logs show the spike at 00:15", "times": [{"text": "00:15", "minute": 15}]}
+{"id": "core-066", "slice": "explicit", "text": "options: 10am, 1pm or 4:30pm", "times": [{"text": "10am", "minute": 600}, {"text": "1pm", "minute": 780}, {"text": "4:30pm", "minute": 990}]}
+{"id": "core-067", "slice": "explicit", "text": "moved from 2pm to 3:30pm, sorry!", "times": [{"text": "2pm", "minute": 840}, {"text": "3:30pm", "minute": 930}]}
+{"id": "core-068", "slice": "explicit", "text": "a 30 minute call at 15:00 should do it", "times": [{"text": "15:00", "minute": 900}]}
+{"id": "core-069", "slice": "explicit", "text": "we need 3 people at 3pm for the booth", "times": [{"text": "3pm", "minute": 900}]}
+{"id": "core-070", "slice": "explicit", "text": "back in 2 hours, so around 5pm", "times": [{"text": "5pm", "minute": 1020}]}
+{"id": "core-071", "slice": "explicit", "text": "45 min sync at 10:30am?", "times": [{"text": "10:30am", "minute": 630}]}
+{"id": "core-072", "slice": "explicit", "text": "woke up at 7:05 a.m. for this", "times": [{"text": "7:05 a.m.", "minute": 425}]}
+{"id": "core-073", "slice": "explicit", "text": "does 3 pm work for everyone", "times": [{"text": "3 pm", "minute": 900}]}
+{"id": "core-074", "slice": "explicit", "text": "it went down at 12:30am", "times": [{"text": "12:30am", "minute": 30}]}
+{"id": "core-075", "slice": "range", "text": "I'm free tomorrow from noon to 4pm", "times": [{"text": "noon", "minute": 720}, {"text": "4pm", "minute": 960}]}
+{"id": "core-076", "slice": "range", "text": "free from 2 to 4pm", "times": [{"text": "2", "minute": 840}, {"text": "4pm", "minute": 960}]}
+{"id": "core-077", "slice": "range", "text": "workshop is 9-11am", "times": [{"text": "9", "minute": 540}, {"text": "11am", "minute": 660}]}
+{"id": "core-078", "slice": "range", "text": "anytime between 1 and 3pm", "times": [{"text": "1", "minute": 780}, {"text": "3pm", "minute": 900}]}
+{"id": "core-079", "slice": "range", "text": "blocked 10 to 11:30am for the retro", "times": [{"text": "10", "minute": 600}, {"text": "11:30am", "minute": 690}]}
+{"id": "core-080", "slice": "range", "text": "i can do 6-8pm", "times": [{"text": "6", "minute": 1080}, {"text": "8pm", "minute": 1200}]}
+{"id": "core-081", "slice": "range", "text": "on call 8 to 10 pm", "times": [{"text": "8", "minute": 1200}, {"text": "10 pm", "minute": 1320}]}
+{"id": "core-082", "slice": "range", "text": "interview panel 11-1pm", "times": [{"text": "11", "minute": 660}, {"text": "1pm", "minute": 780}]}
+{"id": "core-083", "slice": "range", "text": "office hours 9am-5", "times": [{"text": "9am", "minute": 540}, {"text": "5", "minute": 1020}]}
+{"id": "core-084", "slice": "range", "text": "outage window 10pm-2am", "times": [{"text": "10pm", "minute": 1320}, {"text": "2am", "minute": 120}]}
+{"id": "core-085", "slice": "range", "text": "7 to 9 tonight works", "times": [{"text": "7", "minute": 1140}, {"text": "9", "minute": 1260}]}
+{"id": "core-086", "slice": "range", "text": "training 8:30-10am", "times": [{"text": "8:30", "minute": 510}, {"text": "10am", "minute": 600}]}
+{"id": "core-087", "slice": "range", "text": "maintenance from 11pm to 1", "times": [{"text": "11pm", "minute": 1380}, {"text": "1", "minute": 60}]}
+{"id": "core-088", "slice": "range", "text": "design review 2-3:30pm", "times": [{"text": "2", "minute": 840}, {"text": "3:30pm", "minute": 930}]}
+{"id": "core-089", "slice": "fallback", "text": "3", "times": [{"text": "3", "minute": 180}]}
+{"id": "core-090", "slice": "fallback", "text": "at 3?", "times": [{"text": "3", "minute": 180}]}
+{"id": "core-091", "slice": "fallback", "text": "7:30", "times": [{"text": "7:30", "minute": 450}]}
+{"id": "core-092", "slice": "fallback", "text": "at 11:15", "times": [{"text": "11:15", "minute": 675}]}
+{"id": "core-093", "slice": "fallback", "text": "12", "times": [{"text": "12", "minute": 720}]}
+{"id": "core-094", "slice": "fallback", "text": "12:45", "times": [{"text": "12:45", "minute": 765}]}
+{"id": "core-095", "slice": "fallback", "text": "around 6", "times": [{"text": "6", "minute": 360}]}
+{"id": "core-096", "slice": "fallback", "text": "1:05", "times": [{"text": "1:05", "minute": 65}]}
+{"id": "core-097", "slice": "fallback", "text": "at 4:20 then", "times": [{"text": "4:20", "minute": 260}]}
+{"id": "core-098", "slice": "none", "text": "sounds good, see you tomorrow", "times": []}
+{"id": "core-099", "slice": "none", "text": "can you review my PR? it's 300 lines", "times": []}
+{"id": "core-100", "slice": "none", "text": "room 3 is booked, try room 5", "times": []}
+{"id": "core-101", "slice": "none", "text": "we need 3 people for the demo", "times": []}
+{"id": "core-102", "slice": "none", "text": "call me in 2 hours", "times": []}
+{"id": "core-103", "slice": "none", "text": "a 30 minute call should be enough", "times": []}
+{"id": "core-104", "slice": "none", "text": "that'll be $15.00", "times": []}
+{"id": "core-105", "slice": "none", "text": "i'm free in the morning", "times": []}
+{"id": "core-106", "slice": "none", "text": "let's sync sometime this afternoon", "times": []}
+{"id": "core-107", "slice": "none", "text": "version 2.4.1 is out 🎉", "times": []}
+{"id": "core-108", "slice": "none", "text": "ticket 4512 is blocked on infra", "times": []}
+{"id": "core-109", "slice": "none", "text": "back in 5", "times": []}
+{"id": "core-110", "slice": "none", "text": "gimme 10 min", "times": []}
+{"id": "core-111", "slice": "none", "text": "finished the marathon in 3:45, legs are dead", "times": []}
+{"id": "core-112", "slice": "none", "text": "we won 3-2 last night", "times": []}
+{"id": "core-113", "slice": "none", "text": "1:1 with sam got cancelled", "times": []}
+{"id": "core-114", "slice": "none", "text": "export it at 16:9 please", "times": []}
+{"id": "core-115", "slice": "none", "text": "i'm on call 24/7 this week", "times": []}
+{"id": "core-116", "slice": "none", "text": "we're at 95% coverage now", "times": []}
+{"id": "core-117", "slice": "none", "text": "tonight works", "times": []}
+{"id": "core-118", "slice": "none", "text": "ETA 20 mins", "times": []}
+{"id": "core-119", "slice": "none", "text": "the meeting ran 2 hours over", "times": []}
+{"id": "core-120", "slice": "none", "text": "9 out of 10 tests pass", "times": []}
+{"id": "core-121", "slice": "none", "text": "finally got 8 hours of sleep", "times": []}
+{"id": "core-122", "slice": "none", "text": "we're on the 5th floor", "times": []}
+{"id": "core-123", "slice": "none", "text": "the 12th works for me", "times": []}
+{"id": "core-124", "slice": "none", "text": "3 days until launch 🚀", "times": []}
+{"id": "core-125", "slice": "none", "text": "build #1430 failed again", "times": []}
+{"id": "core-126", "slice": "none", "text": "we're still on python 3.12", "times": []}
+{"id": "core-127", "slice": "none", "text": "port 8080 isn't responding", "times": []}
+{"id": "core-128", "slice": "none", "text": "after lunch works for me", "times": []}
+{"id": "core-129", "slice": "none", "text": "half an hour from now?", "times": []}
+{"id": "core-130", "slice": "none", "text": "10/10 would deploy again", "times": []}

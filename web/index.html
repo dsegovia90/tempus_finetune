@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tempus in the browser</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+  <script src="isolate.js"></script>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main>
+    <h1>Clock times, read in your browser</h1>
+    <p class="lede">A small model trained to find every clock time in a chat message and say what time of day it means: a finetuned small language model (LFM2.5-230M or Qwen3.5 0.8B), or a tiny non-generative model (BERT-mini) that tags the times in the message and reads each one. It runs on this device; nothing is sent anywhere.</p>
+
+    <section id="loading">
+      <progress id="progress" max="1" value="0"></progress>
+      <span id="progress-label">Loading the model…</span>
+      <button id="download" hidden>Download the model</button>
+    </section>
+
+    <dialog id="consent">
+      <form method="dialog">
+        <h2>Download the model?</h2>
+        <p id="consent-text"></p>
+        <p id="consent-licence"></p>
+        <p>It runs on this device. Nothing you type is sent anywhere.</p>
+        <menu>
+          <button value="no">Not now</button>
+          <button value="yes" id="consent-yes">Download</button>
+        </menu>
+      </form>
+    </dialog>
+
+    <form id="ask">
+      <textarea id="message" rows="3" placeholder="Type a chat message, e.g. “dinner at 7?”" disabled></textarea>
+      <button id="send" disabled>Read times</button>
+    </form>
+    <div id="examples"></div>
+
+    <table id="times" hidden>
+      <thead><tr><th>Text</th><th>Time</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <p id="none" hidden>No clock time in this message.</p>
+    <section id="raw-output" hidden>
+      <h2 id="raw-heading">Raw model output</h2>
+      <pre id="raw"></pre>
+    </section>
+
+    <section id="eval" hidden>
+      <h2 id="eval-heading">Eval</h2>
+      <p id="eval-progress"></p>
+      <div id="eval-summary"></div>
+      <table id="eval-mismatches" hidden>
+        <thead><tr><th>Message</th><th>Reference</th><th>Browser</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <pre id="eval-json"></pre>
+    </section>
+
+    <footer>
+      <p id="status">Not loaded</p>
+      <form id="options">
+        <label>Model
+          <select name="model"></select>
+        </label>
+        <label><input type="checkbox" name="cpu" value="1"> Force CPU</label>
+        <label><input type="checkbox" name="threads" value="1"> Single thread</label>
+        <label><input type="checkbox" name="eval" value="1"> Eval mode</label>
+        <button>Apply and reload</button>
+      </form>
+    </footer>
+  </main>
+</body>
+</html>

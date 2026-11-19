@@ -1,0 +1,6 @@
+{"id": "negatives-00009", "slice": "none", "text": "back in 5", "reasons": ["duplicate message"]}
+{"id": "negatives-00260", "slice": "none", "text": "gimme 10 min", "reasons": ["duplicate message"]}
+{"id": "negatives-00656", "slice": "none", "text": "coffee after lunch?", "reasons": ["duplicate message"]}
+{"id": "negatives-00745", "slice": "none", "text": "support is 24/7 now", "reasons": ["duplicate message"]}
+{"id": "negatives-00827", "slice": "none", "text": "back in 5", "reasons": ["duplicate message"]}
+{"id": "negatives-00963", "slice": "none", "text": "Court booked for 4.", "reasons": ["checker read it as [('4', 960)]"]}

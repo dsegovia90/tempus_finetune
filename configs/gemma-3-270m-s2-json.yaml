@@ -1,0 +1,7 @@
+model: unsloth/gemma-3-270m-it
+loader: FastModel
+data: data/generated/train.jsonl
+format: json
+learning_rate: 2.0e-4
+epochs: 3
+seed: 2

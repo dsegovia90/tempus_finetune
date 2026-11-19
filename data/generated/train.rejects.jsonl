@@ -1,0 +1,27 @@
+{"id": "train-00345", "slice": "fallback", "text": "at 3?", "reasons": ["duplicate message"]}
+{"id": "train-01009", "slice": "fallback", "text": "around 6", "reasons": ["duplicate message"]}
+{"id": "train-01015", "slice": "fallback", "text": "until 3", "reasons": ["duplicate message"]}
+{"id": "train-01091", "slice": "fallback", "text": "3 then", "reasons": ["duplicate message"]}
+{"id": "train-01558", "slice": "explicit", "text": "Bus leaves at 17:20 and the train gets in at 7:35 pm, so it's 2 hours 15 minutes door to door 😅", "reasons": ["span '17:20' missing or out of order", "checker read it as [('17:20', 1040), ('7:35 pm', 1175)]"]}
+{"id": "train-01852", "slice": "fallback", "text": "say 10", "reasons": ["duplicate message"]}
+{"id": "train-01900", "slice": "fallback", "text": "12", "reasons": ["duplicate message"]}
+{"id": "train-02498", "slice": "none", "text": "Pizza tonight?", "reasons": ["duplicate message"]}
+{"id": "train-02535", "slice": "fallback", "text": "12 ok?", "reasons": ["duplicate message"]}
+{"id": "train-03182", "slice": "fallback", "text": "ok 8", "reasons": ["duplicate message"]}
+{"id": "train-03246", "slice": "fallback", "text": "1 it is", "reasons": ["duplicate message"]}
+{"id": "train-03279", "slice": "fallback", "text": "3", "reasons": ["duplicate message"]}
+{"id": "train-03395", "slice": "none", "text": "Back in a bit", "reasons": ["duplicate message"]}
+{"id": "train-03418", "slice": "fallback", "text": "before 7", "reasons": ["duplicate message"]}
+{"id": "train-03600", "slice": "fallback", "text": "8", "reasons": ["duplicate message"]}
+{"id": "train-03905", "slice": "fallback", "text": "3:15 then", "reasons": ["duplicate message"]}
+{"id": "train-04536", "slice": "fallback", "text": "12:45", "reasons": ["duplicate message"]}
+{"id": "train-05379", "slice": "fallback", "text": "by 2", "reasons": ["duplicate message"]}
+{"id": "train-05753", "slice": "fallback", "text": "7:30", "reasons": ["duplicate message"]}
+{"id": "train-05912", "slice": "none", "text": "Be there in a bit", "reasons": ["duplicate message"]}
+{"id": "train-06425", "slice": "fallback", "text": "6:30?", "reasons": ["duplicate message"]}
+{"id": "train-06814", "slice": "none", "text": "back in a bit", "reasons": ["duplicate message"]}
+{"id": "train-06940", "slice": "fallback", "text": "by 11:30", "reasons": ["duplicate message"]}
+{"id": "train-07656", "slice": "fallback", "text": "ok 8", "reasons": ["duplicate message"]}
+{"id": "train-07735", "slice": "fallback", "text": "say 12:30", "reasons": ["duplicate message"]}
+{"id": "train-07829", "slice": "none", "text": "Test coverage is up to 87% 🎉 nice work everyone", "reasons": ["duplicate message"]}
+{"id": "train-07886", "slice": "fallback", "text": "1?", "reasons": ["duplicate message"]}

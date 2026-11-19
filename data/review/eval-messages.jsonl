@@ -1,0 +1,530 @@
+{"id": "core-001", "text": "dinner at 7? that new ramen place"}
+{"id": "core-002", "text": "standup is at 9 tmrw, dont be late 😅"}
+{"id": "core-003", "text": "lets meet at 3 to go over the roadmap"}
+{"id": "core-004", "text": "can we do lunch at 1 instead? stuck in a review"}
+{"id": "core-005", "text": "breakfast at 8 before the offsite, hotel lobby"}
+{"id": "core-006", "text": "happy hour starts at 5 🍻"}
+{"id": "core-007", "text": "kids bedtime is 8 so i'll be back online after that"}
+{"id": "core-008", "text": "got paged at 2, been up ever since 😩"}
+{"id": "core-009", "text": "the bar closes at 2 so we have time"}
+{"id": "core-010", "text": "school pickup is at 3, will drop off slack for a bit"}
+{"id": "core-011", "text": "alarm set for 6, gym before work"}
+{"id": "core-012", "text": "sunrise hike sat! meet at the trailhead at 5"}
+{"id": "core-013", "text": "office opens at 8 but nobody's in before 10 lol"}
+{"id": "core-014", "text": "market closes at 4, get your orders in"}
+{"id": "core-015", "text": "movie starts at 9, grab food before?"}
+{"id": "core-016", "text": "i usually log off around 6"}
+{"id": "core-017", "text": "cant do 4, dentist appt"}
+{"id": "core-018", "text": "nightly build kicks off at 1 and takes forever"}
+{"id": "core-019", "text": "im in meetings 2-4 but free after"}
+{"id": "core-020", "text": "store's open 9 to 9 on weekdays"}
+{"id": "core-021", "text": "after-work drinks at 6:30?"}
+{"id": "core-022", "text": "brunch sunday at 11, you in?"}
+{"id": "core-023", "text": "red-eye leaves at 11:45 so i'm offline till i land"}
+{"id": "core-024", "text": "kickoff's at 7:45, pub beforehand?"}
+{"id": "core-025", "text": "doctor at 10:30 then im back online"}
+{"id": "core-026", "text": "couldn't sleep, was up debugging till 4"}
+{"id": "core-027", "text": "daycare closes at 6 so hard stop for me at 5:30"}
+{"id": "core-028", "text": "team lunch tomorrow, 12:15 in the lobby"}
+{"id": "core-029", "text": "1:1 at 2? need to talk about the migration"}
+{"id": "core-030", "text": "i work 9-5 so anything after that is fine"}
+{"id": "core-031", "text": "meet at 9, should only take 20 mins"}
+{"id": "core-032", "text": "lunch from 12 to 1 then im heads down"}
+{"id": "core-033", "text": "wake me at 7 if the deploy is still red"}
+{"id": "core-034", "text": "we close at 5 on fridays"}
+{"id": "core-035", "text": "3 in the afternoon works for me"}
+{"id": "core-036", "text": "tonight at 8, my place"}
+{"id": "core-037", "text": "this evening around 7:30 is fine"}
+{"id": "core-038", "text": "call me at 6 in the morning if it breaks again"}
+{"id": "core-039", "text": "tomorrow afternoon, say 2:30?"}
+{"id": "core-040", "text": "it was like 1 at night when the alert fired"}
+{"id": "core-041", "text": "deploy window opens at 11 tonight"}
+{"id": "core-042", "text": "morning sync moved to 10"}
+{"id": "core-043", "text": "free this afternoon after 4"}
+{"id": "core-044", "text": "late night release, we start at 10"}
+{"id": "core-045", "text": "i'll ping you tmrw evening, 6ish"}
+{"id": "core-046", "text": "db restarts at 12 at night fyi"}
+{"id": "core-047", "text": "early morning flight, boarding at 5:40"}
+{"id": "core-048", "text": "who schedules a call for 2 in the morning 💀"}
+{"id": "core-049", "text": "tomorrow morning at 9 then"}
+{"id": "core-050", "text": "lets meet tomorrow at 3pm"}
+{"id": "core-051", "text": "call is at 15:00 CET"}
+{"id": "core-052", "text": "9am works for me 👍"}
+{"id": "core-053", "text": "the demo is at 2:30 PM in the big room"}
+{"id": "core-054", "text": "lunch at noon?"}
+{"id": "core-055", "text": "deadline is midnight, no extensions"}
+{"id": "core-056", "text": "see you at 4 p.m. sharp"}
+{"id": "core-057", "text": "meeting starts 10:15am"}
+{"id": "core-058", "text": "11:59pm cutoff for submissions"}
+{"id": "core-059", "text": "maintenance starts at 12am"}
+{"id": "core-060", "text": "@maria can you do 12pm?"}
+{"id": "core-061", "text": "standup 09:30 as usual"}
+{"id": "core-062", "text": "webinar is 7 PM EST"}
+{"id": "core-063", "text": "train leaves at 18:45"}
+{"id": "core-064", "text": "cron fires at 23:00 UTC"}
+{"id": "core-065", "text": "logs show the spike at 00:15"}
+{"id": "core-066", "text": "options: 10am, 1pm or 4:30pm"}
+{"id": "core-067", "text": "moved from 2pm to 3:30pm, sorry!"}
+{"id": "core-068", "text": "a 30 minute call at 15:00 should do it"}
+{"id": "core-069", "text": "we need 3 people at 3pm for the booth"}
+{"id": "core-070", "text": "back in 2 hours, so around 5pm"}
+{"id": "core-071", "text": "45 min sync at 10:30am?"}
+{"id": "core-072", "text": "woke up at 7:05 a.m. for this"}
+{"id": "core-073", "text": "does 3 pm work for everyone"}
+{"id": "core-074", "text": "it went down at 12:30am"}
+{"id": "core-075", "text": "I'm free tomorrow from noon to 4pm"}
+{"id": "core-076", "text": "free from 2 to 4pm"}
+{"id": "core-077", "text": "workshop is 9-11am"}
+{"id": "core-078", "text": "anytime between 1 and 3pm"}
+{"id": "core-079", "text": "blocked 10 to 11:30am for the retro"}
+{"id": "core-080", "text": "i can do 6-8pm"}
+{"id": "core-081", "text": "on call 8 to 10 pm"}
+{"id": "core-082", "text": "interview panel 11-1pm"}
+{"id": "core-083", "text": "office hours 9am-5"}
+{"id": "core-084", "text": "outage window 10pm-2am"}
+{"id": "core-085", "text": "7 to 9 tonight works"}
+{"id": "core-086", "text": "training 8:30-10am"}
+{"id": "core-087", "text": "maintenance from 11pm to 1"}
+{"id": "core-088", "text": "design review 2-3:30pm"}
+{"id": "core-089", "text": "3"}
+{"id": "core-090", "text": "at 3?"}
+{"id": "core-091", "text": "7:30"}
+{"id": "core-092", "text": "at 11:15"}
+{"id": "core-093", "text": "12"}
+{"id": "core-094", "text": "12:45"}
+{"id": "core-095", "text": "around 6"}
+{"id": "core-096", "text": "1:05"}
+{"id": "core-097", "text": "at 4:20 then"}
+{"id": "core-098", "text": "sounds good, see you tomorrow"}
+{"id": "core-099", "text": "can you review my PR? it's 300 lines"}
+{"id": "core-100", "text": "room 3 is booked, try room 5"}
+{"id": "core-101", "text": "we need 3 people for the demo"}
+{"id": "core-102", "text": "call me in 2 hours"}
+{"id": "core-103", "text": "a 30 minute call should be enough"}
+{"id": "core-104", "text": "that'll be $15.00"}
+{"id": "core-105", "text": "i'm free in the morning"}
+{"id": "core-106", "text": "let's sync sometime this afternoon"}
+{"id": "core-107", "text": "version 2.4.1 is out 🎉"}
+{"id": "core-108", "text": "ticket 4512 is blocked on infra"}
+{"id": "core-109", "text": "back in 5"}
+{"id": "core-110", "text": "gimme 10 min"}
+{"id": "core-111", "text": "finished the marathon in 3:45, legs are dead"}
+{"id": "core-112", "text": "we won 3-2 last night"}
+{"id": "core-113", "text": "1:1 with sam got cancelled"}
+{"id": "core-114", "text": "export it at 16:9 please"}
+{"id": "core-115", "text": "i'm on call 24/7 this week"}
+{"id": "core-116", "text": "we're at 95% coverage now"}
+{"id": "core-117", "text": "tonight works"}
+{"id": "core-118", "text": "ETA 20 mins"}
+{"id": "core-119", "text": "the meeting ran 2 hours over"}
+{"id": "core-120", "text": "9 out of 10 tests pass"}
+{"id": "core-121", "text": "finally got 8 hours of sleep"}
+{"id": "core-122", "text": "we're on the 5th floor"}
+{"id": "core-123", "text": "the 12th works for me"}
+{"id": "core-124", "text": "3 days until launch 🚀"}
+{"id": "core-125", "text": "build #1430 failed again"}
+{"id": "core-126", "text": "we're still on python 3.12"}
+{"id": "core-127", "text": "port 8080 isn't responding"}
+{"id": "core-128", "text": "after lunch works for me"}
+{"id": "core-129", "text": "half an hour from now?"}
+{"id": "core-130", "text": "10/10 would deploy again"}
+{"id": "eval-00000", "text": "can you send me the slides before the review so i can skim them first thanks"}
+{"id": "eval-00001", "text": "Hi Priya, just so you know the server migration finished and I was up until 4:40 am making sure it held 😅 everything looks stable now!"}
+{"id": "eval-00002", "text": "bowls at 4, sun's still blazing so hats and sunscreen everyone"}
+{"id": "eval-00003", "text": "some guy just rolled into the campsite at 10 and is pitching his tent by torchlight right next to ours lol"}
+{"id": "eval-00004", "text": "the call only took 20 min, easy"}
+{"id": "eval-00005", "text": "ice cream van usualy comes round the estate at 4 once the kids are out of school, so keep some change handy"}
+{"id": "eval-00006", "text": "Ugh, I'm not going to be home until 11:30 tonight. Don't wait up for dinner. Save me some though."}
+{"id": "eval-00007", "text": "the gurdwara serves free langar lunch from 12 if you want to bring the team along, everyone is welcome"}
+{"id": "eval-00008", "text": "@Dad the dentist gave me 8:55AM and it'll take about 40 minutes, so can you do the school run for both kids?"}
+{"id": "eval-00009", "text": "I'm free from 7 to 8 pm if you wanna go over teh deck, otherwise it'll have to wait til tomorrow"}
+{"id": "eval-00010", "text": "Plumber says he's coming 5-6PM. Can you be home to let him in? I've got a class that runs late."}
+{"id": "eval-00011", "text": "book club at 8 after work, don't wait on dinner for me"}
+{"id": "eval-00012", "text": "Yeah she was up at 1:45 in the morning screaming again, so I'm running on fumes today."}
+{"id": "eval-00013", "text": "The lower divisions have been going since breakfast, and the top-division sumo bouts finish around 5:30 with the yokozuna fighting last. Worth watching live if you can."}
+{"id": "eval-00014", "text": "Heads up, the smoke alarm went off at 2:35am 😴 the battery chirped for like 10 minutes before I found it."}
+{"id": "eval-00015", "text": "we've got 12 players confirmed for the weekend scrimmage 🎉 need one more for even teams"}
+{"id": "eval-00016", "text": "i'm around between 6PM and 10 PM if you want to hop on a call about the rota"}
+{"id": "eval-00017", "text": "Hello all, I'll be resting in the crew bunks while the cabin is dark and every passenger is asleep, so please wake me at 4 for the second service. Thank you very much."}
+{"id": "eval-00018", "text": "that task took me about an hour, so annoying"}
+{"id": "eval-00019", "text": "gotta duck out of the office for physio at 2, wish me luck on the knee 😬"}
+{"id": "eval-00020", "text": "essay portal locks at 11 sharp, it's the very end of the day and I've only written half"}
+{"id": "eval-00021", "text": "Please save me a seat at the après-ski bar, as the slopes close at 5 and I'll come straight down for the first round."}
+{"id": "eval-00022", "text": "I'll be home at 8 in the evening, so don't start dinner whithout me."}
+{"id": "eval-00023", "text": "Wedding ceremony starts at 3 💒 so we need to be seated before then, and the reception dinner follows straight after."}
+{"id": "eval-00024", "text": "Heads up, the batch job finished at 3:40AM EST so the reprot should be sitting in your inbox now."}
+{"id": "eval-00025", "text": "Landed at 11:35AM PST ✈️ grabbing my bag now, see you for lunch!"}
+{"id": "eval-00026", "text": "Haha same here, nap time at my little one's kindy is at 2 right after lunch, so I get a quiet house."}
+{"id": "eval-00027", "text": "free langar lunch at the gurdwara at 12:30, then I'm panic-writing until the portal closes at 11:45 for the end-of-day essay deadline"}
+{"id": "eval-00028", "text": "we're doing the long family comida at 3, the main meal of the day in mexico, so don't eat a big breakfast and come hungry"}
+{"id": "eval-00029", "text": "Conversion is up 4% since the redesign. Checkout drop-off is still around 18%, so we should look at that next."}
+{"id": "eval-00030", "text": "lost 3-2 to the fire station lads again, still a good game"}
+{"id": "eval-00031", "text": "anyone have a spare pair of shin pads i can borrow for the weekend game"}
+{"id": "eval-00032", "text": "until 11:45"}
+{"id": "eval-00033", "text": "@Mika still on the phones with American customers here, it's only 2:15 and the whole street outside is dead quiet. Save me some breakfast."}
+{"id": "eval-00034", "text": "Reminder, the release branch gets cut at 16:40 EST today, the freeze starts 13:50 for QA and rollout begins 08:00 tomorow, so plese get PRs in."}
+{"id": "eval-00035", "text": "Sorry for the late reply, I was still debuging the pipeline at 00:55 and it took 3 hours to find one bad config."}
+{"id": "eval-00036", "text": "The landlord is coming to check the boiler tomorrow afternoon, around 2. Can you be in? I have a lecture."}
+{"id": "eval-00037", "text": "can someone pls look at ticket INC-4821, the booking form is stil broken for club sign-ups"}
+{"id": "eval-00038", "text": "@Sam the fix is in v3.8.2, please update the app and let me know if the crash still happens."}
+{"id": "eval-00039", "text": "Court is booked from 11am to 12:30pm on Sunday. Bring your own racket, the club ones are all cracked."}
+{"id": "eval-00040", "text": "I think the fixture got moved to the 14th, check the group calendar"}
+{"id": "eval-00041", "text": "Yeah the van comes round our estate at 4 when school lets out, the kids go crazy for it."}
+{"id": "eval-00042", "text": "Yeah my bakery shift starts at 3, it's still pitch black before dawn and the dough is already waiting, can't get used to it."}
+{"id": "eval-00043", "text": "I'll be up between 04:15 and 7:15am, call whenever"}
+{"id": "eval-00044", "text": "@Jess the new rug is $45 which fits our budget, ok if I order it?"}
+{"id": "eval-00045", "text": "@Mum La Madrugá is reaching the cathedral at 5, Seville is still dark and the streets are packed with people who haven't been to bed."}
+{"id": "eval-00046", "text": "@Dan the client call moved to 11:15 a.m. CET, can you dial in from the office?"}
+{"id": "eval-00047", "text": "Sorry, only saw this now, my phone buzzed at 1 in the middle of the night and I thought somebody had died."}
+{"id": "eval-00048", "text": "Hello! Could we catch up at 2 p.m. GMT on Thursday? I would love to hear how the move went."}
+{"id": "eval-00049", "text": "Grabbing coffee with Raj at 9, before the first meeting kicks off, so I'll be a bit later back to the desk."}
+{"id": "eval-00050", "text": "My train gets in at 16:40. Could you put the oven on for the lasagne? I'll grab the wine."}
+{"id": "eval-00051", "text": "@Lena standup ran 15 minutes over so I'm only dialing into the vendor call at 09:20, shout if you need me."}
+{"id": "eval-00052", "text": "just upgraded to build 4521 and the sync bug is gone 🙌"}
+{"id": "eval-00053", "text": "got back at 23:15, only 2 trains were running 🙄"}
+{"id": "eval-00054", "text": "Class 4B has swimming at the local pool at 1, so I'll be on the coach with them and miss the staff meeting."}
+{"id": "eval-00055", "text": "Saturday's chess tournament kicks off round one at 10, so I'll be useless until it's done. Then I have to call the Sydney office from London at 10:30, just as they're sitting down at their desks to start the workday."}
+{"id": "eval-00056", "text": "we can do the handover between 16:30 and 6pm, whatever suits you"}
+{"id": "eval-00057", "text": "i'll be online at 10 tonight if you want to go through the release notes"}
+{"id": "eval-00058", "text": "Haha yes, first round of the weekend tournament starts at 10 sharp and I'm still eating my cereal."}
+{"id": "eval-00059", "text": "book club is at 8 after work, so I'll skip the team dinnr"}
+{"id": "eval-00060", "text": "@Hannah I'll be in late, my fasting blood test is first thing at 7:45 and I haven't had so much as a coffee yet."}
+{"id": "eval-00061", "text": "Got to the pitch at 8:55am and there were only 6 of us, the rest are proably still in bed"}
+{"id": "eval-00062", "text": "Your meeting is in room 5C, third floor"}
+{"id": "eval-00063", "text": "can we move our 1:1 to next week? slammed with the audit 😅"}
+{"id": "eval-00064", "text": "Yep, I'll jump on the incident review at 8 this evening, just need to pick the kids up first."}
+{"id": "eval-00065", "text": "Good to know, the construction crew starts on site at 8 sharp, so the drills will be going while everyone is still having breakfast. Please park on the next street before the trucks arrive."}
+{"id": "eval-00066", "text": "be there in a bit, just finishing my coffee"}
+{"id": "eval-00067", "text": "family dinner first, then the Spring Festival Gala comes on tv at 8, it's Lunar New Year's Eve"}
+{"id": "eval-00068", "text": "Match report went out at 10:40 pm, apologies for the lateness, our keeper was injurred"}
+{"id": "eval-00069", "text": "Dinner reservation is 7PM, the place is a 20 minute walk so we shoud leave soon"}
+{"id": "eval-00070", "text": "Darling, the essay deadline on the course portal is at 11, the very end of the day, so I'll be at my desk until I've submitted it."}
+{"id": "eval-00071", "text": "I'm heading to the airport at 6 tomorrow morning, so I'll be offline til the flite lands."}
+{"id": "eval-00072", "text": "We've released version 2.14.0 with the export fix. Please update when you get a chance. Let us know if anything looks off."}
+{"id": "eval-00073", "text": "parkrun at 9 on Saturday, anyone coming? I'll bring the dog"}
+{"id": "eval-00074", "text": "we're in room 7C 🏨 come up when you arrive"}
+{"id": "eval-00075", "text": "my last visit of the day is helping mrs patel into bed at 9:15 so i'll be late to the quiz"}
+{"id": "eval-00076", "text": "I left my keys on the counter. I had to leave by 8 this morning for the dentist, so sorry for the rush."}
+{"id": "eval-00077", "text": "@Carlos can you cover the front desk from 8:45 AM PST? I've got a school thing."}
+{"id": "eval-00078", "text": "Mia's karate grading starts at 12 on Saturday, kids will be starving so let's do lunch right after."}
+{"id": "eval-00079", "text": "we beat the vendors 5-2 in the friendly lol, bragging rigts are ours"}
+{"id": "eval-00080", "text": "warmup takes about 15 mins, don't be late"}
+{"id": "eval-00081", "text": "Sure, the parcel is meant to arrive this afternoon around 5, I'll text you when it's here."}
+{"id": "eval-00082", "text": "choral evensong at the cathedral is at 6 if anyone fancies it, the choir is supposedly brilliant"}
+{"id": "eval-00083", "text": "The GP surgery phone lines open at 8 for same-day appointments. You have to ring right away or they're all gone in minutes."}
+{"id": "eval-00084", "text": "The lobster boats are already leaving the harbour at 5 to haul their traps, you can see their lights heading out in the dark."}
+{"id": "eval-00085", "text": "Train got delayed. I'll dial in at 7:55AM instead. Start without me."}
+{"id": "eval-00086", "text": "yeah the party's on the 22nd, I'll send the invite"}
+{"id": "eval-00087", "text": "build 5107 is live now, tell me if the login screen still looks broken"}
+{"id": "eval-00088", "text": "The cleaner is coming at 3 in the afternoon so pick your stuff up off the flor please."}
+{"id": "eval-00089", "text": "parkrun starts at 9, you in?"}
+{"id": "eval-00090", "text": "Why was the dog barking at 3 in the morning?! 🐶 I haven't slept since"}
+{"id": "eval-00091", "text": "I woke up at 3 in the middle of the night and couldn't get back to sleep. Don't be mad if I nap later."}
+{"id": "eval-00092", "text": "Still on shift taking calls from American customers, it's 3:30 and the whole city is asleep outside."}
+{"id": "eval-00093", "text": "The flag-lowering ceremony at Wagah starts around 5:45, just before the sun sets, so please arrive early to get seats."}
+{"id": "eval-00094", "text": "Coffee with Dev at 8:30 before the first meeting of the day. I'll be in the office before you've had breakfast."}
+{"id": "eval-00095", "text": "@Nina the last 3 jobs finished at 22:25 and the queue is clear now."}
+{"id": "eval-00096", "text": "Good day, our van will reach your address at 7:35 a.m. EST, as agreed. Thank you for your patience."}
+{"id": "eval-00097", "text": "Hello all, I'll be queuing outside the electronics store in the freezing dark at 3 for the Black Friday doors, so I'll be a zombie by book club after work at 8. Please save me a seat."}
+{"id": "eval-00098", "text": "my flight lands 8:55 p.m. est and the bus home isn't until 11:15 p.m. so i'll be hanging out at the airport"}
+{"id": "eval-00099", "text": "did you take my charger again"}
+{"id": "eval-00100", "text": "woke up at 2 in the morning to check the alerts, all good now"}
+{"id": "eval-00101", "text": "back by 5 this afternoon, wait for me"}
+{"id": "eval-00102", "text": "before 7"}
+{"id": "eval-00103", "text": "Flag raising is at 8 before breakfast, all the little scouts are lined up in their neckers 🏕️ so cute"}
+{"id": "eval-00104", "text": "the court was booked for 9:10 am and only 4 of us showed up, so we played doubles anyway"}
+{"id": "eval-00105", "text": "Dragging myself into the lab for the 3:45 reading again, the building is empty and the campus is dark. The experiment never sleeps, apparently."}
+{"id": "eval-00106", "text": "first constituency results should be declared around 11, I'm staying up for them"}
+{"id": "eval-00107", "text": "Order 88213 still hasn't shipped. Can you check with the warehouse? I'll update the client once we know."}
+{"id": "eval-00108", "text": "Heading to the Wagah border for the flag-lowering ceremony, it kicks off at 4:40 before sunset 🇮🇳 the crowds are huge!"}
+{"id": "eval-00109", "text": "Taxi is booked for 4, the dawn flight leaves before the sun is even up so please set an alarm."}
+{"id": "eval-00110", "text": "The match ended at 21:35 CET 🥳 we won on penalties"}
+{"id": "eval-00111", "text": "Just to let you know, we told the babysitter we'd be home by 11, so I need to leave the dinner meeting early."}
+{"id": "eval-00112", "text": "6:30?"}
+{"id": "eval-00113", "text": "The last bath at the onsen is at 10 before they close up and drain it, so we should go once dinner is finished."}
+{"id": "eval-00114", "text": "3:15 then"}
+{"id": "eval-00115", "text": "my phone went off at 1 in the middle of the night, turns out it was a false alarm from the monitoring system"}
+{"id": "eval-00116", "text": "left your box outside room 3A 📦"}
+{"id": "eval-00117", "text": "i'm heading out for the first milking at 5, still dark and freezing, and don't forget the babysitter was told we'd be back by 11 once the kids are asleep"}
+{"id": "eval-00118", "text": "The Wagah border ceremony where they lower the flags is at 5, just before sunset, so we'd better leave soon."}
+{"id": "eval-00119", "text": "my dentist moved to 11 AM EST so i'll miss the sync"}
+{"id": "eval-00120", "text": "we lost 2-0 but honestly that was our best perfomance all season"}
+{"id": "eval-00121", "text": "Mia in Manila is handling calls from American customers right now. It's only 2 there and the whole city is dark and quiet, so please be kind on the ticket."}
+{"id": "eval-00122", "text": "I left the house at 7:45 this morning, so I didn't see your note, sorry!"}
+{"id": "eval-00123", "text": "Karaoke with the team after our dinner, we'll start singing around 10 🎤 don't wait up"}
+{"id": "eval-00124", "text": "@Ravi the contract expires on March 3rd, I'd start the renewal soon"}
+{"id": "eval-00125", "text": "Gran's appointment is this afternoon at 2 🏥 can someone drive her?"}
+{"id": "eval-00126", "text": "Would you be free to hop on a call from 8 to 8:30 pm? I'd like to go over the wedding plans."}
+{"id": "eval-00127", "text": "by 2"}
+{"id": "eval-00128", "text": "@Tom alarm is set for 4:45 AM and the group meets at the car park at 04:55, don't be late"}
+{"id": "eval-00129", "text": "Your delivery of 3 pallets left the depot at 5:10am and shoud reach you by lunch."}
+{"id": "eval-00130", "text": "heading in for the start of my shift on the ward, handover is at 10:30 and i'll be on until the sun comes up"}
+{"id": "eval-00131", "text": "I'm at yoga from 8 to 9:30 p.m., then I'll pic up some takeaway on the way home"}
+{"id": "eval-00132", "text": "@Gary the pitch is ours from 1:15 to 3:15 p.m. on Sunday, remember the bibs"}
+{"id": "eval-00133", "text": "Our comida in Mexico City starts at 3 and goes on for hours, it's the main meal of the day 🌮 so please plan calls around it."}
+{"id": "eval-00134", "text": "Could everyone please remember to bring a water bottle to the next session? Thank you very much."}
+{"id": "eval-00135", "text": "Logs show the 8:45am run failed, the retry at 01:20 passed, and the report goes out at 21:00, 2 more checks pending"}
+{"id": "eval-00136", "text": "Thank you all, the town hall is moved to 7 in the evening so that people can come after work."}
+{"id": "eval-00137", "text": "Sorry I'm so late, got home at 1:15 am and didn't want to waek you, I'll make it up to you"}
+{"id": "eval-00138", "text": "My fasting blood test is first thing at 9 so I'll be a bit slow replying 🙃 haven't even had water"}
+{"id": "eval-00139", "text": "I can hop on tonight at 6 if you still need a hand with the migration, jsut say the word"}
+{"id": "eval-00140", "text": "Beach clean-up on Saturday starts at 7:30 so we beat the heat. Then I'm off to see the Changing of the Guard at Buckingham Palace, which kicks off at 11."}
+{"id": "eval-00141", "text": "your order 7731 arrived, check the porch"}
+{"id": "eval-00142", "text": "Hello everyone, the committee call has been moved to 11:20 a.m. GMT, apologies for the change."}
+{"id": "eval-00143", "text": "Karaoke with the team is at 8, once everyone has finished dinner at the pub, and I'm doing Bohemian Rhapsody."}
+{"id": "eval-00144", "text": "Kids' football practice is at 4 right after school so I need to leave on time today."}
+{"id": "eval-00145", "text": "Can we do our 1:1 after practice? I just want to talk about the captain role"}
+{"id": "eval-00146", "text": "Just so you know, our electricity bill is down 12% since we switched providers. Thank you for turning the heating off!"}
+{"id": "eval-00147", "text": "Dragging myself to the lab at 4 for the next reading in the dark, and then it's the cruise ship's all-aboard call before it leaves port at 6, with the sun already going down."}
+{"id": "eval-00148", "text": "until 3"}
+{"id": "eval-00149", "text": "Beach clean-up Saturday at 7, before it gets hot, bring gloves"}
+{"id": "eval-00150", "text": "i updatd the router firmware to v1.2.9 and the wifi seems quicker"}
+{"id": "eval-00151", "text": "love you all, safe travels"}
+{"id": "eval-00152", "text": "@Dana our construction crew starts on site at 7 with the first concrete trucks, so expect noise before breakfast."}
+{"id": "eval-00153", "text": "Dad's on the pilot boat again, he boards the incoming container ship at 3:30. The whole port city is asleep and the harbour is pitch dark."}
+{"id": "eval-00154", "text": "I'm blocked out from 3PM to 5PM for the workshop 🛠️ ping me after"}
+{"id": "eval-00155", "text": "the landlord said ticket 5502 is still open, he'll sedn someone"}
+{"id": "eval-00156", "text": "off to the ward, shift starts at 11:30 and I'm on until sunrise"}
+{"id": "eval-00157", "text": "We'll send over the revised quote this afternoon 📩 thanks for your patience!"}
+{"id": "eval-00158", "text": "Please don't call from 5 to 5:30 am, I'll be on the airport shuttle and will have no signal."}
+{"id": "eval-00159", "text": "sorry for the delay, the server alert came in at 3 in the morning and i only just got to your ticket"}
+{"id": "eval-00160", "text": "our grocery bill dropped 15% after we started meal planning, nice"}
+{"id": "eval-00161", "text": "i bought 3 avocados and they're all rock hard, wil try ripening them"}
+{"id": "eval-00162", "text": "@Zoe I'm free from 10 to 1:30 pm tomorrow if you want to do the lunch thing"}
+{"id": "eval-00163", "text": "Might head to the gym tonight. Not sure yet. Let me know if you fancy it."}
+{"id": "eval-00164", "text": "Bus was 20 minutes late so I'll be in at 7:20 am 🚌"}
+{"id": "eval-00165", "text": "Apologies for the slow reply 😅 I'm on the Manila call-centre shift with American customers, got a call at 1, and then at 3 I found my kid sleepwalking in the kitchen while the whole street was dark."}
+{"id": "eval-00166", "text": "Good day, I'll be resting in the crew bunks at 1 while the cabin is dark and the passengers sleep, and I'm attending a christening at the village church at 11 on Sunday, so please plan around both."}
+{"id": "eval-00167", "text": "I have to be at the station at 7 in the morning so I'll be quiet leaving."}
+{"id": "eval-00168", "text": "we need 8 more bibs for the juniors 🦺 can someone grab them?"}
+{"id": "eval-00169", "text": "Round one of the weekend chess tournament starts at 11 so I'll be tied up, and I'll be glued to the TV for the first constituency results on election day, due at 11:30 after the polls close, sory!"}
+{"id": "eval-00170", "text": "Yes the battery is at 8% so I might die any minute"}
+{"id": "eval-00171", "text": "The craft fair runs from 2 to 4 pm 🎨 want to go?"}
+{"id": "eval-00172", "text": "The review is scheduled for 3-3:30 p.m. today. Please join if you can."}
+{"id": "eval-00173", "text": "@Ben still on calls with American customers here in Manila, it's 4 and the sky is still black."}
+{"id": "eval-00174", "text": "First constituency results are due at 11, I'm staying up to see who won, gonna need coffe"}
+{"id": "eval-00175", "text": "got parent-teacher at 4:30 after school, can't do training"}
+{"id": "eval-00176", "text": "The stargazing tour begins at 10:30 once it's finaly fully dark in summer, so we should bring jackets, I'll bring the thermos."}
+{"id": "eval-00177", "text": "Hello all, the pitch has been rebooked and kickoff is now 13:05. Thanks for understanding."}
+{"id": "eval-00178", "text": "@Kai Dad's out boarding the container ship as harbour pilot at 3, it's dead quiet and the whole city is asleep."}
+{"id": "eval-00179", "text": "The earthquake shook everyone out of their beds at 4 and nobody got back to sleep. We've still got the flag-raising at 7:30 before breakfast at the Scout camp, so bring coffee."}
+{"id": "eval-00180", "text": "I'll be home by 6:10 pm. The meeting ran 2 hours over. Sorry!"}
+{"id": "eval-00181", "text": "Kids' karate grading is on Saturday at 10 🥋 so please have them fed and in their gi first, breakfast included."}
+{"id": "eval-00182", "text": "I'll be at the parent-teacher conference after the school day ends, at 5, so I'll be home a bit later than usual."}
+{"id": "eval-00183", "text": "My last visit of the shift is helping Mr Okafor into bed at 9. Then I'm finally done."}
+{"id": "eval-00184", "text": "rent is due on the 1st, don't forget"}
+{"id": "eval-00185", "text": "Thank you for your report. This was fixed in version 4.0.1, so please update and let us know how it goes."}
+{"id": "eval-00186", "text": "The courier confirmed arrival at 17:50, so please keep your phone nearby."}
+{"id": "eval-00187", "text": "gran visiting between 3:15 and 3:45PM"}
+{"id": "eval-00188", "text": "@Priya the Wagah border ceremony where they lower both flags starts at 5, just before sunset, I'll show you the photos"}
+{"id": "eval-00189", "text": "Dad's already queuing outside the electronics store for the Black Friday doors. He got there at 5 and it's still pitch dark and freezing."}
+{"id": "eval-00190", "text": "I'm already in the queue at the polling station and it opens at 7:45, so I can vote before work, im first in line."}
+{"id": "eval-00191", "text": "Hello! The film is about 2 hours long, so shall we meet at 7 p.m.?"}
+{"id": "eval-00192", "text": "Book club at 8 after work 📚 I'll bring the wine"}
+{"id": "eval-00193", "text": "I've got physio at 2:30, I'll slip out of the office quietly and be back at my desk after, hopefuly not limping"}
+{"id": "eval-00194", "text": "Sorry, I'll only get to your file late tonight, around 11 🙏 you'll have it before you wake up."}
+{"id": "eval-00195", "text": "can you cover my shift tomorow, I'm not feeling great"}
+{"id": "eval-00196", "text": "see you at 7 PM at the pubb, I'll grab a table"}
+{"id": "eval-00197", "text": "@Leo please keep it down, I can hear your guitar through the wall at 11 at night"}
+{"id": "eval-00198", "text": "I'll call you at 8:30 in the morning, once I'm on the train."}
+{"id": "eval-00199", "text": "The coach left at 11:15 am with 14 of us on board, and we forgott the cones"}
+{"id": "eval-00200", "text": "@Jo my alarm goes off at 6:05AM PST so sorry in advance for the noise"}
+{"id": "eval-00201", "text": "miss you, home soon"}
+{"id": "eval-00202", "text": "Last bath at the onsen is at 11 before they close up ♨️ so go straight after dinner"}
+{"id": "eval-00203", "text": "Lobster boats go out to haul their traps at 4 🦞 while it's still pitch dark in the harbour, the engines wake the whole street."}
+{"id": "eval-00204", "text": "The first round of the weekend chess tournament starts at 11, so I'll miss check-in, but I'll be at the lunch-and-learn session at 1 with my sandwich."}
+{"id": "eval-00205", "text": "@Sam I've got the dentist at 1:15PM and it'll take around 45 minutes."}
+{"id": "eval-00206", "text": "@Priya the export window opens at 5:55 AM and the lock goes back on at midnight, so we get about 18 hours of runway. Don't leave the big tables for last."}
+{"id": "eval-00207", "text": "Book club is at 8 at Mara's place, so I'll come straight from the office. We're finishing the last chapters of the novel. Bring wine!"}
+{"id": "eval-00208", "text": "Ha, no, I'm not blaming the ref. We lost 3-1 and honestly deserved it. Also my old telly had the picture stuck at 16:9 so everyone looked stretched. Pasta later?"}
+{"id": "eval-00209", "text": "can you cover the support queue between 10 and 11:30pm? my kid's recital runs long and i can't be on the laptop"}
+{"id": "eval-00210", "text": "League server resets at 23:50 UTC, get your runs in before."}
+{"id": "eval-00211", "text": "Hello Mr. Alvarez, thank you for reaching out. The setup call usually takes about 25 minutes, and I will send the intake form over beforehand."}
+{"id": "eval-00212", "text": "Evensong at the cathedral is 6:30 if anyone fancies it, the choir is doing Stanford 🎶 Supper at ours after."}
+{"id": "eval-00213", "text": "by 11:30"}
+{"id": "eval-00214", "text": "Yes, nap time at the kindergarten is 12:30, right after lunch, so can you collect Leo once he's up? The little ones are out cold until then."}
+{"id": "eval-00215", "text": "Heads up, the provider is doing maintenance from 3 to 4:30 AM so the wifi will drop. Nothing to worry about, it comes back by itself."}
+{"id": "eval-00216", "text": "Polls have closed and the first constituency results are due around 11. Sunderland usually declares first, so I'm staying up for it."}
+{"id": "eval-00217", "text": "Can you jump on a quick call about the vendor contract? It should take 20 minutes at most. I'll share the doc beforehand."}
+{"id": "eval-00218", "text": "Our save percentage is up to 91% this season 🧤 the new goalie is an absolute wall."}
+{"id": "eval-00219", "text": "Hi Hannah, are you still free to catch up this evening? I could meet you at the cafe around 8:30, if that suits you."}
+{"id": "eval-00220", "text": "@Tomas can we move the vendor review to 3 tomorrow afternoon? The big room is free then."}
+{"id": "eval-00221", "text": "can you cover the front desk 3:50 to 4:50pm? i have a dentits appointment i can't move"}
+{"id": "eval-00222", "text": "sorry i'll miss the retro, my train gets in at 8:30 this evening so just record it"}
+{"id": "eval-00223", "text": "until 8:45"}
+{"id": "eval-00224", "text": "@Neha the wedding ceremony kicks off at 3 once everyone has finished the lunch spread, then we have to bolt for the flag-lowering ceremony at the Wagah border, which starts at 5 before sunset."}
+{"id": "eval-00225", "text": "Thank you so much for lending me your drill, it saved the entire weekend. I will drop it back at your place soon, and I owe you a coffee at the very least."}
+{"id": "eval-00226", "text": "@Jo the smoke alarm chirped again at 03:25 and I've been awake for two hours since, can you please swap the battery? That's the third time this month."}
+{"id": "eval-00227", "text": "Hi, thanks for your patience. Your order is being packed and should ship in 2 hours. I'll send the tracking link as soon as it's out."}
+{"id": "eval-00228", "text": "@Dad the carer's last visit for Gran is at 10, she helps her into bed and checks the pills, so no need to wait up for anything."}
+{"id": "eval-00229", "text": "Get the snacks ready, the Eurovision final is on and the spokespeople should start reading out the jury votes at 10:15. I've made flags, you're in charge of the sweepstake."}
+{"id": "eval-00230", "text": "Pilot launch heads out at 2 to board the container ship, and the whole port city is dead asleep, streets empty 🚢 bringing a thermos."}
+{"id": "eval-00231", "text": "Hi Mrs Chen, the lawn bowls match is at 3 on the green after a long lunch in the clubhouse. The sun's blazing so bring a hat ☀️"}
+{"id": "eval-00232", "text": "just landed and my body thinks it's 04:15, finding food then crashing"}
+{"id": "eval-00233", "text": "Heading to the pitch now, I'll be there in a bit, save me a spot on the bench ⚽"}
+{"id": "eval-00234", "text": "Your 45 minute fitting is booked for 2:20PM, see you then."}
+{"id": "eval-00235", "text": "Tom is dragging himself into the lab at 2 to take the reading off the round-the-clock run. The whole building is empty and dark, poor guy. he's alredy grumbling."}
+{"id": "eval-00236", "text": "Reminder: the database maintenance window will run 9-10:30pm, so please avoid deploying during that time. Thank you!"}
+{"id": "eval-00237", "text": "Can't join the trivia, I'm mid-shift at the call centre in Manila taking calls from American customers while the whole city is asleep. Break is at 4, can't wait."}
+{"id": "eval-00238", "text": "Hi, the technician will arrive at 6 tomorrow morning. Please leave the gate unlocked."}
+{"id": "eval-00239", "text": "Yep, I'll send the deck over in a bit, just finishing the last slide."}
+{"id": "eval-00240", "text": "our cadence is up 8% since i swapped tires, definately feeling it on the hills"}
+{"id": "eval-00241", "text": "Parkrun is at 9 on Satruday as usual, but the Sydney lot only start their workday while it's pitch black here, so my call with them is at 11 and you'll have to put the kids to bed without me."}
+{"id": "eval-00242", "text": "battery health on my phone is down to 82% already, think it's time to upgrade"}
+{"id": "eval-00243", "text": "Good catch, the release moved to the 14th so the freeze starts on the 9th."}
+{"id": "eval-00244", "text": "1 it is"}
+{"id": "eval-00245", "text": "Practice is at 5:30pm, a dozen of us signed up and we're running drills for 90 minutes, bring watter"}
+{"id": "eval-00246", "text": "I'll do the airport run, the shuttle leaves at 06:20 GMT so I'll be at yours before then, put the kettle on."}
+{"id": "eval-00247", "text": "hi, the delivery driver will be with you around 8pm, he has 3 stops before yours so it might slip by a few minutes"}
+{"id": "eval-00248", "text": "Rolled back to v3.8.2 and the flaky test is gone, so the regression is in build 4521."}
+{"id": "eval-00249", "text": "raid server is only open 1-2:30 a.m. so set your alarms 😴"}
+{"id": "eval-00250", "text": "Hi Ana, sorry I couldn't make it to the film. My bakery shift begins at 3:30, long before dawn, so I have to be in bed by sunset."}
+{"id": "eval-00251", "text": "Update your app to version 2.14.0 when you can. It fixed the crash I kept hitting. Let me know if it works for you."}
+{"id": "eval-00252", "text": "Standup moved to 1:20pm CET today, same link."}
+{"id": "eval-00253", "text": "Apologies, I can't make the group ride because the crew starts work on site at 7:30 and I have to unlock the gate and get the concrete delivery in."}
+{"id": "eval-00254", "text": "Demo is at 3 tomorrow afternoon, room is booked."}
+{"id": "eval-00255", "text": "Hi love, the plumber says he will come at 2 tomorrow afternoon, so could you be home to let him in? Thank you."}
+{"id": "eval-00256", "text": "Your delivery will land between 4 and 6 AM, sorry for the odd hour."}
+{"id": "eval-00257", "text": "I'm running the hotel's end-of-day audit at 2 while the guests all sleep, then I'll catch some rest and make the parent-teacher conference after the school day at 6. Save me a seat."}
+{"id": "eval-00258", "text": "Track crew has the rails to themselves, last service long gone and the first one ages away, so I'm clocking on at 1:15 with a flask and a hi-vis 🚧"}
+{"id": "eval-00259", "text": "i'll be at the gym from 6 to 7pm, can you start dinnre without me?"}
+{"id": "eval-00260", "text": "Count me in for the long run, meet at 8:30 am by the bridge. It's about 14 km so bring a gel or two."}
+{"id": "eval-00261", "text": "my sister's wedding is on the 22nd so i can't do that weekend, any chance we move the trip to the 29th"}
+{"id": "eval-00262", "text": "can we do the walkthrough at 9 in the morning? I'll bring the updated desgin docs"}
+{"id": "eval-00263", "text": "The theme park gates open at 10 and I want to be at the front of the queue for the big coaster. We can grab breakfast on the way. Set an alarm!"}
+{"id": "eval-00264", "text": "i'll be on the phone with the landlord 6-6:30 pm so can you start the pasta"}
+{"id": "eval-00265", "text": "Not me, I'm wrecked. The baby wants a feed at 3 so we're both up in the dark half asleep, then she's wide awake for ages."}
+{"id": "eval-00266", "text": "Hello everyone, the boathouse will be unlocked from 5 to 5:30 AM, so please arrive in that window to collect your kayaks."}
+{"id": "eval-00267", "text": "@Sam my flight finally got in at 02:25 CET and I'm still at the luggage belt, don't wait up."}
+{"id": "eval-00268", "text": "Kids' football practice is at 5, after school lets out, so can someone pack the orange slices? I'll bring the cnoes."}
+{"id": "eval-00269", "text": "That earthquake shook me out of bed at 3:05 and I didn't sleep again. Now the polls have shut and the first constituency results land at 11:30, so I'm up for that too."}
+{"id": "eval-00270", "text": "Grandma's appointment got pushed to 3:15 tomorrow afternoon, can someone drive her?"}
+{"id": "eval-00271", "text": "Doors open at 3:15 for the Black Friday deals and the queue already wraps round the car park, it's pitch dark and freezing, send coffeee."}
+{"id": "eval-00272", "text": "@Karl the court is free between 2 and 4PM if you want to book it for doubles."}
+{"id": "eval-00273", "text": "Yeah, I can talk then, Dad's carer does her last visit at 9 to get him into bed so I'm free once she's gone."}
+{"id": "eval-00274", "text": "deploy goes out at 10 tonight, please dont merge anyhting after that"}
+{"id": "eval-00275", "text": "@Mr Okoye the pub quiz starts at 7 once everyone is out of work, the team table is booked under your name and the first round of drinks is on us."}
+{"id": "eval-00276", "text": "6:50 works"}
+{"id": "eval-00277", "text": "Football practice for the kids is at 4 once school's out, bring shin pads ⚽"}
+{"id": "eval-00278", "text": "We have six people coming, so I'll need two more chairs and a bigger pot."}
+{"id": "eval-00279", "text": "Lifts open at 9 and there's fresh powder, wake up!"}
+{"id": "eval-00280", "text": "Hi love, just a reminder that Mia's karate grading is on Saturday and starts at 11, so we should leave once she has had her breakfast."}
+{"id": "eval-00281", "text": "Hi Kenji, the last bath at the onsen is at 11:15 before they close and lock the doors, so we should go and soak once dinner is cleared away and everyone has gone to their futons."}
+{"id": "eval-00282", "text": "Landlord finally replied about the leak, ticket #48213 is open so hopefully he sends someone 🙏"}
+{"id": "eval-00283", "text": "@Ms Lindqvist your flight lands at 20:25 EET, our driver will be holding a sign at arrivals."}
+{"id": "eval-00284", "text": "Breakfast TV goes on air at 6:10, so please send the final cut beforehand, thanks for the quikc turnaround."}
+{"id": "eval-00285", "text": "Sure, I'm around between 2 and 4PM, ping me when you're outside."}
+{"id": "eval-00286", "text": "@Dani just found Max wandering the kitchen at 1:30 fast asleep on his feet, he tried to put the milk in the cupboard. Got him back to bed."}
+{"id": "eval-00287", "text": "I've moved to room 4B on the top floor, right next to the windw, come find me for coffee"}
+{"id": "eval-00288", "text": "Court time is 5:40pm and we only get it for 50 minutes, so don't be late. Can someone bring spare balls?"}
+{"id": "eval-00289", "text": "@Mum Grandad's flight gets in at 4:40 AM and the connection to Leeds leaves at 8:45am, so he has about four hours to wait. Could we send him a sandwich?"}
+{"id": "eval-00290", "text": "I'll be online at 6 in the morning to watch the migration, coffee ready ☕"}
+{"id": "eval-00291", "text": "train gets in at 15:55 CET so i'll be at yours around then"}
+{"id": "eval-00292", "text": "Some guy rolled in at 10 and is pitching his tent by torchlight, poor thing can't see the pegs and everyone else on the site is asleep."}
+{"id": "eval-00293", "text": "I'll call you back in a bit, just finishing the washing up."}
+{"id": "eval-00294", "text": "nets are free between 4 and 7PM, come hit a few, bring your own helemt"}
+{"id": "eval-00295", "text": "@Rosa the stargazing tour only starts once it's fully dark, which in summer means it kicks off at 10 up at the observatory. Bring a jumper."}
+{"id": "eval-00296", "text": "I'll be at the airport for the pickup from 4 to 7am, so my phone will be on silent. Kiss the kids for me."}
+{"id": "eval-00297", "text": "essay deadline on the course portal is 11, last slot before the day is over, and i'm still on the conclusion"}
+{"id": "eval-00298", "text": "The lifts open at 9 on the dot, so our ski school group meets at the base station beforehand."}
+{"id": "eval-00299", "text": "lunch order closes at 12:20pm, we're up to nine people so far so get yours in"}
+{"id": "eval-00300", "text": "dad's track crew is out on the rails at 3 while nothing is running, he left with a flask and a headtorch"}
+{"id": "eval-00301", "text": "Okay, but I'm calling you back at 10 at night, once the kids are asleep."}
+{"id": "eval-00302", "text": "Dinner at 6 in the evening, Nan's cooking."}
+{"id": "eval-00303", "text": "Don't forget Aunt Rosa's party is on the 3rd of December 🎉"}
+{"id": "eval-00304", "text": "Only three mugs left, dishes day."}
+{"id": "eval-00305", "text": "i'm in the queue outside the electronics store for the black friday doors at 4, it's freezing and pitch dark, then langar lunch at the gurdwara at 12 so save me a spot"}
+{"id": "eval-00306", "text": "@Ms Patel our engineers will be doing the cutover from 2:30 AM to 3:30AM, your site may be briefly unavailable."}
+{"id": "eval-00307", "text": "Coffee before the first meeting at 9:30, then first race of the day at 2."}
+{"id": "eval-00308", "text": "@Liam the baby's up at 2 in the morning again, can you take the next shift?"}
+{"id": "eval-00309", "text": "Call Grandpa 7:30-8PM, he's free then."}
+{"id": "eval-00310", "text": "I know, 2-0 was harsh. And my screen was stretched to 16:9 so everyone looked wide."}
+{"id": "eval-00311", "text": "Doors open at 4 and I'm already at the front, it's pitch dark and my fingers are numb. Back with a tv, hopefuly. Don't wake the cat."}
+{"id": "eval-00312", "text": "Dear Mr Reyes, thank you for your email. My shift on the hospital ward starts at 11 and runs until the sun comes up, so I will reply once I am home and rested."}
+{"id": "eval-00313", "text": "@Gran Dad got picked up at 3:25am and there were 40 people in the check-in queue, so he only boarded at 5:30 am. He says hi."}
+{"id": "eval-00314", "text": "grandma's coach gets in at 5:10 p.m. then the return is 9:30pm and the first bus tomorrow is at 10:10 AM, so she should just stay over"}
+{"id": "eval-00315", "text": "Kite festival on the beach at 12, bring sunscreen and lunch."}
+{"id": "eval-00316", "text": "@Chris we're in room 4B on the third floor, behind the lifts."}
+{"id": "eval-00317", "text": "First race of the day at 2:30, lunch at the track first."}
+{"id": "eval-00318", "text": "ok 8"}
+{"id": "eval-00319", "text": "@Ellie can you cover the 6 in the morning shift on Friday? I'll swap you."}
+{"id": "eval-00320", "text": "3 then"}
+{"id": "eval-00321", "text": "Let's do the planning review at 3 tomorrow afternoon. I'll send the invite and the agenda. Please add your items before then."}
+{"id": "eval-00322", "text": "@Mia the theme park gates open at 10:30 but the queue builds early, so let's have breakfast in the car and go."}
+{"id": "eval-00323", "text": "Lunch-and-learn starts at 1 in the big room, there's free pizza 🍕"}
+{"id": "eval-00324", "text": "Hello all, I will be collecting Grandma at 08:00 for her appointment, so please have her ready."}
+{"id": "eval-00325", "text": "I'll have the report to you by 10 late tonight, apologies for the delay."}
+{"id": "eval-00326", "text": "the lunch-and-learn runs from 12:30 in the main hall and sandwiches are included so come hungry"}
+{"id": "eval-00327", "text": "Quiz starts at 7:30 at the Crown, I'll save us a table by the bar, come straight after work."}
+{"id": "eval-00328", "text": "my dog woke me at 1:30 in the middle of the night for a walk, so tired for the ride, defintely skipping it"}
+{"id": "eval-00329", "text": "the pager went off at 2 in the middle of the night so i'll be slow today"}
+{"id": "eval-00330", "text": "We're in suite 4B, second floor."}
+{"id": "eval-00331", "text": "I can take the on-call between 9:55 and 11:25 PM, then you're back on."}
+{"id": "eval-00332", "text": "bumped the sdk to 4.2.1 and everything compiles again, pr is up"}
+{"id": "eval-00333", "text": "@Zed I'm leaving in a few minutes, need anything from the shop?"}
+{"id": "eval-00334", "text": "heads up the pool table is reserved between 12 am and 1:30 a.m. for the league final"}
+{"id": "eval-00335", "text": "@Tara the kids are in bed and I told the babysitter we'd be home by 11:30, so we need to leave the party soon."}
+{"id": "eval-00336", "text": "Wagah flag-lowering is at 6, right before sunset, grab seats."}
+{"id": "eval-00337", "text": "Pizza tonight?"}
+{"id": "eval-00338", "text": "Sure, I'll split it, 40 dollars each for the internet is fair."}
+{"id": "eval-00339", "text": "Our servers will be offline from 03:00 to 4am, apologies for the interruption."}
+{"id": "eval-00340", "text": "8"}
+{"id": "eval-00341", "text": "Hello all, the taxi to the airport is booked for 4, as the flight leaves just after dawn. Please be ready with your passports."}
+{"id": "eval-00342", "text": "Sorry, I'll be there in a bit, stuck behind a tractor on the lane."}
+{"id": "eval-00343", "text": "Be with you in a couple of minutes, grabbing a coffee ☕"}
+{"id": "eval-00344", "text": "lawn bowls on the green at 3 once we've had lunch at the clubhouse, it's roasting so bring a hat"}
+{"id": "eval-00345", "text": "@Dev I'm unreachable 5:15-8:15 p.m. for the school concert, ping Sana if anything breaks."}
+{"id": "eval-00346", "text": "Hello Amir, I should be free between 15:00 and 5PM if you would still like to catch up."}
+{"id": "eval-00347", "text": "12 ok?"}
+{"id": "eval-00348", "text": "3 out of 87 tests failing, checking now."}
+{"id": "eval-00349", "text": "movie marathon at gran's 8PM-23:00, bring snacks"}
+{"id": "eval-00350", "text": "@Mr Doyle the fix has been released in version 5.1.3, please update and let me know if the problem persists."}
+{"id": "eval-00351", "text": "I'll be at the quiz league finals from 8:30 to 11:30pm, don't wait for me for dinner."}
+{"id": "eval-00352", "text": "Taxi's picking me up at 5 for the dawn flight to Lisbon. Can't make the pre-ride coffee. Back Sunday."}
+{"id": "eval-00353", "text": "Coffee with Mike at 8 before the first meeting, join us?"}
+{"id": "eval-00354", "text": "Found Ellie sleepwalking in the kitchen at 2:30, staring into the open fridge. I had to get her back to bed fast because my bakery shift starts at 5, long before dawn."}
+{"id": "eval-00355", "text": "retro moved to room 4B, same crew, bring your own mugs"}
+{"id": "eval-00356", "text": "@Ben the batch will finish somewhere between 2:15 and 5:15am so don't panic if the dashboard is empty."}
+{"id": "eval-00357", "text": "back in a bit, just wrapping the bar tape"}
+{"id": "eval-00358", "text": "dentist called, i'm in at 2:35PM so don't wait for me"}
+{"id": "eval-00359", "text": "Sorry, can't chat, I'm covering the front desk from 11:30 p.m. to 1:30 a.m., so I'll call tomorrow."}
+{"id": "eval-00360", "text": "the ice cream van does the estate at 4 when school lets out, do you want a flake in yours? 🍦"}
+{"id": "eval-00361", "text": "The tea interval at the cricket is at 4, and the cucumber sandwiches are legendary. Save me a seat near the pavilion."}
+{"id": "eval-00362", "text": "Can we talk at 3 in the afternoon? I need to run thorugh the budget."}
+{"id": "eval-00363", "text": "apres-ski drinks at the chalet bar at 6 once the slopes shut, first round is mine"}
+{"id": "eval-00364", "text": "Hello Sarah, could we reschedule our 1:1 to later this week? Thank you for understanding."}
+{"id": "eval-00365", "text": "conversion is up 4.5% since the checkout changge, nice work everyone"}
+{"id": "eval-00366", "text": "I've upgraded the library to version 7.0.2. It fixed the memory leak. Can you test it on your branch?"}
+{"id": "eval-00367", "text": "someone's coming to check the boiler between 2 and 5 PM so can you be home"}
+{"id": "eval-00368", "text": "The film is really long, nearly 3 hours. I'd suggest we grab snacks first. Let me know if you're up for it."}
+{"id": "eval-00369", "text": "Okay, I'll make it for 20:30, but only for a 30 minute stay because the twins need settling."}
+{"id": "eval-00370", "text": "Swimming lesson for Ollie is 3 to 4:30PM, can someone collect him? 🏊"}
+{"id": "eval-00371", "text": "Hi Lena, the parcel is due at 4:45 p.m. EST, could you please sign for it? Thank you."}
+{"id": "eval-00372", "text": "my train leaves at 05:10 GMT so I'll be gone before anyone's up 🚂"}
+{"id": "eval-00373", "text": "I should be off work by 9 in the evening. Want to grab food after? I'm starving."}
+{"id": "eval-00374", "text": "Heads up, the printer on the second floor is out of toner. Use the one in room 4B instead. Cheers."}
+{"id": "eval-00375", "text": "The tiling should take about 3 hours. I'll bring takeaway home after. Love you."}
+{"id": "eval-00376", "text": "say 10"}
+{"id": "eval-00377", "text": "Max's class has swimming at the local pool at 10 during school hours, so he's already packed his towel and gogles"}
+{"id": "eval-00378", "text": "Cant sleep, bakery shift starts at 3 way before dawn, I'm alraedy dreading it."}
+{"id": "eval-00379", "text": "Told the babysitter we'd be home by 10, kids are in bed."}
+{"id": "eval-00380", "text": "Hello everyone, the bus to the regatta leaves at 04:00 and the drive takes about 2 hours, so please be on time."}
+{"id": "eval-00381", "text": "Heads up, I'm leaving at 04:45 for the airport. The shuttle takes about 40 minutes. Please don't slam the door."}
+{"id": "eval-00382", "text": "@Pablo the telescope will be free between 4 and 4:30 a.m. if you want to catch the comet."}
+{"id": "eval-00383", "text": "Office is closed for the party from 15:00 to 7pm 🎉 come celebrate!"}
+{"id": "eval-00384", "text": "Dear customer, our engineers will perform a brief outage 3-3:30AM. We apologise for any inconvenience."}
+{"id": "eval-00385", "text": "Pushed the hotfix at 12:55am UTC, monitoring now."}
+{"id": "eval-00386", "text": "The alarm went off at 3 in the middle of the night. It was a false alert from the freezer sensor. I'm going back to bed."}
+{"id": "eval-00387", "text": "around 6"}
+{"id": "eval-00388", "text": "updated the router firmware to 2.4.9, thnks for reminding me"}
+{"id": "eval-00389", "text": "Hello Bea, just letting you know I will be offline: the volunteers are watching turtle hatchlings scramble down the beach in darkness at 3:30, and the first milking of the day at the dairy farm is at 5."}
+{"id": "eval-00390", "text": "@Ravi I can't make the ride, my mum's carer's last visit to help her into bed is at 8 and I want to be there."}
+{"id": "eval-00391", "text": "I've got the living room 7-8:30 pm for the book club. Please keep the telly off. Thanks!"}
+{"id": "eval-00392", "text": "Wagah flag-lowering starts at 4:30 just before the sun goes down 🇮🇳 let's go early for seats"}
+{"id": "eval-00393", "text": "Hello everyone, the final overs of the IPL match under the floodlights should wrap up around 11, so I may be slow to reply."}
+{"id": "eval-00394", "text": "the migration takes about 40 minutes so grab a coffee while it runs"}
+{"id": "eval-00395", "text": "The christening at the village church is at 12:30, with the reception lunch after, and then we should be back on the sofa for the Eurovision voting results being read out at 10. Save snacks!"}
+{"id": "eval-00396", "text": "Hosting the lan game on port 8080 this time, ticket 55123 is open about the lag 🎮"}
+{"id": "eval-00397", "text": "Thank you for watering my plants while I was away, they look much happier. I owe you a favour."}
+{"id": "eval-00398", "text": "my birthday is on the 9th of march, no pressure but cake"}
+{"id": "eval-00399", "text": "Heading out at 3 to board a container ship as pilot, the whole port is sleeping and its pitch black out, adn I'm freezing."}

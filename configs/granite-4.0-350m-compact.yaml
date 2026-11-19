@@ -1,0 +1,7 @@
+model: ibm-granite/granite-4.0-350m
+loader: FastLanguageModel
+data: data/generated/train.jsonl
+format: compact
+learning_rate: 2.0e-4
+epochs: 3
+seed: 0

@@ -1,0 +1,378 @@
+{"id": "eval2-00000", "slice": "none", "text": "Hi Mrs Patel, your order has shipped and should reach you very soon. Thanks again for your patience! 📦", "times": []}
+{"id": "eval2-00001", "slice": "explicit", "text": "League update: first frame went down at 8:35pm and the last one only finished at 9:50 p.m., way later then expected lol", "times": [{"text": "8:35pm", "minute": 1235}, {"text": "9:50 p.m.", "minute": 1310}]}
+{"id": "eval2-00002", "slice": "implicit", "text": "Pop in for the yellow-sticker bread after work, they mark it down at 5", "times": [{"text": "5", "minute": 1020}]}
+{"id": "eval2-00003", "slice": "none", "text": "Found a lovely little lamp at the market for £25, ok if I grab it? 🙂", "times": []}
+{"id": "eval2-00004", "slice": "explicit", "text": "Hi Ben, sorry I was quiet. The fire alarm woke the whole building at 4:05am and we stood outside for forty minutes. Hope your week is calmer than mine.", "times": [{"text": "4:05am", "minute": 245}]}
+{"id": "eval2-00005", "slice": "implicit", "text": "Quick update, everyone: Biscuit got into a bar of dark chocolate hours after we had all gone to bed, so we rushed her to the emergency vet and were seen by 1, and she is going to be fine. Separately, after such a long day, we finally had a lovely late supper of congee at a Hong Kong street stall at 10.", "times": [{"text": "1", "minute": 60}, {"text": "10", "minute": 1320}]}
+{"id": "eval2-00006", "slice": "implicit", "text": "the farier is coming to shoe the horses at 9:30 so pls dont park by the yard gate, he wants to be done before lunch", "times": [{"text": "9:30", "minute": 570}]}
+{"id": "eval2-00007", "slice": "explicit", "text": "outage log: paged at 18:40, fix deployed 23:45, retro booked for 14:15 the day after with all seven service owners invited", "times": [{"text": "18:40", "minute": 1120}, {"text": "23:45", "minute": 1425}, {"text": "14:15", "minute": 855}]}
+{"id": "eval2-00008", "slice": "range", "text": "@Jordan our engineer will be with you from 2:30 to 3 PM tomorrow to service the boiler, please make sure someone is home.", "times": [{"text": "2:30", "minute": 870}, {"text": "3 PM", "minute": 900}]}
+{"id": "eval2-00009", "slice": "explicit", "text": "Can't believe I'm still up. Just got in from the airport at 01:00 and that flight was brutal. Call you tomorrow?", "times": [{"text": "01:00", "minute": 60}]}
+{"id": "eval2-00010", "slice": "implicit", "text": "Cubs game at Wrigley is first pitch at 2, bring sunscreen for the bleachers ⚾", "times": [{"text": "2", "minute": 840}]}
+{"id": "eval2-00011", "slice": "range", "text": "grandma's cleaner is coming 4-5PM so can someone be home to let her in", "times": [{"text": "4", "minute": 960}, {"text": "5PM", "minute": 1020}]}
+{"id": "eval2-00012", "slice": "implicit", "text": "In A&E, mate cut his head open once the clubs shut. It's 3 and we're still waiting, can't make it in today.", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00014", "slice": "implicit", "text": "Farrier's coming to shoe the horses at 9, fancy helping hold them? He'll be done before lunch.", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00015", "slice": "implicit", "text": "@Priya it's bank holiday Monday so the DIY shed will be heaving, doors open at 9 and the paint queue will be round the block, go early", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00016", "slice": "implicit", "text": "Yeah the sellers all drive into the field around 5:30 to grab the best pitch, it's barely light, so don't rock up later expecting a good spot.", "times": [{"text": "5:30", "minute": 330}]}
+{"id": "eval2-00018", "slice": "range", "text": "Home between 10 and 11:30 PM, don't wait up", "times": [{"text": "10", "minute": 1320}, {"text": "11:30 PM", "minute": 1410}]}
+{"id": "eval2-00019", "slice": "cue", "text": "ugh the neighbours were drilling at 1 in the morning, i give up on sleep", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00020", "slice": "implicit", "text": "the rehersal dinner is at 8 the day before the wedding so dont be late or mum will have a fit", "times": [{"text": "8", "minute": 1200}]}
+{"id": "eval2-00021", "slice": "cue", "text": "Dentist is this afternoon. My appointment is at 5, so I'll be home a bit after. Save me some of the pasta?", "times": [{"text": "5", "minute": 1020}]}
+{"id": "eval2-00022", "slice": "none", "text": "i'm at the library most of the afternoon so the flat is all yours, back for tea", "times": []}
+{"id": "eval2-00023", "slice": "none", "text": "Anyone up for a kickabout tonight? Pitch looks dry ⚽", "times": []}
+{"id": "eval2-00024", "slice": "explicit", "text": "@Marcus the backup job kicked off at 03:30 and ran for two hours before failing, three tables were left half copied", "times": [{"text": "03:30", "minute": 210}]}
+{"id": "eval2-00025", "slice": "implicit", "text": "Count me in for the first-aid course, I can get to the community centre straight after work if it starts at 7.", "times": [{"text": "7", "minute": 1140}]}
+{"id": "eval2-00026", "slice": "range", "text": "Our installer can come 2-3:30PM on Thursday, does that suit you?", "times": [{"text": "2", "minute": 840}, {"text": "3:30PM", "minute": 930}]}
+{"id": "eval2-00027", "slice": "none", "text": "Good news, 85 of 87 tests passing on the new build 🎉 just two flaky ones left", "times": []}
+{"id": "eval2-00028", "slice": "range", "text": "Hi Mr Chen, the delivery window is 2-4 p.m. on Friday, we'll call when the driver is close. Please confirm your adress.", "times": [{"text": "2", "minute": 840}, {"text": "4 p.m.", "minute": 960}]}
+{"id": "eval2-00029", "slice": "none", "text": "Quote came back for the new monitors, £450 each. That's over our budget, so let's ask for a discount. Thoughts?", "times": []}
+{"id": "eval2-00030", "slice": "implicit", "text": "@Dana we're leaving the house at 5:30 to beat the holiday traffic, well before sunrise, so please email me the final invoice rather than call.", "times": [{"text": "5:30", "minute": 330}]}
+{"id": "eval2-00032", "slice": "explicit", "text": "train gets in at 7:35pm so can someone pick me up from the station", "times": [{"text": "7:35pm", "minute": 1175}]}
+{"id": "eval2-00033", "slice": "explicit", "text": "gym class ends 9:45PM so i'll be home after that, leave the heating on 🙏", "times": [{"text": "9:45PM", "minute": 1305}]}
+{"id": "eval2-00034", "slice": "none", "text": "Call with the bank took forever, nearly an hour. Home soon.", "times": []}
+{"id": "eval2-00035", "slice": "implicit", "text": "balloon crews start inflating the envelopes at 5 so they can launch right as the sun comes up, i'm dragging myself out of bed to watch", "times": [{"text": "5", "minute": 300}]}
+{"id": "eval2-00036", "slice": "none", "text": "Can we move our 1:1 to next week? Something has come up. I'll send over my topics beforehand.", "times": []}
+{"id": "eval2-00037", "slice": "range", "text": "i'll be at the pub quiz from 8 to 11 PM so dont wait on me for dinner", "times": [{"text": "8", "minute": 1200}, {"text": "11 PM", "minute": 1380}]}
+{"id": "eval2-00039", "slice": "range", "text": "@Mum the baby was up 3-4:30 am so we're wrecked, could you take over the school run?", "times": [{"text": "3", "minute": 180}, {"text": "4:30 am", "minute": 270}]}
+{"id": "eval2-00040", "slice": "implicit", "text": "Dad's been sat by the field since breakfast waitng for the dew to burn off so the combine can cut the wheat, they think they'll finally start at 1", "times": [{"text": "1", "minute": 780}]}
+{"id": "eval2-00041", "slice": "none", "text": "The plumber says the repair will take about an hour. He is already here. Kettle is on.", "times": []}
+{"id": "eval2-00042", "slice": "explicit", "text": "pickup for the twins is 3:10PM today dont forget, both of them have swimming bags", "times": [{"text": "3:10PM", "minute": 910}]}
+{"id": "eval2-00043", "slice": "implicit", "text": "He starts his Saturday job at the café at 10, so I'll walk him there, he's nervous about the coffee machine and the brunch rush.", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00044", "slice": "explicit", "text": "Flight lands at 8:20AM EST ✈️ will text when we're through customs", "times": [{"text": "8:20AM", "minute": 500}]}
+{"id": "eval2-00045", "slice": "range", "text": "ill be back between 6 and 7 p.m. depending on traffic", "times": [{"text": "6", "minute": 1080}, {"text": "7 p.m.", "minute": 1140}]}
+{"id": "eval2-00046", "slice": "implicit", "text": "the parental controls shut off Jake's xbox at 10 on school days so he'll start whinning around then", "times": [{"text": "10", "minute": 1320}]}
+{"id": "eval2-00048", "slice": "explicit", "text": "@Sam parking permit appointment is 10:45 AM so don't book anything near it", "times": [{"text": "10:45 AM", "minute": 645}]}
+{"id": "eval2-00049", "slice": "implicit", "text": "Heading to the Trocadéro at 11:30 for the Eiffel Tower sparkle, it's pitch black by then.", "times": [{"text": "11:30", "minute": 1410}]}
+{"id": "eval2-00050", "slice": "cue", "text": "@Lena the alert fired at 2 in the morning and I had to restart the node by hand, can you check the logs?", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00051", "slice": "none", "text": "Hi! Your workshop is in Room 4B on the second floor, see you there 😊", "times": []}
+{"id": "eval2-00052", "slice": "range", "text": "power's off from 5 to 8 am for maintenance, charge your phones", "times": [{"text": "5", "minute": 300}, {"text": "8 am", "minute": 480}]}
+{"id": "eval2-00053", "slice": "range", "text": "Uncle Joe's plane lands between 1 and 2AM so someone has to collect him ✈️", "times": [{"text": "1", "minute": 60}, {"text": "2AM", "minute": 120}]}
+{"id": "eval2-00054", "slice": "explicit", "text": "@Tom the club meets at 10 am by the boathouse", "times": [{"text": "10 am", "minute": 600}]}
+{"id": "eval2-00055", "slice": "range", "text": "Plumber is coming 7 am-9am tomorrow. Please move your bike out of the hallway. Thank you!", "times": [{"text": "7 am", "minute": 420}, {"text": "9am", "minute": 540}]}
+{"id": "eval2-00056", "slice": "none", "text": "Hi Anna, I'll send the revised draft this afternoon. Let me know if you need anything else.", "times": []}
+{"id": "eval2-00057", "slice": "implicit", "text": "Mum's citizenship ceremony is at the town hall at 12, theres a reception with sandwiches after so wear something smart", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00059", "slice": "none", "text": "Yeah I'm on v3.8.2 and it still crashes on startup, rolling back to v3.7.1", "times": []}
+{"id": "eval2-00060", "slice": "range", "text": "I'm free from 6:30 to 9:30 pm if you want to grab a curry, oen of the only gaps I have this week", "times": [{"text": "6:30", "minute": 1110}, {"text": "9:30 pm", "minute": 1290}]}
+{"id": "eval2-00061", "slice": "range", "text": "Our onboarding webinar runs 8 to 9pm, the link will arrive by email 📧", "times": [{"text": "8", "minute": 1200}, {"text": "9pm", "minute": 1260}]}
+{"id": "eval2-00062", "slice": "range", "text": "Darling, the movers are due between 6 and 7:30AM, so I have set an early alarm. Please do not worry.", "times": [{"text": "6", "minute": 360}, {"text": "7:30AM", "minute": 450}]}
+{"id": "eval2-00063", "slice": "cue", "text": "Coffee run at 3:15 in the afternoon? I need caffeine ☕", "times": [{"text": "3:15", "minute": 915}]}
+{"id": "eval2-00064", "slice": "explicit", "text": "Dentist done, back by 4:10 pm", "times": [{"text": "4:10 pm", "minute": 970}]}
+{"id": "eval2-00065", "slice": "explicit", "text": "@Kai landlord's coming at 4 PM and will stay about twenty minutes, please hide the three pizza boxes", "times": [{"text": "4 PM", "minute": 960}]}
+{"id": "eval2-00066", "slice": "cue", "text": "Hi Ms Ortiz, we're pushing the fix at 11 late tonight so there may be a brief outage 🙏", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00067", "slice": "implicit", "text": "Missed the last train in Tokyo, now dozing in a manga café, it's 3", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00068", "slice": "range", "text": "I could call you between 1 and 2pm, if that suits you.", "times": [{"text": "1", "minute": 780}, {"text": "2pm", "minute": 840}]}
+{"id": "eval2-00069", "slice": "cue", "text": "Our driver collects the pallets at 5 in the morning so pleas leave the gate open.", "times": [{"text": "5", "minute": 300}]}
+{"id": "eval2-00070", "slice": "cue", "text": "Could we move the call to 8:45 tonight? I have the school play first, thank you.", "times": [{"text": "8:45", "minute": 1245}]}
+{"id": "eval2-00071", "slice": "cue", "text": "The boiler man came at 9 this morning. He says it's fixed. Please let me know if the water is hot.", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00072", "slice": "explicit", "text": "@Gina the ride meets at 9:10am PST outside the bakery", "times": [{"text": "9:10am", "minute": 550}]}
+{"id": "eval2-00073", "slice": "cue", "text": "Cinema at 7:15 tonight, you in?", "times": [{"text": "7:15", "minute": 1155}]}
+{"id": "eval2-00074", "slice": "range", "text": "I'm around 8 to 9:30pm if you want to do a video call", "times": [{"text": "8", "minute": 1200}, {"text": "9:30pm", "minute": 1290}]}
+{"id": "eval2-00075", "slice": "implicit", "text": "my visa appointment at the embasy is at 11 so I'll be offline until after lunch, wish me luck", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00076", "slice": "explicit", "text": "Hello Lucy, I am sorry for the late reply, I was up at 4 am with the baby. Thank you for your patience.", "times": [{"text": "4 am", "minute": 240}]}
+{"id": "eval2-00077", "slice": "implicit", "text": "parish council at the village hall is at 9 once everyone's kids are in bed, i'll bring a flask for the long agenda", "times": [{"text": "9", "minute": 1260}]}
+{"id": "eval2-00078", "slice": "none", "text": "Same, my 1:1 with Rob got pushed to next week so I'm free to chat", "times": []}
+{"id": "eval2-00079", "slice": "implicit", "text": "gotta be at the car boot field by 5:30 to grab a pitch, it's still dark so wake me", "times": [{"text": "5:30", "minute": 330}]}
+{"id": "eval2-00080", "slice": "cue", "text": "can we sync at 11 tomorrow morning", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00081", "slice": "none", "text": "Hello Sam, could you please look at ticket INC-48213 when you have a moment? Thank you.", "times": []}
+{"id": "eval2-00082", "slice": "none", "text": "back in 2 hours, grabbing the laptop from repairs", "times": []}
+{"id": "eval2-00083", "slice": "range", "text": "Free to chat 8:45 to 9:15 p.m., call me? 📞", "times": [{"text": "8:45", "minute": 1245}, {"text": "9:15 p.m.", "minute": 1275}]}
+{"id": "eval2-00084", "slice": "range", "text": "We can hold the maintenance window 10-11:30 p.m. on Friday, shall I confirm?", "times": [{"text": "10", "minute": 1320}, {"text": "11:30 p.m.", "minute": 1410}]}
+{"id": "eval2-00085", "slice": "none", "text": "Got the catering quote: £300 for the offsite lunch 🍕 should be within budget", "times": []}
+{"id": "eval2-00086", "slice": "cue", "text": "Sorry for the late email, the server alerts went off at 2:30 in the middle of the night and Ive been fixing it since", "times": [{"text": "2:30", "minute": 150}]}
+{"id": "eval2-00087", "slice": "none", "text": "battery on dad's phone is at 8% again, he keeps forgeting to charge it", "times": []}
+{"id": "eval2-00088", "slice": "implicit", "text": "making cheese on toast at 11 just before bed, want some? i'll leave the grils on", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00089", "slice": "range", "text": "The technician will arrive between 9 and 10 a.m. on Tuesday.", "times": [{"text": "9", "minute": 540}, {"text": "10 a.m.", "minute": 600}]}
+{"id": "eval2-00091", "slice": "implicit", "text": "dont forget the clocks go forward at 2 this weekend, we lose an hour of sleep", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00092", "slice": "explicit", "text": "Bus leaves 23:30, trip is six hours", "times": [{"text": "23:30", "minute": 1410}]}
+{"id": "eval2-00093", "slice": "cue", "text": "The courier will be at your door at 5 in the morning 🚚 please leave a note", "times": [{"text": "5", "minute": 300}]}
+{"id": "eval2-00094", "slice": "none", "text": "grandad's order number is 773920, parcel still hasnt come", "times": []}
+{"id": "eval2-00095", "slice": "none", "text": "We lost 3-0 on Saturday, still gutted", "times": []}
+{"id": "eval2-00096", "slice": "implicit", "text": "The bioluminescence kayak tour leaves at 10:30 once it's fully dark. Bring a dry bag and a headlamp. Meet at the boat shed.", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00097", "slice": "range", "text": "@Ravi the vendor says the database will be down between 2 and 3 a.m., no action needed from us", "times": [{"text": "2", "minute": 120}, {"text": "3 a.m.", "minute": 180}]}
+{"id": "eval2-00098", "slice": "cue", "text": "ill be free around 4 in the afternoon if you wanna walk the dogs", "times": [{"text": "4", "minute": 960}]}
+{"id": "eval2-00099", "slice": "implicit", "text": "Funny you ask, the hedgehogs turn up at the feeding station on the garden camera at 10:55, always after dark, I'll send the clip.", "times": [{"text": "10:55", "minute": 1375}]}
+{"id": "eval2-00101", "slice": "implicit", "text": "Burns supper tomorrow, haggis gets piped in at 7:30 so no one be late, and dont forgit the whisky", "times": [{"text": "7:30", "minute": 1170}]}
+{"id": "eval2-00102", "slice": "cue", "text": "Please forgive the message, I woke up at 1:45 in the middle of the night worrying about the exam.", "times": [{"text": "1:45", "minute": 105}]}
+{"id": "eval2-00103", "slice": "range", "text": "@Jess movie marathon runs 9 to 10:30PM, come over", "times": [{"text": "9", "minute": 1260}, {"text": "10:30PM", "minute": 1350}]}
+{"id": "eval2-00104", "slice": "implicit", "text": "Town siren test is at 12 again, don't panic", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00105", "slice": "implicit", "text": "We're registering the baby at the register office at 10. Bring the hospital paperwork. Then we can get a coffee on the way home.", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00106", "slice": "range", "text": "Dear, I'll be on the train from 6:50 to 7:20pm, so my signal may drop.", "times": [{"text": "6:50", "minute": 1130}, {"text": "7:20pm", "minute": 1160}]}
+{"id": "eval2-00107", "slice": "range", "text": "Thanks for your message. The system will be offline 10-11:30 pm tomorrow. Please save your work beforehand.", "times": [{"text": "10", "minute": 1320}, {"text": "11:30 pm", "minute": 1410}]}
+{"id": "eval2-00108", "slice": "range", "text": "Court's free between 10 and 2PM on Sunday, let me know", "times": [{"text": "10", "minute": 600}, {"text": "2PM", "minute": 840}]}
+{"id": "eval2-00109", "slice": "range", "text": "Sure, the plumber can come 9 to 10am on Thursday", "times": [{"text": "9", "minute": 540}, {"text": "10am", "minute": 600}]}
+{"id": "eval2-00110", "slice": "range", "text": "We are open Saturday 10 to 1 pm. Please bring your ID. See you then.", "times": [{"text": "10", "minute": 600}, {"text": "1 pm", "minute": 780}]}
+{"id": "eval2-00111", "slice": "none", "text": "Battery's down to 12% 😬 will charge at the café", "times": []}
+{"id": "eval2-00112", "slice": "cue", "text": "Love, I woke up at 1 in the middle of the night and could not get back to sleep, so I made tea.", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00113", "slice": "range", "text": "The cleanup crew is scheduled for 3-5am on the weekend.", "times": [{"text": "3", "minute": 180}, {"text": "5am", "minute": 300}]}
+{"id": "eval2-00114", "slice": "cue", "text": "@Nico I've got to be on the road at 8 tomorrow morning, please don't hog the bathroom", "times": [{"text": "8", "minute": 480}]}
+{"id": "eval2-00115", "slice": "implicit", "text": "Boss emailing the whole team at 3:15 while we're all fast asleep", "times": [{"text": "3:15", "minute": 195}]}
+{"id": "eval2-00116", "slice": "cue", "text": "Hello Ana, shall we meet at 1:30 this afternoon? I will bring the documents.", "times": [{"text": "1:30", "minute": 810}]}
+{"id": "eval2-00117", "slice": "range", "text": "the lunch workshop is between 12:55 p.m. and 1:55pm, room is on the thrid floor", "times": [{"text": "12:55 p.m.", "minute": 775}, {"text": "1:55pm", "minute": 835}]}
+{"id": "eval2-00118", "slice": "explicit", "text": "Standup moved to 09:50 today. It'll be quick, maybe ten minutes. Sorry for the shuffle.", "times": [{"text": "09:50", "minute": 590}]}
+{"id": "eval2-00119", "slice": "explicit", "text": "Picking up Gran at 4:30 pm GMT 🚗", "times": [{"text": "4:30 pm", "minute": 990}]}
+{"id": "eval2-00120", "slice": "none", "text": "Yep rent is going up 5%, just got the email.", "times": []}
+{"id": "eval2-00121", "slice": "implicit", "text": "Sorry I'll be late for the call, missed the last train home and have been dozing in a manga cafe in Tokyo. It's 3:45 and I'm still not asleep, sory.", "times": [{"text": "3:45", "minute": 225}]}
+{"id": "eval2-00122", "slice": "none", "text": "Hello Mia, I counted twelve guests for Saturday, is that fine?", "times": []}
+{"id": "eval2-00123", "slice": "implicit", "text": "@Avi on Shavuot we stay up learning Torah until sunrise, and I'll lead the session at 1 so bring coffee", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00125", "slice": "range", "text": "Dear housemate, the guests are arriving between 6:45 and 7:45PM, could you please tidy the lounge before then?", "times": [{"text": "6:45", "minute": 1125}, {"text": "7:45PM", "minute": 1185}]}
+{"id": "eval2-00126", "slice": "cue", "text": "Darling, the dog was sick at 2 in the middle of the night. I cleaned it up, so no worries.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00127", "slice": "explicit", "text": "Recap from the tournament: wake up call was 06:25 EST, last match 4PM, and the after-party only finished at 02:30 so everyone's wrecked.", "times": [{"text": "06:25", "minute": 385}, {"text": "4PM", "minute": 960}, {"text": "02:30", "minute": 150}]}
+{"id": "eval2-00128", "slice": "explicit", "text": "Table for six booked at 7:05pm", "times": [{"text": "7:05pm", "minute": 1145}]}
+{"id": "eval2-00129", "slice": "none", "text": "Release is locked for the 14th, dont merge anything after the freze", "times": []}
+{"id": "eval2-00130", "slice": "none", "text": "Meeting is in Room 12 on the third floor. Bring your own mug. The lift is out of order.", "times": []}
+{"id": "eval2-00131", "slice": "implicit", "text": "Hello Tom, I drove past a police drink-drive checkpoint stopping cars as the bars emptied out at 3, so I was home late. I will not be late again, as my pottery class on Saturday is not until 12.", "times": [{"text": "3", "minute": 180}, {"text": "12", "minute": 720}]}
+{"id": "eval2-00132", "slice": "implicit", "text": "Chem lab practical is at 2 on a normal school day, goggles required, no sneaking out", "times": [{"text": "2", "minute": 840}]}
+{"id": "eval2-00133", "slice": "none", "text": "gonna be late back tonight, save me some dinner pleaes", "times": []}
+{"id": "eval2-00134", "slice": "implicit", "text": "The farrier is shoeing the horses at 10 in the yard. He'll be done well before lunch. Please keep the dogs inside.", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00135", "slice": "implicit", "text": "orchestra rehearsal finishes at 12 and then we're queueing for father christmas at the department store grotto at 1", "times": [{"text": "12", "minute": 720}, {"text": "1", "minute": 780}]}
+{"id": "eval2-00137", "slice": "implicit", "text": "We set off at 4 to beat the holiday traffic, while it was still dark and the roads were empty. Back home we checked the garden camera and the hedgehogs were at the feeding station at 10, once it was dark again.", "times": [{"text": "4", "minute": 240}, {"text": "10", "minute": 1320}]}
+{"id": "eval2-00138", "slice": "implicit", "text": "the lion dance troupe will visit your shop at 10 to bring luck for lunar new year, before it gets busy, so please have the red envelope ready", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00139", "slice": "implicit", "text": "Embassy visa appointment is at 9, citizenship ceremony at the town hall is 10, big day", "times": [{"text": "9", "minute": 540}, {"text": "10", "minute": 600}]}
+{"id": "eval2-00140", "slice": "implicit", "text": "The hedgehogs are on the garden camera again at 10:30, once it's pitch dark 🦔", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00141", "slice": "none", "text": "ill be with you in a few minutes, just finishng a call", "times": []}
+{"id": "eval2-00142", "slice": "explicit", "text": "Hello, our courier will collect the parcel at 5:45am. Please have it by the door. Thank you.", "times": [{"text": "5:45am", "minute": 345}]}
+{"id": "eval2-00143", "slice": "none", "text": "Darling, could you please pick up some bread and milk on your way home? Thank you so much.", "times": []}
+{"id": "eval2-00144", "slice": "implicit", "text": "Dad's breakfast tray finally came round the ward at 8:30, porridge and a sad egg", "times": [{"text": "8:30", "minute": 510}]}
+{"id": "eval2-00145", "slice": "implicit", "text": "Your kayak tour leaves at 10:45, we wait until it is fully dark so the plankton glow, bring a torch and warm layers. Looking forwrd to it!", "times": [{"text": "10:45", "minute": 1365}]}
+{"id": "eval2-00146", "slice": "none", "text": "Good day, the printer is priced at £120. I think that fits our budget.", "times": []}
+{"id": "eval2-00147", "slice": "implicit", "text": "Thanks for the call, the parental controls switch off my son's games console at 9:05 on school days, but it stayed on yesterday, plesae check", "times": [{"text": "9:05", "minute": 1265}]}
+{"id": "eval2-00148", "slice": "cue", "text": "Absolutely, we can do 9:30 in the evening if that's easier for you.", "times": [{"text": "9:30", "minute": 1290}]}
+{"id": "eval2-00149", "slice": "range", "text": "dishes get done 6-6:30 pm, then the kitchen is yours", "times": [{"text": "6", "minute": 1080}, {"text": "6:30 pm", "minute": 1110}]}
+{"id": "eval2-00150", "slice": "implicit", "text": "Sorry I'm late replying, I'm in A&E with a friend who cut their head open when the clubs shut. It's 2 and we're still waiting.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00151", "slice": "implicit", "text": "Pottery class on Saturday starts at 12:15 and I'm making a mess. Afterwards it's home for cheese on toast at 9:45 just before bed.", "times": [{"text": "12:15", "minute": 735}, {"text": "9:45", "minute": 1305}]}
+{"id": "eval2-00152", "slice": "explicit", "text": "Baby has been up three times since 1:50 a.m. 😴", "times": [{"text": "1:50 a.m.", "minute": 110}]}
+{"id": "eval2-00153", "slice": "range", "text": "Pitch is booked between 4 and 6pm", "times": [{"text": "4", "minute": 960}, {"text": "6pm", "minute": 1080}]}
+{"id": "eval2-00154", "slice": "implicit", "text": "Hello Dr Reid, we set off at 3 to beat the holiday traffic, well before sunrise, so I will be tired for my PhD viva at the university at 10, but I will manage.", "times": [{"text": "3", "minute": 180}, {"text": "10", "minute": 600}]}
+{"id": "eval2-00155", "slice": "implicit", "text": "town siren test is at 12 again, then the castle light show at the theme park is at 10 just before closing, evrybody going?", "times": [{"text": "12", "minute": 720}, {"text": "10", "minute": 1320}]}
+{"id": "eval2-00156", "slice": "implicit", "text": "our last bookable escape room slot is 10:30, after that the staff lock up and go home, so book soon", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00157", "slice": "implicit", "text": "the hardware store is gonna be mobbed bank holiday monday, DIY crowd. i'll go when it opens at 10 and grab the fense panels", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00158", "slice": "explicit", "text": "Dinner at 7:15 p.m., last bus 23:30, church 9:10am", "times": [{"text": "7:15 p.m.", "minute": 1155}, {"text": "23:30", "minute": 1410}, {"text": "9:10am", "minute": 550}]}
+{"id": "eval2-00159", "slice": "implicit", "text": "Torah reading at the Saturday service is 11, castle light show just before the park closes is 10:30", "times": [{"text": "11", "minute": 660}, {"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00160", "slice": "implicit", "text": "I'll be out for Friday jumu'ah at the mosque, congregation starts at 1, back soon after.", "times": [{"text": "1", "minute": 780}]}
+{"id": "eval2-00161", "slice": "explicit", "text": "Film ends 21:45, it's three hours long, order the pizza", "times": [{"text": "21:45", "minute": 1305}]}
+{"id": "eval2-00162", "slice": "range", "text": "Please note the office will be closed from 6 to 9 pm for the fire drill.", "times": [{"text": "6", "minute": 1080}, {"text": "9 pm", "minute": 1260}]}
+{"id": "eval2-00163", "slice": "explicit", "text": "your table is ready at 12:20pm EST", "times": [{"text": "12:20pm", "minute": 740}]}
+{"id": "eval2-00164", "slice": "cue", "text": "can we do the review at 10 in the morning", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00165", "slice": "implicit", "text": "Exam results can be collected at school at 10 today, fingers crossed 🤞", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00166", "slice": "implicit", "text": "Wrigley bleachers tomorrow! Gates open early and first pitch is at 1:45. Sun will be out so wear a hat.", "times": [{"text": "1:45", "minute": 825}]}
+{"id": "eval2-00167", "slice": "implicit", "text": "Elite runners start the marathon at 9. The celebrity chef's live cooking slot on daytime TV is 11:30, so we can watch both.", "times": [{"text": "9", "minute": 540}, {"text": "11:30", "minute": 690}]}
+{"id": "eval2-00168", "slice": "cue", "text": "@Okafor we can deliver at 1 in the afternoon, does that suit?", "times": [{"text": "1", "minute": 780}]}
+{"id": "eval2-00169", "slice": "implicit", "text": "Hello Kenji, I missed the last train home and am dozing in a manga café in Tokyo. It is 1 and I am not sure I will sleep.", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00170", "slice": "cue", "text": "We can eat at 8 in the evening, after the match.", "times": [{"text": "8", "minute": 1200}]}
+{"id": "eval2-00171", "slice": "implicit", "text": "Unfortunately the haggis is piped in at 8 at the Burns supper, and the antenatal class at the hospital after work also starts at 8.", "times": [{"text": "8", "minute": 1200}, {"text": "8", "minute": 1200}]}
+{"id": "eval2-00172", "slice": "implicit", "text": "The last dance at the reception is at 11:30, once the guests are tired, and the band packs up straight afterwards.", "times": [{"text": "11:30", "minute": 1410}]}
+{"id": "eval2-00173", "slice": "implicit", "text": "Going to the milonga in Buenos Aires. The tango dancing only gets going at 11, so don't expect me home early.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00174", "slice": "range", "text": "Movie 8:30-9:30PM 🍿", "times": [{"text": "8:30", "minute": 1230}, {"text": "9:30PM", "minute": 1290}]}
+{"id": "eval2-00175", "slice": "cue", "text": "Deploying at 11 late tonight", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00177", "slice": "explicit", "text": "the first bus came at 5:35 a.m. PST but I took the one at 5:20am", "times": [{"text": "5:35 a.m.", "minute": 335}, {"text": "5:20am", "minute": 320}]}
+{"id": "eval2-00178", "slice": "cue", "text": "@Chloe the sponsor dinner is at 7 this evening", "times": [{"text": "7", "minute": 1140}]}
+{"id": "eval2-00179", "slice": "none", "text": "moving our 1:1 with sofia to friday", "times": []}
+{"id": "eval2-00180", "slice": "implicit", "text": "I'm craving cheese on toast just before bed. Probably around 11. Want some?", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00181", "slice": "implicit", "text": "Farrier is coming to shoe the horses at 10 🐴 and then the weigh-in at the angling match on the river is 3:30.", "times": [{"text": "10", "minute": 600}, {"text": "3:30", "minute": 930}]}
+{"id": "eval2-00182", "slice": "explicit", "text": "@Dad your bus leaves at 5:35AM CET", "times": [{"text": "5:35AM", "minute": 335}]}
+{"id": "eval2-00183", "slice": "implicit", "text": "The president does the Grito from the palace balcony at 11 on the eve of Independence Day 🇲🇽", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00184", "slice": "implicit", "text": "tourists put towels on the sun loungers at 8 before breakfast, its nuts", "times": [{"text": "8", "minute": 480}]}
+{"id": "eval2-00185", "slice": "implicit", "text": "The bar mitzvah boy reads from the Torah at the Saturday service at 11:30, so be there.", "times": [{"text": "11:30", "minute": 690}]}
+{"id": "eval2-00186", "slice": "explicit", "text": "bus is 07:25, train is 08:05 so we can't be late", "times": [{"text": "07:25", "minute": 445}, {"text": "08:05", "minute": 485}]}
+{"id": "eval2-00187", "slice": "none", "text": "Thank you for the update. I will review the document this afternoon.", "times": []}
+{"id": "eval2-00188", "slice": "none", "text": "Good evening all, apologies, I'll be late joining the ride tonight.", "times": []}
+{"id": "eval2-00189", "slice": "explicit", "text": "Booked 9:35am GMT, earlier slot was 09:30", "times": [{"text": "9:35am", "minute": 575}, {"text": "09:30", "minute": 570}]}
+{"id": "eval2-00190", "slice": "explicit", "text": "Build started at 06:20 and failed on three jobs. I'm retrying them now.", "times": [{"text": "06:20", "minute": 380}]}
+{"id": "eval2-00191", "slice": "range", "text": "Could we chat 8-8:30AM? Thank you.", "times": [{"text": "8", "minute": 480}, {"text": "8:30AM", "minute": 510}]}
+{"id": "eval2-00192", "slice": "implicit", "text": "grito from the palace balcony is at 11:30 on the eve of independence day, mexico city will be packed", "times": [{"text": "11:30", "minute": 1410}]}
+{"id": "eval2-00193", "slice": "none", "text": "we are five, one of us is vegan", "times": []}
+{"id": "eval2-00195", "slice": "none", "text": "The training will take roughly forty-five minutes. I hope that works for you.", "times": []}
+{"id": "eval2-00196", "slice": "explicit", "text": "your appointment is at 11:25 AM, see you then", "times": [{"text": "11:25 AM", "minute": 685}]}
+{"id": "eval2-00197", "slice": "implicit", "text": "@Mum we register the baby's birth at the register office at 10, will send photos", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00199", "slice": "fallback", "text": "ok 3:45", "times": [{"text": "3:45", "minute": 225}]}
+{"id": "eval2-00200", "slice": "implicit", "text": "Hello, the town sirens will be tested at 11:45 as usual before lunch, so please do not be alarmed.", "times": [{"text": "11:45", "minute": 705}]}
+{"id": "eval2-00201", "slice": "range", "text": "Retro slot is 6 to 6:30pm. Dial in from your desk. Notes will be shared.", "times": [{"text": "6", "minute": 1080}, {"text": "6:30pm", "minute": 1110}]}
+{"id": "eval2-00202", "slice": "none", "text": "We won 4-0! ⚽", "times": []}
+{"id": "eval2-00203", "slice": "explicit", "text": "Flihgt lands 4:50am PST", "times": [{"text": "4:50am", "minute": 290}]}
+{"id": "eval2-00204", "slice": "implicit", "text": "I'm in Buenos Aires at a milonga. The dancing only gets going at 11. Will reply tomorrow.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00205", "slice": "none", "text": "twelve people have signed up for the offsite 🎉", "times": []}
+{"id": "eval2-00206", "slice": "implicit", "text": "health visitor is coming to check on the baby at 10:30 after the school run, so tidy up", "times": [{"text": "10:30", "minute": 630}]}
+{"id": "eval2-00207", "slice": "implicit", "text": "@Lou the farrier is shoeing the horses at 11 so come help hold them, lunch afterwards", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00208", "slice": "implicit", "text": "jumu'ah prayers at the mosque start at 1, so ill be late to the match", "times": [{"text": "1", "minute": 780}]}
+{"id": "eval2-00209", "slice": "none", "text": "CPU is at 92%", "times": []}
+{"id": "eval2-00210", "slice": "explicit", "text": "Got in at 6:05 PM EST, and my bag finaly showed up at 1:10 a.m.", "times": [{"text": "6:05 PM", "minute": 1085}, {"text": "1:10 a.m.", "minute": 70}]}
+{"id": "eval2-00211", "slice": "implicit", "text": "Chem lab practical finishes at 4:35 on the school day 🧪 so don't expect us before then", "times": [{"text": "4:35", "minute": 995}]}
+{"id": "eval2-00212", "slice": "implicit", "text": "Dad says the combine can't cut the wheat til the dew has burned off, probably around 11", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00213", "slice": "cue", "text": "Home around 10:30 tonight 🌙", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00214", "slice": "none", "text": "Can we push our 1:1 to later this week? The vendor audit has totaly eaten my calendar and I need to catch up first.", "times": []}
+{"id": "eval2-00215", "slice": "implicit", "text": "Bank holiday Monday means every DIYer in town will be queueing outside the hardware store before it opens at 9:30 😅 Maybe collect your decking boards on Tuesday instead?", "times": [{"text": "9:30", "minute": 570}]}
+{"id": "eval2-00216", "slice": "range", "text": "Court's booked from 6 to 8 pm on Thursday. Bring your own rackets, the club ones are falling apart. Anyone need a lift?", "times": [{"text": "6", "minute": 1080}, {"text": "8 pm", "minute": 1200}]}
+{"id": "eval2-00217", "slice": "range", "text": "Hello all, the boiler engineer will be at Gran's house 11:30-1 p.m. on Friday. Would someone please be there to let him in? Thank you.", "times": [{"text": "11:30", "minute": 690}, {"text": "1 p.m.", "minute": 780}]}
+{"id": "eval2-00218", "slice": "range", "text": "Heads up, the landlord's guys are retiling the bathroom 7:15-10:15 a.m. tomorrow, so no showers in that window 🚿 sorry!", "times": [{"text": "7:15", "minute": 435}, {"text": "10:15 a.m.", "minute": 615}]}
+{"id": "eval2-00219", "slice": "none", "text": "Rent is due on the 3rd and I already sent my half, can you send yours when you get a chance? Also the recylcing goes out on the 12th.", "times": []}
+{"id": "eval2-00221", "slice": "implicit", "text": "Yep, that's just the monthly siren test, it goes off at 12 sharp on the first Wednesday of the month while everyone's heading out for lunch. Nothing to worry about.", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00222", "slice": "cue", "text": "Still up for the pub quiz tonight? I'll meet you outside at 8 🍻", "times": [{"text": "8", "minute": 1200}]}
+{"id": "eval2-00223", "slice": "cue", "text": "The Tokyo office call is at 1 in the morning my time, so I'll sleep on the sofa and try not to wake you. Sorrry!", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00224", "slice": "none", "text": "Did you ever get a reply from the supplier about the delayed shipment? I'm going to need an anwser before I talk to the boss.", "times": []}
+{"id": "eval2-00225", "slice": "none", "text": "Left your umbrella in room 4B.", "times": []}
+{"id": "eval2-00226", "slice": "cue", "text": "My flight lands at 3 in the morning so don't wait up, I'll grab a cab home 😴", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00227", "slice": "explicit", "text": "Our train gets in at 7:10 PM EST. Can you grab dinner on the way home? I'm starving.", "times": [{"text": "7:10 PM", "minute": 1150}]}
+{"id": "eval2-00228", "slice": "implicit", "text": "I set the dishwasher to start when the cheap rate kicks in at 11, so don't panic when it rumbles away while we're both asleep 💸", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00229", "slice": "cue", "text": "Standup moved to 9 this morning, same link.", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00230", "slice": "implicit", "text": "Hi Sam, my niece has her lunch sitting in the school canteen at 12:30 with the youngest pupils, and later we are taking the family to the theme park, where the light show over the castle starts at 10, just before the park closes. Thank you so much for covering my shift.", "times": [{"text": "12:30", "minute": 750}, {"text": "10", "minute": 1320}]}
+{"id": "eval2-00231", "slice": "implicit", "text": "Water company are cutting the supply at 12:15 in the middle of the working day for repairs. Fill your bottles first.", "times": [{"text": "12:15", "minute": 735}]}
+{"id": "eval2-00232", "slice": "cue", "text": "Hello! Would you still like to come over for dinner tonight? Please come round at 6 if you can, and bring nothing but yourself.", "times": [{"text": "6", "minute": 1080}]}
+{"id": "eval2-00233", "slice": "none", "text": "Who left the fridge door open in the kitchen again? Somebody's lunch is going warm, plese check.", "times": []}
+{"id": "eval2-00234", "slice": "implicit", "text": "Yep, the Pope gives the Angelus from the window over St Peter's Square on Sundays at 12, so the crowd packs in well before everyone breaks for lunch. Get there early.", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00235", "slice": "implicit", "text": "Quick tip for your trip: on the last day of Las Fallas they set the giant falla alight in the square at 10, long after dark, and the sparks fly everywhere, so wear old clothes. We can reserve a balcony table if you like, I recomend it.", "times": [{"text": "10", "minute": 1320}]}
+{"id": "eval2-00236", "slice": "implicit", "text": "Day game at Wrigley on Saturday, first pitch 1:30, so bleachers right after a long lunch. Who's in? Shoudl be sunny.", "times": [{"text": "1:30", "minute": 810}]}
+{"id": "eval2-00237", "slice": "range", "text": "Maintenance window for the database migration is 2 am to 6 am on Sunday. Expect the dashboards to be down. Ping me if anything looks off.", "times": [{"text": "2 am", "minute": 120}, {"text": "6 am", "minute": 360}]}
+{"id": "eval2-00238", "slice": "implicit", "text": "The president does the Grito from the palace balcony at 11 on the eve of Independence Day, and the square is jammed with people waving flags under the fireworks. Let's get there early. Bring a jacket, it gets cold once the sun is long gone.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00239", "slice": "none", "text": "Conversion is up 12% since the redesign, nice work.", "times": []}
+{"id": "eval2-00241", "slice": "implicit", "text": "Don't panic if you hear sirens around town at 12 today, it's the monthly emergency test, right as the lunch rush starts 😊 We're open as usual.", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00242", "slice": "cue", "text": "anyone up for the fishing trip on saturday, we leave the marina at 3 in the morning to catch the tide so i need someone to pick me up", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00243", "slice": "none", "text": "@Jess the internet guy gave us ticket 48213 so quote that if he calls back", "times": []}
+{"id": "eval2-00244", "slice": "implicit", "text": "The milonga doesn't really get going until 11, the dancers all turn up after dinner and the floor only fills once the bandoneon player wamrs up, so no point going earlier. I'll have a nap first.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00245", "slice": "implicit", "text": "Ha, no chance, the parish council meeting in the village hall never finishes before 9, everyone comes straight from work and they argue about the car park for ages. I'll call you after.", "times": [{"text": "9", "minute": 1260}]}
+{"id": "eval2-00246", "slice": "implicit", "text": "@Maya the farrier is coming to shoe the horses at 8, straight after their breakfast feed and before the livery customers turn up. Can you bring Duke in from the paddock?", "times": [{"text": "8", "minute": 480}]}
+{"id": "eval2-00247", "slice": "cue", "text": "Same here, the finals stream from Seoul starts at 2 in the morning for me so I'm skipping it and watching the replay.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00248", "slice": "implicit", "text": "Dew is still sat on the wheat, so the combine is parked up all through lunch. Probably won't start cutting until 2 once the sun has dried it off. Tell the grain lorry.", "times": [{"text": "2", "minute": 840}]}
+{"id": "eval2-00249", "slice": "cue", "text": "Don't forget I'm leaving for the airport at 6 tomorrow morning, so keep the stairs clear 😅 Love you all!", "times": [{"text": "6", "minute": 360}]}
+{"id": "eval2-00250", "slice": "none", "text": "Running late, be there in about 20 minutes 🏃", "times": []}
+{"id": "eval2-00251", "slice": "none", "text": "battery's at 9%, send me the address now", "times": []}
+{"id": "eval2-00253", "slice": "none", "text": "Hello Tom, I upgraded to v3.8.2 of the budgeting app and the export seems to be broken. Have you noticed the same thing on yours?", "times": []}
+{"id": "eval2-00254", "slice": "range", "text": "Grandpa's video call is booked for 7:45 to 8:15 PM on Sunday. Please make sure the tablet is charged. Auntie Jo will join from the farm.", "times": [{"text": "7:45", "minute": 1185}, {"text": "8:15 PM", "minute": 1215}]}
+{"id": "eval2-00255", "slice": "cue", "text": "Want to grab coffee this afternoon? I'm free after 4:30 once the dentist is done, though I might not be able to talk with a numb fcae.", "times": [{"text": "4:30", "minute": 990}]}
+{"id": "eval2-00256", "slice": "range", "text": "Hi, our ordering system will be offline from 1am to 4 AM on Sunday for the upgrade, so no ordres will go through in that window. Sorry for any trouble.", "times": [{"text": "1am", "minute": 60}, {"text": "4 AM", "minute": 240}]}
+{"id": "eval2-00257", "slice": "range", "text": "Hello Ms Carter, your support call has been scheduled for 10 to 10:30 pm on Wednesday. Please let us know if that suits you.", "times": [{"text": "10", "minute": 1320}, {"text": "10:30 pm", "minute": 1350}]}
+{"id": "eval2-00258", "slice": "implicit", "text": "Our fungi foray in the woods on Saturday ends at 11:30, just in time for lunch at the pub. Bring wellies and a basket. The guide says the mushrooms are best picked before the sun dries them out.", "times": [{"text": "11:30", "minute": 690}]}
+{"id": "eval2-00259", "slice": "none", "text": "Hi, would you mind keeping the music down tonight? I have a big exam tomorrow and need to revise in peace. Thank you!", "times": []}
+{"id": "eval2-00260", "slice": "cue", "text": "Hello, I just wanted to apologise in advance. I'm on call this week and my phone may ring at 2 in the middle of the night, which I know is annoying. I will keep it on vibrate.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00261", "slice": "none", "text": "Honestly my first serve percentage is only 52% right now, so I'd rather work on that than the backhand.", "times": []}
+{"id": "eval2-00262", "slice": "implicit", "text": "health visitor is coming to weigh the baby at 12 so can you be home before she gets here we will have lunch after", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00263", "slice": "cue", "text": "sorry if you heard me up at 2 in the middle of the night the smoke alarm battery was chirping and i couldnt find it", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00264", "slice": "implicit", "text": "Taking Bella to the emergency vet, she got into the dark chocolate hours after we all went to bed. Should be there by 2 and the roads are empty and pitch black. I didn't want to wake you, call me when yuo're up.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00265", "slice": "implicit", "text": "Still waiting on the dew, the combine can't touch the wheat while it's this damp. They reckon 2 once the sun's had a go at it, after the farmer's finished his sandwich.", "times": [{"text": "2", "minute": 840}]}
+{"id": "eval2-00266", "slice": "implicit", "text": "I need to step out of the team call when the health visitor arrives at 11:30 to check on the newborn. It should be done before lunch. I'll catch up on the notes later.", "times": [{"text": "11:30", "minute": 690}]}
+{"id": "eval2-00267", "slice": "cue", "text": "Landing at 10:30 late tonight so don't worry if I miss dinner ✈️", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00268", "slice": "implicit", "text": "Last dance at the reception is at 11 and the DJ already warned everyone the bar is closing, don't miss it 💃", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00269", "slice": "implicit", "text": "The school opens its doors for exam results at 9, so I'll queue with Ollie after the school run and then head to work. Fingers crossed! I'll text you the grades.", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00270", "slice": "none", "text": "Hi, your issue should be fixed in build 4521. Please updat when you can and let us know if the bug is still there.", "times": []}
+{"id": "eval2-00272", "slice": "implicit", "text": "That is pretty much our life with the glucose monitor, the low alarm goes off at 3 and we both stumble to the kitchen for juice while our daughter sleeps through it. We would love a quieter alert in your app.", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00273", "slice": "cue", "text": "gym class got moved to 8:45 this evening so dont hold dinner for me", "times": [{"text": "8:45", "minute": 1245}]}
+{"id": "eval2-00274", "slice": "explicit", "text": "Hello, I will be back from the clinic around 4:40pm PST, so could you please leave the hallway clear for the parcel? Thank you.", "times": [{"text": "4:40pm", "minute": 1000}]}
+{"id": "eval2-00275", "slice": "implicit", "text": "@Omar the Eid prayers in the park begin at 9 on the first day of Eid, and afterwards everyone is heading to someone's house for a big breakfast. Can you bring the date cookies?", "times": [{"text": "9", "minute": 540}]}
+{"id": "eval2-00276", "slice": "implicit", "text": "On holiday and the sun lounger war has already started, tourists are laying towels out at 8 before they've even had breakfast 😂 Then I'm walking down to watch the elite start of the city marathon at 10 before lunch.", "times": [{"text": "8", "minute": 480}, {"text": "10", "minute": 600}]}
+{"id": "eval2-00277", "slice": "implicit", "text": "My son's maths tutor comes round after school at 6:30 so I need to leave work on time today, dinner has to be done before then. Sorry for the shor notice.", "times": [{"text": "6:30", "minute": 1110}]}
+{"id": "eval2-00278", "slice": "explicit", "text": "Stayed up for the meteor shower, first streak at 1:05 am and I counted a dozen before I nodded off in the chair, woke up at 8:05 a.m. with a stiff neck lol. Anyone else see more? The sky was so clear teh whole time.", "times": [{"text": "1:05 am", "minute": 65}, {"text": "8:05 a.m.", "minute": 485}]}
+{"id": "eval2-00280", "slice": "implicit", "text": "Boss fired off emails at 3 while everyone sleeps, so I'm taking the Wrigley day game at 1 as comp time.", "times": [{"text": "3", "minute": 180}, {"text": "1", "minute": 780}]}
+{"id": "eval2-00282", "slice": "explicit", "text": "Sure, I can do the handoff call at 9 p.m. if the Singapore folks are still around.", "times": [{"text": "9 p.m.", "minute": 1260}]}
+{"id": "eval2-00283", "slice": "explicit", "text": "Dentist appointment is at 14:00 on Tuesday. Can someone drive Grandad? I can't leave work.", "times": [{"text": "14:00", "minute": 840}]}
+{"id": "eval2-00284", "slice": "implicit", "text": "@Dave the weigh-in at the end of the angling match is at 4, so we'll be packing up the keepnets by then after a full day on the river. Bring a folding chair.", "times": [{"text": "4", "minute": 960}]}
+{"id": "eval2-00285", "slice": "explicit", "text": "Hello, I wanted to let you know that I will be home from work at about 6:05pm. Would you mind leaving the washing up for me? Thanks.", "times": [{"text": "6:05pm", "minute": 1085}]}
+{"id": "eval2-00286", "slice": "cue", "text": "Appointment with the vet is at 10 in the morning on Thrusday. Can someone pick up Gran first? I can't get away from the shop.", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00287", "slice": "none", "text": "Dinner will be ready in about half an hour. Can someone set the table? I'll call you when the pasta's done.", "times": []}
+{"id": "eval2-00288", "slice": "cue", "text": "@Linda we'll start the roof repair at 6 tomorrow morning, before the heat sets in. Please move your car off the drive.", "times": [{"text": "6", "minute": 360}]}
+{"id": "eval2-00289", "slice": "range", "text": "@Alex I'll be on the migration call from 01:00 to 02:30, so don't wait up.", "times": [{"text": "01:00", "minute": 60}, {"text": "02:30", "minute": 150}]}
+{"id": "eval2-00290", "slice": "implicit", "text": "Thanks for the tip about the crate cover! Our puppy started whining at 1 and needed a garden trip while the rest of the house was fast asleep, and the cover calmed her straight away.", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00291", "slice": "range", "text": "Having people over from 6:30 to 8:30 p.m., ok?", "times": [{"text": "6:30", "minute": 1110}, {"text": "8:30 p.m.", "minute": 1230}]}
+{"id": "eval2-00292", "slice": "explicit", "text": "I can do the retro call at 7:50 PM, my other slots are all taken by teh offsite.", "times": [{"text": "7:50 PM", "minute": 1190}]}
+{"id": "eval2-00293", "slice": "implicit", "text": "The escape room's last bookable slot is 9:45, so we could eat dinner first and go after. Should I grab it? There's nothing else avaialble.", "times": [{"text": "9:45", "minute": 1305}]}
+{"id": "eval2-00294", "slice": "implicit", "text": "Dear Mrs Bell, the parish council meeting in the village hall starts at 8, after most people have finished their dinner. We hope you can attend to discuss the planning application. Tea will be served.", "times": [{"text": "8", "minute": 1200}]}
+{"id": "eval2-00295", "slice": "implicit", "text": "Flying my Spitfire at the club field on Sunday, the wind should be calm by 11:15 before lunch so I'm giong. Join in if you like.", "times": [{"text": "11:15", "minute": 675}]}
+{"id": "eval2-00296", "slice": "implicit", "text": "Hello Mark, my daughter starts her first Saturday job at the local café today, with the shift beginning at 9:30 just as they open for the brunch rush. I'm quite nervous for her!", "times": [{"text": "9:30", "minute": 570}]}
+{"id": "eval2-00297", "slice": "implicit", "text": "Hello all, the elite start of the city marathon is at 10, so after a quick breakfast we should get to the barrier early to see them go. Later the boys will be zipping into their sleeping bags as the campfire dies down at 9:45, so please keep your phones on in case they call.", "times": [{"text": "10", "minute": 600}, {"text": "9:45", "minute": 1305}]}
+{"id": "eval2-00299", "slice": "range", "text": "Quick fire drill practice 5-5:30 pm today, grab your badges and meet in the car park 🔥", "times": [{"text": "5", "minute": 1020}, {"text": "5:30 pm", "minute": 1050}]}
+{"id": "eval2-00300", "slice": "none", "text": "@Rosa found the lamp you wanted for $35 at the market, I'll bring it round on Friday", "times": []}
+{"id": "eval2-00301", "slice": "none", "text": "Hello, I'm planning to cook for friends this afternoon, so could I borrow the big pan? I'll wash it straight after.", "times": []}
+{"id": "eval2-00302", "slice": "explicit", "text": "My train leaves at 07:10, can you drive me to the staion?", "times": [{"text": "07:10", "minute": 430}]}
+{"id": "eval2-00303", "slice": "implicit", "text": "Honestly the hardest part of the Atlantic crossing was my solo watch at the helm at 3, with the rest of the crew asleep below and nothing but stars and the autopilot alarm for company.", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00304", "slice": "explicit", "text": "Release cut is at 5:55am PT, so please merge your PRs before then or they'll roll to the next one.", "times": [{"text": "5:55am", "minute": 355}]}
+{"id": "eval2-00305", "slice": "explicit", "text": "my zoom interview with the london office is at 08:25 est so please keep the flat quiet", "times": [{"text": "08:25", "minute": 505}]}
+{"id": "eval2-00306", "slice": "implicit", "text": "Would you mind if I take over the living room telly? My favourite celebrity chef is doing a live cooking slot on daytime TV at 10:30, and I would like to cook along before lunch.", "times": [{"text": "10:30", "minute": 630}]}
+{"id": "eval2-00307", "slice": "implicit", "text": "Don't freak out when the sirens go off at 12, it's the montly town test and everyone's heading out for lunch anyway.", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00308", "slice": "none", "text": "Hello love, just a reminder that the mortgage payment goes out on the 28th and the car insurance renews on the 3rd of December. Thanks for checking the account.", "times": []}
+{"id": "eval2-00309", "slice": "none", "text": "The new router firmware is v2.4.1 and now the wifi dropps constantly. Should I roll it back?", "times": []}
+{"id": "eval2-00310", "slice": "explicit", "text": "i can meet you at the climbing gym at 4:20pm if you still want to go", "times": [{"text": "4:20pm", "minute": 980}]}
+{"id": "eval2-00311", "slice": "implicit", "text": "Careful, the hotel breakfast buffet shuts at 10, and the late risers always miss it. Set an alarm.", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00312", "slice": "implicit", "text": "Don't forget the Melbourne Cup on Tuesday, the race that stops a nation. It runs at 3, so work grinds to a halt right after lunch for the office sweep. I've picked a grey.", "times": [{"text": "3", "minute": 900}]}
+{"id": "eval2-00313", "slice": "cue", "text": "Your order will be ready for collection at 5:30 this afternoon 😊 Just ring the bell at the side door.", "times": [{"text": "5:30", "minute": 1050}]}
+{"id": "eval2-00314", "slice": "cue", "text": "Landing 10:15 late tonight, can you pick me up?", "times": [{"text": "10:15", "minute": 1335}]}
+{"id": "eval2-00315", "slice": "range", "text": "I'm doing the choir livestream from 8:30 to 9:30 p.m., so please keep the kithen quiet.", "times": [{"text": "8:30", "minute": 1230}, {"text": "9:30 p.m.", "minute": 1290}]}
+{"id": "eval2-00316", "slice": "explicit", "text": "Works for me, I'll dial in at 9:45am CET.", "times": [{"text": "9:45am", "minute": 585}]}
+{"id": "eval2-00317", "slice": "implicit", "text": "Hello Mrs Pratt, the farrier will be coming to shoe your horses at 8. Please have them brought in from the field and given their breakfast before he arrives. He likes to finish before the day heats up.", "times": [{"text": "8", "minute": 480}]}
+{"id": "eval2-00318", "slice": "none", "text": "I'll be home late tonight, the meeting is overrunning. Eat without me. I'll bring some takeaway if you want.", "times": []}
+{"id": "eval2-00319", "slice": "none", "text": "Thank you for contacting us. Your request has been logged as ticket 77192. We will update you as soon as the engineer has reviewed it.", "times": []}
+{"id": "eval2-00320", "slice": "none", "text": "We lost 3-2 in extra time, still proud of the lads.", "times": []}
+{"id": "eval2-00321", "slice": "implicit", "text": "Can't make drinks, the first-aid course at the community centre runs after work and finishes at 8:30. Will text you once I'm out.", "times": [{"text": "8:30", "minute": 1230}]}
+{"id": "eval2-00322", "slice": "explicit", "text": "Train lands 5:50pm BST, meet at the barrier?", "times": [{"text": "5:50pm", "minute": 1070}]}
+{"id": "eval2-00323", "slice": "implicit", "text": "The parental controls switch off the console on school days at 9. Theo keeps complaining that he can't finish his match, but homework should be done long before that, straight after dinner. I'm not changing it.", "times": [{"text": "9", "minute": 1260}]}
+{"id": "eval2-00324", "slice": "cue", "text": "Anyone up for a quick bikee ride? I can only do 9 in the evening once the kids are in bed. The trail lights are good.", "times": [{"text": "9", "minute": 1260}]}
+{"id": "eval2-00325", "slice": "none", "text": "Thank you for sending the draft over. I have read it and I think the introduction is strong, but the conclusion needs a bit more work. Could we discuss it when you are free?", "times": []}
+{"id": "eval2-00326", "slice": "explicit", "text": "The batch job should finish around midnight, it usually takes about 3 hours. Let me know if it hangs.", "times": [{"text": "midnight", "minute": 0}]}
+{"id": "eval2-00327", "slice": "cue", "text": "can someone drive grandma to the clinic at 10 tomorrow morning i have a client call", "times": [{"text": "10", "minute": 600}]}
+{"id": "eval2-00328", "slice": "explicit", "text": "Demo is at 5:15pm today. Please have your slides in the shared folder before then. Snacks are on me.", "times": [{"text": "5:15pm", "minute": 1035}]}
+{"id": "eval2-00329", "slice": "none", "text": "Grandma's moved to room 12B, bring her flowers 🌸", "times": []}
+{"id": "eval2-00330", "slice": "implicit", "text": "Ruby's chemistry lab practical is the last lesson of the school day so she'll be out at 5, can someone grab her? 🧪", "times": [{"text": "5", "minute": 1020}]}
+{"id": "eval2-00331", "slice": "none", "text": "I'm in room 316 at the conference hotel. The wifi is awful and the bed is too hard. Miss you.", "times": []}
+{"id": "eval2-00332", "slice": "explicit", "text": "Back at 00:10, leave the door unlatched.", "times": [{"text": "00:10", "minute": 10}]}
+{"id": "eval2-00333", "slice": "explicit", "text": "Pizza arriving at 21:10, can you get the door? I'm in the shwoer.", "times": [{"text": "21:10", "minute": 1270}]}
+{"id": "eval2-00334", "slice": "explicit", "text": "Practice starts 5:30 p.m. CT, bring water.", "times": [{"text": "5:30 p.m.", "minute": 1050}]}
+{"id": "eval2-00335", "slice": "implicit", "text": "Yellow stickers go on the bread at 6:40, I'll go after work.", "times": [{"text": "6:40", "minute": 1120}]}
+{"id": "eval2-00336", "slice": "range", "text": "free to chat 7 to 7:30 am while i walk the dog", "times": [{"text": "7", "minute": 420}, {"text": "7:30 am", "minute": 450}]}
+{"id": "eval2-00337", "slice": "implicit", "text": "Setting off at 3 before sunrise to beat the holiday traffic, back Monday.", "times": [{"text": "3", "minute": 180}]}
+{"id": "eval2-00338", "slice": "implicit", "text": "The maths tutor is coming round after school at 4. Can someone make sure Mia has her workbook out? I'll be at work until later.", "times": [{"text": "4", "minute": 960}]}
+{"id": "eval2-00339", "slice": "explicit", "text": "Hi! The van left the depot at 6:45 AM and the driver scanned your street at 11:35AM, so you're only three stops away 🚚", "times": [{"text": "6:45 AM", "minute": 405}, {"text": "11:35AM", "minute": 695}]}
+{"id": "eval2-00340", "slice": "range", "text": "Our crew will be at your place 5-6 am to start the load-in, so please unlock the gate 🚛", "times": [{"text": "5", "minute": 300}, {"text": "6 am", "minute": 360}]}
+{"id": "eval2-00341", "slice": "implicit", "text": "Your scheduled backup that normally runs at 2:45 will be skipped this weekend because the clocks go forward while everyone is asleep. We'll rerun it for you. Sorry for the inconvenience.", "times": [{"text": "2:45", "minute": 165}]}
+{"id": "eval2-00342", "slice": "none", "text": "@Chris I updated the game to patch 1.7.3 and it fixed the crash, you should update yours.", "times": []}
+{"id": "eval2-00343", "slice": "explicit", "text": "Dinner at 8:30 p.m. EST, taxi at 11:15 pm.", "times": [{"text": "8:30 p.m.", "minute": 1230}, {"text": "11:15 pm", "minute": 1395}]}
+{"id": "eval2-00344", "slice": "cue", "text": "Raid starts 11:30 tonight, don't be late.", "times": [{"text": "11:30", "minute": 1410}]}
+{"id": "eval2-00345", "slice": "none", "text": "Can you pick up some milk and bread on the way home? 🥛 Love you!", "times": []}
+{"id": "eval2-00346", "slice": "implicit", "text": "Hello! If you're coming to the milonga in Buenos Aires, be aware that the dancing doesn't really get going until 11, once all the locals have finished dinner. Please don't turn up too early.", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00347", "slice": "explicit", "text": "I pushed the hotfix at 1:55PM and the alert cleared, then it fired again at 12:20 am UTC, so it's not fully fixed.", "times": [{"text": "1:55PM", "minute": 835}, {"text": "12:20 am", "minute": 20}]}
+{"id": "eval2-00348", "slice": "implicit", "text": "The hardware store is chaos, every DIYer in town is out on the bank holiday. I got there at 11 and the car park was still full before lunch, so Im giving up on the hinges.", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00349", "slice": "implicit", "text": "Hi, we'll queue for Father Christmas at the store grotto at 11, hope the slot is still open?", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00350", "slice": "cue", "text": "Sorry for the late reply, my phone buzzed at 1 in the middle of the night and I only just saw your message.", "times": [{"text": "1", "minute": 60}]}
+{"id": "eval2-00351", "slice": "explicit", "text": "Ride leaves the cafe at 11:45 a.m. sharp.", "times": [{"text": "11:45 a.m.", "minute": 705}]}
+{"id": "eval2-00352", "slice": "cue", "text": "i called the bank at 11 this morning and they said the card is on its way", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00353", "slice": "range", "text": "Hi Dana, I have blocked out from 4:15 to 4:45pm for our review. Please let me know if that is convenient.", "times": [{"text": "4:15", "minute": 975}, {"text": "4:45pm", "minute": 1005}]}
+{"id": "eval2-00354", "slice": "none", "text": "Gonna crash on the sofa this afternoon, my back is killing me after the move. Text me if you nede anything.", "times": []}
+{"id": "eval2-00355", "slice": "implicit", "text": "The garden camera caught three hedgehogs at the feeding station at 11:30 while we were both in bed, check the clip, they're so adorible.", "times": [{"text": "11:30", "minute": 1410}]}
+{"id": "eval2-00356", "slice": "implicit", "text": "the falla in the square goes up in flames at 10:30 on the last day of las fallas, long after dark, so come hungry and wear old clothes", "times": [{"text": "10:30", "minute": 1350}]}
+{"id": "eval2-00357", "slice": "implicit", "text": "Hello love, the angling match on the river finishes with the weigh-in at 2:30, so I should be home for tea soon after. I have been on the bank since dawn.", "times": [{"text": "2:30", "minute": 870}]}
+{"id": "eval2-00358", "slice": "range", "text": "Hi, I hope you do not mind, but friends are visiting from 3:15 to 6:15 p.m. on Saturday. We will keep the noise down.", "times": [{"text": "3:15", "minute": 915}, {"text": "6:15 p.m.", "minute": 1095}]}
+{"id": "eval2-00359", "slice": "range", "text": "@Webb your installation call is booked from 9 to 9:30PM, please have the router unplugged.", "times": [{"text": "9", "minute": 1260}, {"text": "9:30PM", "minute": 1290}]}
+{"id": "eval2-00360", "slice": "explicit", "text": "just finished rehearsal, should be home about 10:25pm, dont wait up", "times": [{"text": "10:25pm", "minute": 1345}]}
+{"id": "eval2-00361", "slice": "explicit", "text": "Deploy window opens at 11PM, I'll watch the logs.", "times": [{"text": "11PM", "minute": 1380}]}
+{"id": "eval2-00362", "slice": "explicit", "text": "Customer call moved to 9:40 am, plese update your calendars.", "times": [{"text": "9:40 am", "minute": 580}]}
+{"id": "eval2-00363", "slice": "implicit", "text": "Ugh, I spent hours in A&E with a friend who cut his head open after the clubs shut, we were finally seen at 2:30. Now I'm on holiday and tourists are already putting towels on the sun loungers at 8 before breakfast. I need coffee.", "times": [{"text": "2:30", "minute": 150}, {"text": "8", "minute": 480}]}
+{"id": "eval2-00364", "slice": "none", "text": "Hello, the electricity bill came to £84 this month, so your half is £42. Could you transfer it when you can? Thank you.", "times": []}
+{"id": "eval2-00365", "slice": "explicit", "text": "dinner at gran's is at 19:30 so dont be late", "times": [{"text": "19:30", "minute": 1170}]}
+{"id": "eval2-00366", "slice": "implicit", "text": "I can't do the parish council meeting in the village hall, it's at 7 and my antenatal class at the hospital is at 7:45 straight after work. Either way I'm leaving the office on time.", "times": [{"text": "7", "minute": 1140}, {"text": "7:45", "minute": 1185}]}
+{"id": "eval2-00368", "slice": "fallback", "text": "1:30 it is", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "eval2-00369", "slice": "implicit", "text": "Citizenship ceremony at the town hall is at 12, so we can celebrate with lunch afterwards 🎉 Wear something nice.", "times": [{"text": "12", "minute": 720}]}
+{"id": "eval2-00370", "slice": "range", "text": "Open water swim from 4:30 to 5:30 pm Saturday, bring a tow float 🏊", "times": [{"text": "4:30", "minute": 990}, {"text": "5:30 pm", "minute": 1050}]}
+{"id": "eval2-00371", "slice": "explicit", "text": "Presentation of the trophies is at 6:40 pm. Team photo is earlier at 5:45 p.m. and all twelve of us need to be there, so please don't be late.", "times": [{"text": "6:40 pm", "minute": 1120}, {"text": "5:45 p.m.", "minute": 1065}]}
+{"id": "eval2-00372", "slice": "implicit", "text": "gonna hit the hardware store when it opens at 10 but the bank holiday diy crowd will be queueing, then our puffin boat trip leaves at 11 in the summer holiday week and we eat lunch on the island so i might skip the shop", "times": [{"text": "10", "minute": 600}, {"text": "11", "minute": 660}]}
+{"id": "eval2-00373", "slice": "range", "text": "The meteor shower is best seen from 2 to 4 a.m. on Friday. I'm going to drive up to the dark hills. Anyone want to come?", "times": [{"text": "2", "minute": 120}, {"text": "4 a.m.", "minute": 240}]}
+{"id": "eval2-00374", "slice": "implicit", "text": "Pottery class Saturday at 11, brunch after?", "times": [{"text": "11", "minute": 660}]}
+{"id": "eval2-00375", "slice": "none", "text": "we have 14 failing tests in the checkout module, going through them now", "times": []}
+{"id": "eval2-00376", "slice": "implicit", "text": "Sorry for the silence, I'm at the emergency vet with Max after he found a bar of chocolate once the house was asleep. They only saw us at 1:30, the waiting room was empty.", "times": [{"text": "1:30", "minute": 90}]}
+{"id": "eval2-00377", "slice": "none", "text": "my 1:1 with the new manager went fine, no layoffs, just a lot of buzzwords", "times": []}
+{"id": "eval2-00378", "slice": "implicit", "text": "We're eating mooncakes in the garden at 9 to admire the full moon for Mid-Autumn Festival 🥮🌕 Come over once it's up!", "times": [{"text": "9", "minute": 1260}]}
+{"id": "eval2-00379", "slice": "none", "text": "Closed ticket INC-40712, root cause was a stale cert 🎉", "times": []}
+{"id": "eval2-00381", "slice": "explicit", "text": "the electrician says he can come at 9:30 PM but i said 9 p.m. would be better, otherwise the front door auto locks at 23:00 and he cant get in", "times": [{"text": "9:30 PM", "minute": 1290}, {"text": "9 p.m.", "minute": 1260}, {"text": "23:00", "minute": 1380}]}
+{"id": "eval2-00382", "slice": "cue", "text": "I'm back from the gym at 6 in the evening, so start the pasta without me.", "times": [{"text": "6", "minute": 1080}]}
+{"id": "eval2-00383", "slice": "range", "text": "Pitch is booked 6:30 to 8PM, so be there early to warm up.", "times": [{"text": "6:30", "minute": 1110}, {"text": "8PM", "minute": 1200}]}
+{"id": "eval2-00384", "slice": "explicit", "text": "standup overran by 20 minutes again so i missed the 2:35pm deploy", "times": [{"text": "2:35pm", "minute": 875}]}
+{"id": "eval2-00385", "slice": "implicit", "text": "We're leaving at 5 to beat the holiday traffic, still dark and the kids are already in the car in pjs 😴", "times": [{"text": "5", "minute": 300}]}
+{"id": "eval2-00386", "slice": "none", "text": "Back in a bit, need anything?", "times": []}
+{"id": "eval2-00387", "slice": "implicit", "text": "the monthly siren test is at 11:30 so everyone is still at their desks, dont panic. also the hedgehogs only show up on the garden camera at 11 when the whole street is in bed", "times": [{"text": "11:30", "minute": 690}, {"text": "11", "minute": 1380}]}
+{"id": "eval2-00388", "slice": "cue", "text": "Just got back from the trail run, I was on the path by 7:50 this morning and the mud was knee deep, my shoes are rruined.", "times": [{"text": "7:50", "minute": 470}]}
+{"id": "eval2-00389", "slice": "range", "text": "@Jules the airport shuttle will be buzzing the intercom between 5 and 6:30AM, sorry in advance", "times": [{"text": "5", "minute": 300}, {"text": "6:30AM", "minute": 390}]}
+{"id": "eval2-00390", "slice": "none", "text": "It should only take about 20 minutes to walk through, I'll share my screen.", "times": []}
+{"id": "eval2-00391", "slice": "implicit", "text": "Hello everyone, for those of us helping at the school canteen, the youngest pupils' lunch sitting is at 11:45, so please arrive before they line up.", "times": [{"text": "11:45", "minute": 705}]}
+{"id": "eval2-00392", "slice": "implicit", "text": "@Tom it's results day at the school, the office opens at 8:30 for collection, so I'll be in late.", "times": [{"text": "8:30", "minute": 510}]}
+{"id": "eval2-00393", "slice": "none", "text": "Your package arrived, order 55892 is on the hall table. I didn't open it, honest, but it rattel when I moved it.", "times": []}
+{"id": "eval2-00394", "slice": "cue", "text": "i finish the shift at 10 tonight so dont wait up", "times": [{"text": "10", "minute": 1320}]}
+{"id": "eval2-00395", "slice": "cue", "text": "Pushing the patch live at 11 late tonight 🚀 hold merges until then", "times": [{"text": "11", "minute": 1380}]}
+{"id": "eval2-00396", "slice": "none", "text": "We have 4 chairs left in stock.", "times": []}
+{"id": "eval2-00397", "slice": "explicit", "text": "Dear Mr Green, the engineers will arrive at 06:45 and expect to be on site for about 3 hours, with a team of four. Thank you for your patience.", "times": [{"text": "06:45", "minute": 405}]}
+{"id": "eval2-00398", "slice": "cue", "text": "Pager went off at 2 in the middle of the night again, can someone else take the rota next week? I'm knackerd.", "times": [{"text": "2", "minute": 120}]}
+{"id": "eval2-00399", "slice": "none", "text": "Did you see the match? We won 4-1. I'm still buzzing.", "times": []}
